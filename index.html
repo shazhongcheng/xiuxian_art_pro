@@ -8,14 +8,35 @@
     <link rel="stylesheet" href="TemplateData/style.css">
     <style>
       /* 伪全屏核心样式 */
-      body { margin: 0; padding: 0; overflow: hidden; width: 100vw; height: 100vh; }
-      #unity-container { width: 100% !important; height: 100% !important; position: absolute; top: 0; left: 0; }
+      body { margin: 0; padding: 0; overflow: hidden; width: 100vw; height: 100vh; background: #231f20; }
+      #unity-container { width: 100% !important; height: 100% !important; position: absolute; top: 0; left: 0; display: none; }
       #unity-canvas { width: 100% !important; height: 100% !important; background: #231f20; }
-      #unity-footer { display: none; } /* 隐藏下方碍眼的工具栏 */
-      #unity-loading-bar { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); }
+      #unity-footer { display: none; }
+      #unity-loading-bar { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); display: none; }
+      
+      /* 启动遮罩层 */
+      #start-mask {
+        position: absolute; width: 100vw; height: 100vh; top: 0; left: 0;
+        background: #231f20; color: white; display: flex; flex-direction: column;
+        align-items: center; justify-content: center; z-index: 999; cursor: pointer;
+      }
+      .play-button {
+        width: 80px; height: 80px; border-radius: 50%; background: white;
+        display: flex; align-items: center; justify-content: center; margin-bottom: 20px;
+      }
+      .play-button::after {
+        content: ''; display: block; width: 0; height: 0;
+        border-top: 15px solid transparent; border-bottom: 15px solid transparent;
+        border-left: 25px solid #231f20; margin-left: 5px;
+      }
     </style>
   </head>
   <body>
+    <div id="start-mask" onclick="startLoading()">
+      <div class="play-button"></div>
+      <p>点击进入游戏</p>
+    </div>
+
     <div id="unity-container">
       <canvas id="unity-canvas"></canvas>
       <div id="unity-loading-bar">
@@ -26,12 +47,14 @@
       </div>
       <div id="unity-warning"> </div>
     </div>
+
     <script>
       var container = document.querySelector("#unity-container");
       var canvas = document.querySelector("#unity-canvas");
       var loadingBar = document.querySelector("#unity-loading-bar");
       var progressBarFull = document.querySelector("#unity-progress-bar-full");
       var warningBanner = document.querySelector("#unity-warning");
+      var startMask = document.querySelector("#start-mask");
 
       function unityShowBanner(msg, type) {
         function updateBannerVisibility() {
@@ -62,9 +85,39 @@
         productName: "Project",
         productVersion: "1.0",
         showBanner: unityShowBanner,
-        // 关键配置：让渲染分辨率跟随 Canvas DOM 大小
         devicePixelRatio: window.devicePixelRatio || 1, 
       };
+
+      // 核心控制逻辑：用户点击后才执行
+      function startLoading() {
+        // 隐藏遮罩，显示容器和加载条
+        startMask.style.display = "none";
+        container.style.display = "block";
+        loadingBar.style.display = "block";
+
+        var script = document.createElement("script");
+        script.src = loaderUrl;
+        script.onload = () => {
+          createUnityInstance(canvas, config, (progress) => {
+            progressBarFull.style.width = 100 * progress + "%";
+          }).then((unityInstance) => {
+            loadingBar.style.display = "none";
+            
+            // 额外保险：用户点击时强制恢复 AudioContext
+            const audioHandler = () => {
+              if (unityInstance.Module.asmLibraryArg && unityInstance.Module.asmLibraryArg._JS_Sound_Resume) {
+                unityInstance.Module.asmLibraryArg._JS_Sound_Resume();
+              }
+              window.removeEventListener('mousedown', audioHandler);
+            };
+            window.addEventListener('mousedown', audioHandler);
+
+          }).catch((message) => {
+            alert(message);
+          });
+        };
+        document.body.appendChild(script);
+      }
 
       // 移动端适配
       if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
@@ -73,21 +126,6 @@
         meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
         document.getElementsByTagName('head')[0].appendChild(meta);
       }
-
-      loadingBar.style.display = "block";
-
-      var script = document.createElement("script");
-      script.src = loaderUrl;
-      script.onload = () => {
-        createUnityInstance(canvas, config, (progress) => {
-          progressBarFull.style.width = 100 * progress + "%";
-        }).then((unityInstance) => {
-          loadingBar.style.display = "none";
-        }).catch((message) => {
-          alert(message);
-        });
-      };
-      document.body.appendChild(script);
     </script>
   </body>
 </html>
