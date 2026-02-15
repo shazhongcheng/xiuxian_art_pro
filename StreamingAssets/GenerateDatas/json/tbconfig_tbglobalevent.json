@@ -1,0 +1,74 @@
+[
+  {
+    "Id": 100,
+    "Name": "incident_name_100",
+    "Category": 1,
+    "Group": 1,
+    "IsStoryEvent": false,
+    "EntryModeTimes": 18000,
+    "RewardWeight": 1.2,
+    "Weight": 1,
+    "BaseProb": 0.65,
+    "Random": [
+      0.8,
+      1.2
+    ],
+    "BaseWealthThreshold": 500,
+    "MinRepeat": 42000,
+    "TriggerBaseProb": 1,
+    "TriggerRandom": [
+      100
+    ],
+    "TriggerBaseWealthThreshold": [],
+    "ExclusionGroup": 1
+  },
+  {
+    "Id": 200,
+    "Name": "incident_name_200",
+    "Category": 2,
+    "Group": 2,
+    "IsStoryEvent": false,
+    "EntryModeTimes": 0,
+    "RewardWeight": 0.8,
+    "Weight": 1.2,
+    "BaseProb": 0.7,
+    "Random": [
+      1,
+      1.5
+    ],
+    "BaseWealthThreshold": 100,
+    "MinRepeat": 42000,
+    "TriggerBaseProb": 1,
+    "TriggerRandom": [
+      50
+    ],
+    "TriggerBaseWealthThreshold": [
+      -10,
+      40
+    ],
+    "ExclusionGroup": 2
+  },
+  {
+    "Id": 300,
+    "Name": "incident_name_300",
+    "Category": 3,
+    "Group": 3,
+    "IsStoryEvent": false,
+    "EntryModeTimes": 0,
+    "RewardWeight": 0.5,
+    "Weight": 0.5,
+    "BaseProb": 0.3,
+    "Random": [
+      0.5,
+      1.1
+    ],
+    "BaseWealthThreshold": 800,
+    "MinRepeat": 60000,
+    "TriggerBaseProb": 1,
+    "TriggerRandom": [
+      200
+    ],
+    "TriggerBaseWealthThreshold": [],
+    "ExclusionGroup": 3
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "Id": 300010,
+    "Name": "Fruitname_300010",
+    "Trait": 0,
+    "StageRank": 1
+  },
+  {
+    "Id": 300020,
+    "Name": "Fruitname_300020",
+    "Trait": 0,
+    "StageRank": 1
+  },
+  {
+    "Id": 300030,
+    "Name": "Fruitname_300030",
+    "Trait": 0,
+    "StageRank": 1
+  },
+  {
+    "Id": 300040,
+    "Name": "Fruitname_300040",
+    "Trait": 0,
+    "StageRank": 1
+  },
+  {
+    "Id": 300050,
+    "Name": "Fruitname_300050",
+    "Trait": 0,
+    "StageRank": 1
+  },
+  {
+    "Id": 300060,
+    "Name": "Fruitname_300060",
+    "Trait": 1,
+    "StageRank": 1
+  },
+  {
+    "Id": 300061,
+    "Name": "Fruitname_300061",
+    "Trait": 1,
+    "StageRank": 2
+  },
+  {
+    "Id": 300062,
+    "Name": "Fruitname_300062",
+    "Trait": 1,
+    "StageRank": 3
+  },
+  {
+    "Id": 300063,
+    "Name": "Fruitname_300063",
+    "Trait": 1,
+    "StageRank": 4
+  },
+  {
+    "Id": 300070,
+    "Name": "Fruitname_300070",
+    "Trait": 1,
+    "StageRank": 1
+  },
+  {
+    "Id": 300071,
+    "Name": "Fruitname_300071",
+    "Trait": 1,
+    "StageRank": 2
+  },
+  {
+    "Id": 300072,
+    "Name": "Fruitname_300072",
+    "Trait": 1,
+    "StageRank": 3
+  },
+  {
+    "Id": 300073,
+    "Name": "Fruitname_300073",
+    "Trait": 1,
+    "StageRank": 4
+  },
+  {
+    "Id": 300080,
+    "Name": "Fruitname_300080",
+    "Trait": 1,
+    "StageRank": 1
+  },
+  {
+    "Id": 300081,
+    "Name": "Fruitname_300081",
+    "Trait": 1,
+    "StageRank": 2
+  },
+  {
+    "Id": 300082,
+    "Name": "Fruitname_300082",
+    "Trait": 1,
+    "StageRank": 3
+  },
+  {
+    "Id": 300083,
+    "Name": "Fruitname_300083",
+    "Trait": 1,
+    "StageRank": 4
+  },
+  {
+    "Id": 300090,
+    "Name": "Fruitname_300090",
+    "Trait": 1,
+    "StageRank": 1
+  },
+  {
+    "Id": 300091,
+    "Name": "Fruitname_300091",
+    "Trait": 1,
+    "StageRank": 2
+  },
+  {
+    "Id": 300092,
+    "Name": "Fruitname_300092",
+    "Trait": 1,
+    "StageRank": 3
+  },
+  {
+    "Id": 300093,
+    "Name": "Fruitname_300093",
+    "Trait": 1,
+    "StageRank": 4
+  },
+  {
+    "Id": 300100,
+    "Name": "Fruitname_300100",
+    "Trait": 1,
+    "StageRank": 1
+  },
+  {
+    "Id": 300101,
+    "Name": "Fruitname_300101",
+    "Trait": 1,
+    "StageRank": 2
+  },
+  {
+    "Id": 300102,
+    "Name": "Fruitname_300102",
+    "Trait": 1,
+    "StageRank": 3
+  },
+  {
+    "Id": 300103,
+    "Name": "Fruitname_300103",
+    "Trait": 1,
+    "StageRank": 4
+  },
+  {
+    "Id": 300110,
+    "Name": "Fruitname_300110",
+    "Trait": 2,
+    "StageRank": 1
+  },
+  {
+    "Id": 300111,
+    "Name": "Fruitname_300111",
+    "Trait": 2,
+    "StageRank": 2
+  },
+  {
+    "Id": 300112,
+    "Name": "Fruitname_300112",
+    "Trait": 2,
+    "StageRank": 3
+  },
+  {
+    "Id": 300113,
+    "Name": "Fruitname_300113",
+    "Trait": 2,
+    "StageRank": 4
+  },
+  {
+    "Id": 300120,
+    "Name": "Fruitname_300120",
+    "Trait": 2,
+    "StageRank": 1
+  },
+  {
+    "Id": 300121,
+    "Name": "Fruitname_300121",
+    "Trait": 2,
+    "StageRank": 2
+  },
+  {
+    "Id": 300122,
+    "Name": "Fruitname_300122",
+    "Trait": 2,
+    "StageRank": 3
+  },
+  {
+    "Id": 300123,
+    "Name": "Fruitname_300123",
+    "Trait": 2,
+    "StageRank": 4
+  },
+  {
+    "Id": 300130,
+    "Name": "Fruitname_300130",
+    "Trait": 2,
+    "StageRank": 1
+  },
+  {
+    "Id": 300131,
+    "Name": "Fruitname_300131",
+    "Trait": 2,
+    "StageRank": 2
+  },
+  {
+    "Id": 300132,
+    "Name": "Fruitname_300132",
+    "Trait": 2,
+    "StageRank": 3
+  },
+  {
+    "Id": 300133,
+    "Name": "Fruitname_300133",
+    "Trait": 2,
+    "StageRank": 4
+  },
+  {
+    "Id": 300140,
+    "Name": "Fruitname_300140",
+    "Trait": 2,
+    "StageRank": 1
+  },
+  {
+    "Id": 300141,
+    "Name": "Fruitname_300141",
+    "Trait": 2,
+    "StageRank": 2
+  },
+  {
+    "Id": 300142,
+    "Name": "Fruitname_300142",
+    "Trait": 2,
+    "StageRank": 3
+  },
+  {
+    "Id": 300143,
+    "Name": "Fruitname_300143",
+    "Trait": 2,
+    "StageRank": 4
+  },
+  {
+    "Id": 300150,
+    "Name": "Fruitname_300150",
+    "Trait": 2,
+    "StageRank": 1
+  },
+  {
+    "Id": 300151,
+    "Name": "Fruitname_300151",
+    "Trait": 2,
+    "StageRank": 2
+  },
+  {
+    "Id": 300152,
+    "Name": "Fruitname_300152",
+    "Trait": 2,
+    "StageRank": 3
+  },
+  {
+    "Id": 300153,
+    "Name": "Fruitname_300153",
+    "Trait": 2,
+    "StageRank": 4
+  },
+  {
+    "Id": 300160,
+    "Name": "Fruitname_300160",
+    "Trait": 3,
+    "StageRank": 1
+  },
+  {
+    "Id": 300161,
+    "Name": "Fruitname_300161",
+    "Trait": 3,
+    "StageRank": 2
+  },
+  {
+    "Id": 300162,
+    "Name": "Fruitname_300162",
+    "Trait": 3,
+    "StageRank": 3
+  },
+  {
+    "Id": 300163,
+    "Name": "Fruitname_300163",
+    "Trait": 3,
+    "StageRank": 4
+  },
+  {
+    "Id": 300170,
+    "Name": "Fruitname_300170",
+    "Trait": 3,
+    "StageRank": 1
+  },
+  {
+    "Id": 300171,
+    "Name": "Fruitname_300171",
+    "Trait": 3,
+    "StageRank": 2
+  },
+  {
+    "Id": 300172,
+    "Name": "Fruitname_300172",
+    "Trait": 3,
+    "StageRank": 3
+  },
+  {
+    "Id": 300173,
+    "Name": "Fruitname_300173",
+    "Trait": 3,
+    "StageRank": 4
+  },
+  {
+    "Id": 300180,
+    "Name": "Fruitname_300180",
+    "Trait": 3,
+    "StageRank": 1
+  },
+  {
+    "Id": 300181,
+    "Name": "Fruitname_300181",
+    "Trait": 3,
+    "StageRank": 2
+  },
+  {
+    "Id": 300182,
+    "Name": "Fruitname_300182",
+    "Trait": 3,
+    "StageRank": 3
+  },
+  {
+    "Id": 300183,
+    "Name": "Fruitname_300183",
+    "Trait": 3,
+    "StageRank": 4
+  },
+  {
+    "Id": 300190,
+    "Name": "Fruitname_300190",
+    "Trait": 3,
+    "StageRank": 1
+  },
+  {
+    "Id": 300191,
+    "Name": "Fruitname_300191",
+    "Trait": 3,
+    "StageRank": 2
+  },
+  {
+    "Id": 300192,
+    "Name": "Fruitname_300192",
+    "Trait": 3,
+    "StageRank": 3
+  },
+  {
+    "Id": 300193,
+    "Name": "Fruitname_300193",
+    "Trait": 3,
+    "StageRank": 4
+  },
+  {
+    "Id": 300200,
+    "Name": "Fruitname_300200",
+    "Trait": 3,
+    "StageRank": 1
+  },
+  {
+    "Id": 300201,
+    "Name": "Fruitname_300201",
+    "Trait": 3,
+    "StageRank": 2
+  },
+  {
+    "Id": 300202,
+    "Name": "Fruitname_300202",
+    "Trait": 3,
+    "StageRank": 3
+  },
+  {
+    "Id": 300203,
+    "Name": "Fruitname_300203",
+    "Trait": 3,
+    "StageRank": 4
+  },
+  {
+    "Id": 300210,
+    "Name": "Fruitname_300210",
+    "Trait": 4,
+    "StageRank": 1
+  },
+  {
+    "Id": 300211,
+    "Name": "Fruitname_300211",
+    "Trait": 4,
+    "StageRank": 2
+  },
+  {
+    "Id": 300212,
+    "Name": "Fruitname_300212",
+    "Trait": 4,
+    "StageRank": 3
+  },
+  {
+    "Id": 300213,
+    "Name": "Fruitname_300213",
+    "Trait": 4,
+    "StageRank": 4
+  },
+  {
+    "Id": 300220,
+    "Name": "Fruitname_300220",
+    "Trait": 4,
+    "StageRank": 1
+  },
+  {
+    "Id": 300221,
+    "Name": "Fruitname_300221",
+    "Trait": 4,
+    "StageRank": 2
+  },
+  {
+    "Id": 300222,
+    "Name": "Fruitname_300222",
+    "Trait": 4,
+    "StageRank": 3
+  },
+  {
+    "Id": 300223,
+    "Name": "Fruitname_300223",
+    "Trait": 4,
+    "StageRank": 4
+  },
+  {
+    "Id": 300230,
+    "Name": "Fruitname_300230",
+    "Trait": 4,
+    "StageRank": 1
+  },
+  {
+    "Id": 300231,
+    "Name": "Fruitname_300231",
+    "Trait": 4,
+    "StageRank": 2
+  },
+  {
+    "Id": 300232,
+    "Name": "Fruitname_300232",
+    "Trait": 4,
+    "StageRank": 3
+  },
+  {
+    "Id": 300233,
+    "Name": "Fruitname_300233",
+    "Trait": 4,
+    "StageRank": 4
+  },
+  {
+    "Id": 300240,
+    "Name": "Fruitname_300240",
+    "Trait": 4,
+    "StageRank": 1
+  },
+  {
+    "Id": 300241,
+    "Name": "Fruitname_300241",
+    "Trait": 4,
+    "StageRank": 2
+  },
+  {
+    "Id": 300242,
+    "Name": "Fruitname_300242",
+    "Trait": 4,
+    "StageRank": 3
+  },
+  {
+    "Id": 300243,
+    "Name": "Fruitname_300243",
+    "Trait": 4,
+    "StageRank": 4
+  },
+  {
+    "Id": 300250,
+    "Name": "Fruitname_300250",
+    "Trait": 4,
+    "StageRank": 1
+  },
+  {
+    "Id": 300251,
+    "Name": "Fruitname_300251",
+    "Trait": 4,
+    "StageRank": 2
+  },
+  {
+    "Id": 300252,
+    "Name": "Fruitname_300252",
+    "Trait": 4,
+    "StageRank": 3
+  },
+  {
+    "Id": 300253,
+    "Name": "Fruitname_300253",
+    "Trait": 4,
+    "StageRank": 4
+  },
+  {
+    "Id": 300260,
+    "Name": "Fruitname_300260",
+    "Trait": 5,
+    "StageRank": 1
+  },
+  {
+    "Id": 300261,
+    "Name": "Fruitname_300261",
+    "Trait": 5,
+    "StageRank": 2
+  },
+  {
+    "Id": 300262,
+    "Name": "Fruitname_300262",
+    "Trait": 5,
+    "StageRank": 3
+  },
+  {
+    "Id": 300263,
+    "Name": "Fruitname_300263",
+    "Trait": 5,
+    "StageRank": 4
+  },
+  {
+    "Id": 300270,
+    "Name": "Fruitname_300270",
+    "Trait": 5,
+    "StageRank": 1
+  },
+  {
+    "Id": 300271,
+    "Name": "Fruitname_300271",
+    "Trait": 5,
+    "StageRank": 2
+  },
+  {
+    "Id": 300272,
+    "Name": "Fruitname_300272",
+    "Trait": 5,
+    "StageRank": 3
+  },
+  {
+    "Id": 300273,
+    "Name": "Fruitname_300273",
+    "Trait": 5,
+    "StageRank": 4
+  },
+  {
+    "Id": 300280,
+    "Name": "Fruitname_300280",
+    "Trait": 5,
+    "StageRank": 1
+  },
+  {
+    "Id": 300281,
+    "Name": "Fruitname_300281",
+    "Trait": 5,
+    "StageRank": 2
+  },
+  {
+    "Id": 300282,
+    "Name": "Fruitname_300282",
+    "Trait": 5,
+    "StageRank": 3
+  },
+  {
+    "Id": 300283,
+    "Name": "Fruitname_300283",
+    "Trait": 5,
+    "StageRank": 4
+  },
+  {
+    "Id": 300290,
+    "Name": "Fruitname_300290",
+    "Trait": 5,
+    "StageRank": 1
+  },
+  {
+    "Id": 300291,
+    "Name": "Fruitname_300291",
+    "Trait": 5,
+    "StageRank": 2
+  },
+  {
+    "Id": 300292,
+    "Name": "Fruitname_300292",
+    "Trait": 5,
+    "StageRank": 3
+  },
+  {
+    "Id": 300293,
+    "Name": "Fruitname_300293",
+    "Trait": 5,
+    "StageRank": 4
+  },
+  {
+    "Id": 300300,
+    "Name": "Fruitname_300300",
+    "Trait": 5,
+    "StageRank": 1
+  },
+  {
+    "Id": 300301,
+    "Name": "Fruitname_300301",
+    "Trait": 5,
+    "StageRank": 2
+  },
+  {
+    "Id": 300302,
+    "Name": "Fruitname_300302",
+    "Trait": 5,
+    "StageRank": 3
+  },
+  {
+    "Id": 300303,
+    "Name": "Fruitname_300303",
+    "Trait": 5,
+    "StageRank": 4
+  }
+]

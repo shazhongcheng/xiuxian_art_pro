@@ -1,0 +1,73 @@
+[
+  {
+    "Id": 101,
+    "Type": 1,
+    "Name": "item_tap_101",
+    "TypeValue": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "RedPoint": 0,
+    "SynthesisBtn": 0,
+    "DecomposeBtn": 0,
+    "Icon": "ui_bb_yeqian_qb"
+  },
+  {
+    "Id": 102,
+    "Type": 1,
+    "Name": "item_tap_102",
+    "TypeValue": [
+      4
+    ],
+    "RedPoint": 0,
+    "SynthesisBtn": 0,
+    "DecomposeBtn": 0,
+    "Icon": "ui_bb_yeqian_zb"
+  },
+  {
+    "Id": 103,
+    "Type": 1,
+    "Name": "item_tap_103",
+    "TypeValue": [
+      6,
+      7,
+      8
+    ],
+    "RedPoint": 0,
+    "SynthesisBtn": 0,
+    "DecomposeBtn": 0,
+    "Icon": "ui_bb_yeqian_cy"
+  },
+  {
+    "Id": 104,
+    "Type": 1,
+    "Name": "item_tap_104",
+    "TypeValue": [
+      5
+    ],
+    "RedPoint": 0,
+    "SynthesisBtn": 0,
+    "DecomposeBtn": 0,
+    "Icon": "ui_bb_yeqian_dy"
+  },
+  {
+    "Id": 105,
+    "Type": 1,
+    "Name": "item_tap_105",
+    "TypeValue": [
+      1,
+      2,
+      3
+    ],
+    "RedPoint": 0,
+    "SynthesisBtn": 0,
+    "DecomposeBtn": 0,
+    "Icon": "ui_bb_yeqian_cl"
+  }
+]

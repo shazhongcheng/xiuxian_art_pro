@@ -1,0 +1,331 @@
+[
+  {
+    "Id": 1,
+    "FarmEffectId": 1001,
+    "EffectValue": [
+      200,
+      1
+    ],
+    "ElementId": []
+  },
+  {
+    "Id": 2,
+    "FarmEffectId": 5001,
+    "EffectValue": [
+      101,
+      1000
+    ],
+    "ElementId": [
+      1
+    ]
+  },
+  {
+    "Id": 3,
+    "FarmEffectId": 5001,
+    "EffectValue": [
+      103,
+      -1000
+    ],
+    "ElementId": [
+      2
+    ]
+  },
+  {
+    "Id": 4,
+    "FarmEffectId": 5001,
+    "EffectValue": [
+      102,
+      2500
+    ],
+    "ElementId": [
+      3
+    ]
+  },
+  {
+    "Id": 5,
+    "FarmEffectId": 5001,
+    "EffectValue": [
+      103,
+      -1000
+    ],
+    "ElementId": [
+      4
+    ]
+  },
+  {
+    "Id": 6,
+    "FarmEffectId": 5001,
+    "EffectValue": [
+      102,
+      2500
+    ],
+    "ElementId": [
+      5
+    ]
+  },
+  {
+    "Id": 7,
+    "FarmEffectId": 1002,
+    "EffectValue": [
+      200,
+      2
+    ],
+    "ElementId": []
+  },
+  {
+    "Id": 8,
+    "FarmEffectId": 5002,
+    "EffectValue": [
+      103,
+      -1000
+    ],
+    "ElementId": [
+      1
+    ]
+  },
+  {
+    "Id": 9,
+    "FarmEffectId": 5002,
+    "EffectValue": [
+      101,
+      1000
+    ],
+    "ElementId": [
+      2
+    ]
+  },
+  {
+    "Id": 10,
+    "FarmEffectId": 5002,
+    "EffectValue": [
+      102,
+      2500
+    ],
+    "ElementId": [
+      3
+    ]
+  },
+  {
+    "Id": 11,
+    "FarmEffectId": 5002,
+    "EffectValue": [
+      102,
+      2500
+    ],
+    "ElementId": [
+      4
+    ]
+  },
+  {
+    "Id": 12,
+    "FarmEffectId": 5002,
+    "EffectValue": [
+      103,
+      -1000
+    ],
+    "ElementId": [
+      5
+    ]
+  },
+  {
+    "Id": 13,
+    "FarmEffectId": 1003,
+    "EffectValue": [
+      200,
+      3
+    ],
+    "ElementId": []
+  },
+  {
+    "Id": 14,
+    "FarmEffectId": 5003,
+    "EffectValue": [
+      102,
+      2500
+    ],
+    "ElementId": [
+      1
+    ]
+  },
+  {
+    "Id": 15,
+    "FarmEffectId": 5003,
+    "EffectValue": [
+      102,
+      2500
+    ],
+    "ElementId": [
+      2
+    ]
+  },
+  {
+    "Id": 16,
+    "FarmEffectId": 5003,
+    "EffectValue": [
+      101,
+      1000
+    ],
+    "ElementId": [
+      3
+    ]
+  },
+  {
+    "Id": 17,
+    "FarmEffectId": 5003,
+    "EffectValue": [
+      103,
+      -1000
+    ],
+    "ElementId": [
+      4
+    ]
+  },
+  {
+    "Id": 18,
+    "FarmEffectId": 5003,
+    "EffectValue": [
+      103,
+      -1000
+    ],
+    "ElementId": [
+      5
+    ]
+  },
+  {
+    "Id": 19,
+    "FarmEffectId": 1004,
+    "EffectValue": [
+      200,
+      4
+    ],
+    "ElementId": []
+  },
+  {
+    "Id": 20,
+    "FarmEffectId": 5004,
+    "EffectValue": [
+      103,
+      -1000
+    ],
+    "ElementId": [
+      1
+    ]
+  },
+  {
+    "Id": 21,
+    "FarmEffectId": 5004,
+    "EffectValue": [
+      102,
+      2500
+    ],
+    "ElementId": [
+      2
+    ]
+  },
+  {
+    "Id": 22,
+    "FarmEffectId": 5004,
+    "EffectValue": [
+      103,
+      -1000
+    ],
+    "ElementId": [
+      3
+    ]
+  },
+  {
+    "Id": 23,
+    "FarmEffectId": 5004,
+    "EffectValue": [
+      101,
+      1000
+    ],
+    "ElementId": [
+      4
+    ]
+  },
+  {
+    "Id": 24,
+    "FarmEffectId": 5004,
+    "EffectValue": [
+      102,
+      2500
+    ],
+    "ElementId": [
+      5
+    ]
+  },
+  {
+    "Id": 25,
+    "FarmEffectId": 1005,
+    "EffectValue": [
+      200,
+      5
+    ],
+    "ElementId": []
+  },
+  {
+    "Id": 26,
+    "FarmEffectId": 5005,
+    "EffectValue": [
+      102,
+      2500
+    ],
+    "ElementId": [
+      1
+    ]
+  },
+  {
+    "Id": 27,
+    "FarmEffectId": 5005,
+    "EffectValue": [
+      103,
+      -1000
+    ],
+    "ElementId": [
+      2
+    ]
+  },
+  {
+    "Id": 28,
+    "FarmEffectId": 5005,
+    "EffectValue": [
+      103,
+      -1000
+    ],
+    "ElementId": [
+      3
+    ]
+  },
+  {
+    "Id": 29,
+    "FarmEffectId": 5005,
+    "EffectValue": [
+      102,
+      2500
+    ],
+    "ElementId": [
+      4
+    ]
+  },
+  {
+    "Id": 30,
+    "FarmEffectId": 5005,
+    "EffectValue": [
+      101,
+      1000
+    ],
+    "ElementId": [
+      5
+    ]
+  },
+  {
+    "Id": 31,
+    "FarmEffectId": 1006,
+    "EffectValue": [
+      200,
+      0
+    ],
+    "ElementId": []
+  }
+]

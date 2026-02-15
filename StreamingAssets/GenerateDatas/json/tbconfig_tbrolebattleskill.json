@@ -1,0 +1,34 @@
+[
+  {
+    "SkillId": 1,
+    "SkillKind": 1,
+    "Name": "普通攻击",
+    "Rank": 1,
+    "TargetType": 1,
+    "TriggerType": 0,
+    "Icon": "",
+    "MaxLevel": 0,
+    "VisualCastEffect": 0,
+    "VisualCastAnim": 0,
+    "VisualCastSound": 0,
+    "VisualHitEffect": 0,
+    "VisualFloatingText": 0,
+    "VisualTextColor": 0
+  },
+  {
+    "SkillId": 2,
+    "SkillKind": 1,
+    "Name": "强化攻击",
+    "Rank": 2,
+    "TargetType": 1,
+    "TriggerType": 0,
+    "Icon": "",
+    "MaxLevel": 0,
+    "VisualCastEffect": 0,
+    "VisualCastAnim": 0,
+    "VisualCastSound": 0,
+    "VisualHitEffect": 0,
+    "VisualFloatingText": 0,
+    "VisualTextColor": 0
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "Id": 101,
+    "Name": "",
+    "AddType": 1,
+    "InitValue": 0,
+    "MinValue": [],
+    "MaxValue": [],
+    "Desc": ""
+  },
+  {
+    "Id": 102,
+    "Name": "",
+    "AddType": 1,
+    "InitValue": 0,
+    "MinValue": [],
+    "MaxValue": [],
+    "Desc": ""
+  },
+  {
+    "Id": 103,
+    "Name": "",
+    "AddType": 1,
+    "InitValue": 0,
+    "MinValue": [],
+    "MaxValue": [],
+    "Desc": ""
+  },
+  {
+    "Id": 200,
+    "Name": "",
+    "AddType": 2,
+    "InitValue": 0,
+    "MinValue": [],
+    "MaxValue": [],
+    "Desc": ""
+  },
+  {
+    "Id": 301,
+    "Name": "attr_name_301",
+    "AddType": 1,
+    "InitValue": 0,
+    "MinValue": [],
+    "MaxValue": [],
+    "Desc": ""
+  },
+  {
+    "Id": 302,
+    "Name": "attr_name_302",
+    "AddType": 1,
+    "InitValue": 0,
+    "MinValue": [],
+    "MaxValue": [],
+    "Desc": ""
+  },
+  {
+    "Id": 303,
+    "Name": "attr_name_303",
+    "AddType": 1,
+    "InitValue": 0,
+    "MinValue": [],
+    "MaxValue": [],
+    "Desc": ""
+  },
+  {
+    "Id": 304,
+    "Name": "attr_name_304",
+    "AddType": 1,
+    "InitValue": 0,
+    "MinValue": [],
+    "MaxValue": [],
+    "Desc": ""
+  },
+  {
+    "Id": 305,
+    "Name": "attr_name_305",
+    "AddType": 1,
+    "InitValue": 0,
+    "MinValue": [],
+    "MaxValue": [],
+    "Desc": ""
+  },
+  {
+    "Id": 306,
+    "Name": "attr_name_306",
+    "AddType": 1,
+    "InitValue": 0,
+    "MinValue": [],
+    "MaxValue": [],
+    "Desc": ""
+  },
+  {
+    "Id": 307,
+    "Name": "attr_name_307",
+    "AddType": 1,
+    "InitValue": 0,
+    "MinValue": [],
+    "MaxValue": [],
+    "Desc": ""
+  },
+  {
+    "Id": 1001,
+    "Name": "attr_name_1001",
+    "AddType": 1,
+    "InitValue": 0,
+    "MinValue": [],
+    "MaxValue": [],
+    "Desc": ""
+  },
+  {
+    "Id": 1002,
+    "Name": "attr_name_1002",
+    "AddType": 1,
+    "InitValue": 0,
+    "MinValue": [],
+    "MaxValue": [],
+    "Desc": ""
+  },
+  {
+    "Id": 1003,
+    "Name": "attr_name_1003",
+    "AddType": 1,
+    "InitValue": 0,
+    "MinValue": [],
+    "MaxValue": [],
+    "Desc": ""
+  },
+  {
+    "Id": 1004,
+    "Name": "attr_name_1004",
+    "AddType": 1,
+    "InitValue": 0,
+    "MinValue": [],
+    "MaxValue": [],
+    "Desc": ""
+  },
+  {
+    "Id": 1005,
+    "Name": "attr_name_1005",
+    "AddType": 1,
+    "InitValue": 0,
+    "MinValue": [],
+    "MaxValue": [],
+    "Desc": ""
+  },
+  {
+    "Id": 1006,
+    "Name": "attr_name_1006",
+    "AddType": 1,
+    "InitValue": 0,
+    "MinValue": [],
+    "MaxValue": [],
+    "Desc": ""
+  }
+]

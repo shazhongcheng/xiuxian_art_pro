@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "Factor": 0.7,
+    "BaseEventInterval": [
+      15000
+    ],
+    "IntervalRandom": [],
+    "ThreatWeightFactor": 0.8,
+    "RewardWeightFactor": 1.2,
+    "NeutralWeightFactor": 1
+  },
+  {
+    "Id": 2,
+    "Factor": 1,
+    "BaseEventInterval": [
+      10500
+    ],
+    "IntervalRandom": [
+      -1200,
+      1200
+    ],
+    "ThreatWeightFactor": 1.2,
+    "RewardWeightFactor": 0.8,
+    "NeutralWeightFactor": 1
+  },
+  {
+    "Id": 3,
+    "Factor": 1.2,
+    "BaseEventInterval": [
+      6000,
+      18000
+    ],
+    "IntervalRandom": [
+      6000,
+      18000
+    ],
+    "ThreatWeightFactor": 2,
+    "RewardWeightFactor": 0.5,
+    "NeutralWeightFactor": 0.7
+  }
+]

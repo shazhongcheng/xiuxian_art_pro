@@ -1,0 +1,130 @@
+[
+  {
+    "BuffId": 20001,
+    "Name": "",
+    "BuffType": 1,
+    "AddType": 1,
+    "Params": [
+      [
+        20001,
+        1
+      ]
+    ],
+    "Param1": 0,
+    "Param2": 0,
+    "Param3": 0
+  },
+  {
+    "BuffId": 20002,
+    "Name": "",
+    "BuffType": 1,
+    "AddType": 1,
+    "Params": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "Param1": 0,
+    "Param2": 0,
+    "Param3": 0
+  },
+  {
+    "BuffId": 20003,
+    "Name": "",
+    "BuffType": 1,
+    "AddType": 1,
+    "Params": [
+      [
+        20003,
+        1
+      ]
+    ],
+    "Param1": 0,
+    "Param2": 0,
+    "Param3": 0
+  },
+  {
+    "BuffId": 20004,
+    "Name": "",
+    "BuffType": 1,
+    "AddType": 1,
+    "Params": [
+      [
+        20004,
+        1
+      ]
+    ],
+    "Param1": 0,
+    "Param2": 0,
+    "Param3": 0
+  },
+  {
+    "BuffId": 20005,
+    "Name": "",
+    "BuffType": 1,
+    "AddType": 1,
+    "Params": [
+      [
+        20005,
+        1
+      ]
+    ],
+    "Param1": 0,
+    "Param2": 0,
+    "Param3": 0
+  },
+  {
+    "BuffId": 20006,
+    "Name": "",
+    "BuffType": 1,
+    "AddType": 1,
+    "Params": [
+      [
+        20006,
+        1
+      ]
+    ],
+    "Param1": 0,
+    "Param2": 0,
+    "Param3": 0
+  },
+  {
+    "BuffId": 30001,
+    "Name": "",
+    "BuffType": 0,
+    "AddType": 2,
+    "Params": [
+      [
+        20001,
+        1
+      ],
+      [
+        20002,
+        2
+      ]
+    ],
+    "Param1": 0,
+    "Param2": 0,
+    "Param3": 0
+  },
+  {
+    "BuffId": 30002,
+    "Name": "",
+    "BuffType": 0,
+    "AddType": 2,
+    "Params": [
+      [
+        20001,
+        1
+      ],
+      [
+        20002,
+        2
+      ]
+    ],
+    "Param1": 0,
+    "Param2": 0,
+    "Param3": 0
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "Id": 100111,
+    "Reward": 0,
+    "Text": "ResultTxt_100111",
+    "NextEventId": 0,
+    "UnlockEventId": 0,
+    "RoleBuffIds": [
+      20001
+    ]
+  },
+  {
+    "Id": 100121,
+    "Reward": 0,
+    "Text": "ResultTxt_100121",
+    "NextEventId": 0,
+    "UnlockEventId": 0,
+    "RoleBuffIds": [
+      20002
+    ]
+  },
+  {
+    "Id": 200111,
+    "Reward": 0,
+    "Text": "ResultTxt_200111",
+    "NextEventId": 20011,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 200112,
+    "Reward": 101,
+    "Text": "ResultTxt_200112",
+    "NextEventId": 0,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 200113,
+    "Reward": 0,
+    "Text": "ResultTxt_200113",
+    "NextEventId": 0,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 200121,
+    "Reward": 0,
+    "Text": "ResultTxt_200121",
+    "NextEventId": 0,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 2001111,
+    "Reward": 102,
+    "Text": "ResultTxt_2001111",
+    "NextEventId": 0,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 2001112,
+    "Reward": 0,
+    "Text": "ResultTxt_2001112",
+    "NextEventId": 0,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 2001121,
+    "Reward": 0,
+    "Text": "ResultTxt_2001121",
+    "NextEventId": 0,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 200211,
+    "Reward": 0,
+    "Text": "ResultTxt_200211",
+    "NextEventId": 20021,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 200212,
+    "Reward": 0,
+    "Text": "ResultTxt_200212",
+    "NextEventId": 20021,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 200221,
+    "Reward": 0,
+    "Text": "ResultTxt_200221",
+    "NextEventId": 20021,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 200222,
+    "Reward": 0,
+    "Text": "ResultTxt_200222",
+    "NextEventId": 20021,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 2002111,
+    "Reward": 0,
+    "Text": "ResultTxt_2002111",
+    "NextEventId": 20022,
+    "UnlockEventId": 0,
+    "RoleBuffIds": [
+      20003
+    ]
+  },
+  {
+    "Id": 2002121,
+    "Reward": 0,
+    "Text": "ResultTxt_2002121",
+    "NextEventId": 20022,
+    "UnlockEventId": 0,
+    "RoleBuffIds": [
+      20004
+    ]
+  },
+  {
+    "Id": 2002211,
+    "Reward": 102,
+    "Text": "ResultTxt_2002211",
+    "NextEventId": 20023,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 2002212,
+    "Reward": 0,
+    "Text": "ResultTxt_2002212",
+    "NextEventId": 20023,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 2002221,
+    "Reward": 102,
+    "Text": "ResultTxt_2002221",
+    "NextEventId": 20023,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 2002222,
+    "Reward": 0,
+    "Text": "ResultTxt_2002222",
+    "NextEventId": 20023,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 2002311,
+    "Reward": 0,
+    "Text": "ResultTxt_2002311",
+    "NextEventId": 20024,
+    "UnlockEventId": 0,
+    "RoleBuffIds": [
+      20005
+    ]
+  },
+  {
+    "Id": 2002321,
+    "Reward": 0,
+    "Text": "ResultTxt_2002321",
+    "NextEventId": 20024,
+    "UnlockEventId": 0,
+    "RoleBuffIds": [
+      20003
+    ]
+  },
+  {
+    "Id": 2002411,
+    "Reward": 103,
+    "Text": "ResultTxt_2002411",
+    "NextEventId": 0,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 2002412,
+    "Reward": 0,
+    "Text": "ResultTxt_2002412",
+    "NextEventId": 0,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 2002421,
+    "Reward": 103,
+    "Text": "ResultTxt_2002421",
+    "NextEventId": 0,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 2002422,
+    "Reward": 0,
+    "Text": "ResultTxt_2002422",
+    "NextEventId": 0,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 200311,
+    "Reward": 102,
+    "Text": "ResultTxt_200311",
+    "NextEventId": 0,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 200312,
+    "Reward": 0,
+    "Text": "ResultTxt_200312",
+    "NextEventId": 0,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 200321,
+    "Reward": 102,
+    "Text": "ResultTxt_200321",
+    "NextEventId": 0,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 200322,
+    "Reward": 0,
+    "Text": "ResultTxt_200322",
+    "NextEventId": 0,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 200331,
+    "Reward": 0,
+    "Text": "ResultTxt_200331",
+    "NextEventId": 0,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 200411,
+    "Reward": 104,
+    "Text": "ResultTxt_200411",
+    "NextEventId": 0,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 200412,
+    "Reward": 0,
+    "Text": "ResultTxt_200412",
+    "NextEventId": 0,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 200421,
+    "Reward": 0,
+    "Text": "ResultTxt_200421",
+    "NextEventId": 0,
+    "UnlockEventId": 0,
+    "RoleBuffIds": [
+      20006
+    ]
+  },
+  {
+    "Id": 200422,
+    "Reward": 0,
+    "Text": "ResultTxt_200422",
+    "NextEventId": 0,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  },
+  {
+    "Id": 200431,
+    "Reward": 0,
+    "Text": "ResultTxt_200431",
+    "NextEventId": 0,
+    "UnlockEventId": 0,
+    "RoleBuffIds": []
+  }
+]

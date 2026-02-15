@@ -1,0 +1,2026 @@
+[
+  {
+    "NameKey": "itemname_100001",
+    "Chinese": "韵灵花种子"
+  },
+  {
+    "NameKey": "itemname_100002",
+    "Chinese": "凝气草种子"
+  },
+  {
+    "NameKey": "itemname_100003",
+    "Chinese": "阳符草种子"
+  },
+  {
+    "NameKey": "itemname_100004",
+    "Chinese": "回春草种子"
+  },
+  {
+    "NameKey": "itemname_100005",
+    "Chinese": "灵麦种子"
+  },
+  {
+    "NameKey": "itemname_100006",
+    "Chinese": "剑脊草种子"
+  },
+  {
+    "NameKey": "itemname_100007",
+    "Chinese": "赤金芝种子"
+  },
+  {
+    "NameKey": "itemname_100008",
+    "Chinese": "流锋兰种子"
+  },
+  {
+    "NameKey": "itemname_100009",
+    "Chinese": "宝光花种子"
+  },
+  {
+    "NameKey": "itemname_100010",
+    "Chinese": "锐金果种子"
+  },
+  {
+    "NameKey": "itemname_100011",
+    "Chinese": "灵芽草种子"
+  },
+  {
+    "NameKey": "itemname_100012",
+    "Chinese": "九叶参种子"
+  },
+  {
+    "NameKey": "itemname_100013",
+    "Chinese": "青冥竹种子"
+  },
+  {
+    "NameKey": "itemname_100014",
+    "Chinese": "翠茸菌种子"
+  },
+  {
+    "NameKey": "itemname_100015",
+    "Chinese": "聚灵蘅种子"
+  },
+  {
+    "NameKey": "itemname_100016",
+    "Chinese": "水髓草种子"
+  },
+  {
+    "NameKey": "itemname_100017",
+    "Chinese": "水母花种子"
+  },
+  {
+    "NameKey": "itemname_100018",
+    "Chinese": "润灵藤种子"
+  },
+  {
+    "NameKey": "itemname_100019",
+    "Chinese": "癸水月桂种子"
+  },
+  {
+    "NameKey": "itemname_100020",
+    "Chinese": "沧溟珠藤种子"
+  },
+  {
+    "NameKey": "itemname_100021",
+    "Chinese": "焰芯草种子"
+  },
+  {
+    "NameKey": "itemname_100022",
+    "Chinese": "燃木藤种子"
+  },
+  {
+    "NameKey": "itemname_100023",
+    "Chinese": "炎阳花种子"
+  },
+  {
+    "NameKey": "itemname_100024",
+    "Chinese": "阳烛果种子"
+  },
+  {
+    "NameKey": "itemname_100025",
+    "Chinese": "血菩提种子"
+  },
+  {
+    "NameKey": "itemname_100026",
+    "Chinese": "磐石菌种子"
+  },
+  {
+    "NameKey": "itemname_100027",
+    "Chinese": "地龙芋种子"
+  },
+  {
+    "NameKey": "itemname_100028",
+    "Chinese": "戊土灵葫种子"
+  },
+  {
+    "NameKey": "itemname_100029",
+    "Chinese": "千嶂岩晶种子"
+  },
+  {
+    "NameKey": "itemname_100030",
+    "Chinese": "厚土芝种子"
+  },
+  {
+    "NameKey": "itemname_300010",
+    "Chinese": "韵灵花(10年)"
+  },
+  {
+    "NameKey": "itemname_300011",
+    "Chinese": "韵灵花(100年)"
+  },
+  {
+    "NameKey": "itemname_300012",
+    "Chinese": "韵灵花(500年)"
+  },
+  {
+    "NameKey": "itemname_300013",
+    "Chinese": "韵灵花(1000年)"
+  },
+  {
+    "NameKey": "itemname_300020",
+    "Chinese": "凝气草(10年)"
+  },
+  {
+    "NameKey": "itemname_300021",
+    "Chinese": "凝气草(100年)"
+  },
+  {
+    "NameKey": "itemname_300022",
+    "Chinese": "凝气草(500年)"
+  },
+  {
+    "NameKey": "itemname_300023",
+    "Chinese": "凝气草(1000年)"
+  },
+  {
+    "NameKey": "itemname_300030",
+    "Chinese": "阳符草(10年)"
+  },
+  {
+    "NameKey": "itemname_300031",
+    "Chinese": "阳符草(100年)"
+  },
+  {
+    "NameKey": "itemname_300032",
+    "Chinese": "阳符草(500年)"
+  },
+  {
+    "NameKey": "itemname_300033",
+    "Chinese": "阳符草(1000年)"
+  },
+  {
+    "NameKey": "itemname_300040",
+    "Chinese": "回春草(10年)"
+  },
+  {
+    "NameKey": "itemname_300041",
+    "Chinese": "回春草(100年)"
+  },
+  {
+    "NameKey": "itemname_300042",
+    "Chinese": "回春草(500年)"
+  },
+  {
+    "NameKey": "itemname_300043",
+    "Chinese": "回春草(1000年)"
+  },
+  {
+    "NameKey": "itemname_300050",
+    "Chinese": "灵麦(10年)"
+  },
+  {
+    "NameKey": "itemname_300051",
+    "Chinese": "灵麦(100年)"
+  },
+  {
+    "NameKey": "itemname_300052",
+    "Chinese": "灵麦(500年)"
+  },
+  {
+    "NameKey": "itemname_300053",
+    "Chinese": "灵麦(1000年)"
+  },
+  {
+    "NameKey": "itemname_300060",
+    "Chinese": "剑脊草(10年)"
+  },
+  {
+    "NameKey": "itemname_300061",
+    "Chinese": "剑脊草(100年)"
+  },
+  {
+    "NameKey": "itemname_300062",
+    "Chinese": "剑脊草(500年)"
+  },
+  {
+    "NameKey": "itemname_300063",
+    "Chinese": "剑脊草(1000年)"
+  },
+  {
+    "NameKey": "itemname_300070",
+    "Chinese": "赤金芝(10年)"
+  },
+  {
+    "NameKey": "itemname_300071",
+    "Chinese": "赤金芝(100年)"
+  },
+  {
+    "NameKey": "itemname_300072",
+    "Chinese": "赤金芝(500年)"
+  },
+  {
+    "NameKey": "itemname_300073",
+    "Chinese": "赤金芝(1000年)"
+  },
+  {
+    "NameKey": "itemname_300080",
+    "Chinese": "流锋兰(10年)"
+  },
+  {
+    "NameKey": "itemname_300081",
+    "Chinese": "流锋兰(100年)"
+  },
+  {
+    "NameKey": "itemname_300082",
+    "Chinese": "流锋兰(500年)"
+  },
+  {
+    "NameKey": "itemname_300083",
+    "Chinese": "流锋兰(1000年)"
+  },
+  {
+    "NameKey": "itemname_300090",
+    "Chinese": "宝光花(10年)"
+  },
+  {
+    "NameKey": "itemname_300091",
+    "Chinese": "宝光花(100年)"
+  },
+  {
+    "NameKey": "itemname_300092",
+    "Chinese": "宝光花(500年)"
+  },
+  {
+    "NameKey": "itemname_300093",
+    "Chinese": "宝光花(1000年)"
+  },
+  {
+    "NameKey": "itemname_300100",
+    "Chinese": "锐金果(10年)"
+  },
+  {
+    "NameKey": "itemname_300101",
+    "Chinese": "锐金果(100年)"
+  },
+  {
+    "NameKey": "itemname_300102",
+    "Chinese": "锐金果(500年)"
+  },
+  {
+    "NameKey": "itemname_300103",
+    "Chinese": "锐金果(1000年)"
+  },
+  {
+    "NameKey": "itemname_300110",
+    "Chinese": "灵芽草(10年)"
+  },
+  {
+    "NameKey": "itemname_300111",
+    "Chinese": "灵芽草(100年)"
+  },
+  {
+    "NameKey": "itemname_300112",
+    "Chinese": "灵芽草(500年)"
+  },
+  {
+    "NameKey": "itemname_300113",
+    "Chinese": "灵芽草(1000年)"
+  },
+  {
+    "NameKey": "itemname_300120",
+    "Chinese": "九叶参(10年)"
+  },
+  {
+    "NameKey": "itemname_300121",
+    "Chinese": "九叶参(100年)"
+  },
+  {
+    "NameKey": "itemname_300122",
+    "Chinese": "九叶参(500年)"
+  },
+  {
+    "NameKey": "itemname_300123",
+    "Chinese": "九叶参(1000年)"
+  },
+  {
+    "NameKey": "itemname_300130",
+    "Chinese": "青冥竹(10年)"
+  },
+  {
+    "NameKey": "itemname_300131",
+    "Chinese": "青冥竹(100年)"
+  },
+  {
+    "NameKey": "itemname_300132",
+    "Chinese": "青冥竹(500年)"
+  },
+  {
+    "NameKey": "itemname_300133",
+    "Chinese": "青冥竹(1000年)"
+  },
+  {
+    "NameKey": "itemname_300140",
+    "Chinese": "翠茸菌(10年)"
+  },
+  {
+    "NameKey": "itemname_300141",
+    "Chinese": "翠茸菌(100年)"
+  },
+  {
+    "NameKey": "itemname_300142",
+    "Chinese": "翠茸菌(500年)"
+  },
+  {
+    "NameKey": "itemname_300143",
+    "Chinese": "翠茸菌(1000年)"
+  },
+  {
+    "NameKey": "itemname_300150",
+    "Chinese": "聚灵蘅(10年)"
+  },
+  {
+    "NameKey": "itemname_300151",
+    "Chinese": "聚灵蘅(100年)"
+  },
+  {
+    "NameKey": "itemname_300152",
+    "Chinese": "聚灵蘅(500年)"
+  },
+  {
+    "NameKey": "itemname_300153",
+    "Chinese": "聚灵蘅(1000年)"
+  },
+  {
+    "NameKey": "itemname_300160",
+    "Chinese": "水髓草(10年)"
+  },
+  {
+    "NameKey": "itemname_300161",
+    "Chinese": "水髓草(100年)"
+  },
+  {
+    "NameKey": "itemname_300162",
+    "Chinese": "水髓草(500年)"
+  },
+  {
+    "NameKey": "itemname_300163",
+    "Chinese": "水髓草(1000年)"
+  },
+  {
+    "NameKey": "itemname_300170",
+    "Chinese": "水母花(10年)"
+  },
+  {
+    "NameKey": "itemname_300171",
+    "Chinese": "水母花(100年)"
+  },
+  {
+    "NameKey": "itemname_300172",
+    "Chinese": "水母花(500年)"
+  },
+  {
+    "NameKey": "itemname_300173",
+    "Chinese": "水母花(1000年)"
+  },
+  {
+    "NameKey": "itemname_300180",
+    "Chinese": "润灵藤(10年)"
+  },
+  {
+    "NameKey": "itemname_300181",
+    "Chinese": "润灵藤(100年)"
+  },
+  {
+    "NameKey": "itemname_300182",
+    "Chinese": "润灵藤(500年)"
+  },
+  {
+    "NameKey": "itemname_300183",
+    "Chinese": "润灵藤(1000年)"
+  },
+  {
+    "NameKey": "itemname_300190",
+    "Chinese": "癸水月桂(10年)"
+  },
+  {
+    "NameKey": "itemname_300191",
+    "Chinese": "癸水月桂(100年)"
+  },
+  {
+    "NameKey": "itemname_300192",
+    "Chinese": "癸水月桂(500年)"
+  },
+  {
+    "NameKey": "itemname_300193",
+    "Chinese": "癸水月桂(1000年)"
+  },
+  {
+    "NameKey": "itemname_300200",
+    "Chinese": "沧溟珠藤(10年)"
+  },
+  {
+    "NameKey": "itemname_300201",
+    "Chinese": "沧溟珠藤(100年)"
+  },
+  {
+    "NameKey": "itemname_300202",
+    "Chinese": "沧溟珠藤(500年)"
+  },
+  {
+    "NameKey": "itemname_300203",
+    "Chinese": "沧溟珠藤(1000年)"
+  },
+  {
+    "NameKey": "itemname_300210",
+    "Chinese": "焰芯草(10年)"
+  },
+  {
+    "NameKey": "itemname_300211",
+    "Chinese": "焰芯草(100年)"
+  },
+  {
+    "NameKey": "itemname_300212",
+    "Chinese": "焰芯草(500年)"
+  },
+  {
+    "NameKey": "itemname_300213",
+    "Chinese": "焰芯草(1000年)"
+  },
+  {
+    "NameKey": "itemname_300220",
+    "Chinese": "燃木藤(10年)"
+  },
+  {
+    "NameKey": "itemname_300221",
+    "Chinese": "燃木藤(100年)"
+  },
+  {
+    "NameKey": "itemname_300222",
+    "Chinese": "燃木藤(500年)"
+  },
+  {
+    "NameKey": "itemname_300223",
+    "Chinese": "燃木藤(1000年)"
+  },
+  {
+    "NameKey": "itemname_300230",
+    "Chinese": "炎阳花(10年)"
+  },
+  {
+    "NameKey": "itemname_300231",
+    "Chinese": "炎阳花(100年)"
+  },
+  {
+    "NameKey": "itemname_300232",
+    "Chinese": "炎阳花(500年)"
+  },
+  {
+    "NameKey": "itemname_300233",
+    "Chinese": "炎阳花(1000年)"
+  },
+  {
+    "NameKey": "itemname_300240",
+    "Chinese": "阳烛果(10年)"
+  },
+  {
+    "NameKey": "itemname_300241",
+    "Chinese": "阳烛果(100年)"
+  },
+  {
+    "NameKey": "itemname_300242",
+    "Chinese": "阳烛果(500年)"
+  },
+  {
+    "NameKey": "itemname_300243",
+    "Chinese": "阳烛果(1000年)"
+  },
+  {
+    "NameKey": "itemname_300250",
+    "Chinese": "血菩提(10年)"
+  },
+  {
+    "NameKey": "itemname_300251",
+    "Chinese": "血菩提(100年)"
+  },
+  {
+    "NameKey": "itemname_300252",
+    "Chinese": "血菩提(500年)"
+  },
+  {
+    "NameKey": "itemname_300253",
+    "Chinese": "血菩提(1000年)"
+  },
+  {
+    "NameKey": "itemname_300260",
+    "Chinese": "磐石菌(10年)"
+  },
+  {
+    "NameKey": "itemname_300261",
+    "Chinese": "磐石菌(100年)"
+  },
+  {
+    "NameKey": "itemname_300262",
+    "Chinese": "磐石菌(500年)"
+  },
+  {
+    "NameKey": "itemname_300263",
+    "Chinese": "磐石菌(1000年)"
+  },
+  {
+    "NameKey": "itemname_300270",
+    "Chinese": "地龙芋(10年)"
+  },
+  {
+    "NameKey": "itemname_300271",
+    "Chinese": "地龙芋(100年)"
+  },
+  {
+    "NameKey": "itemname_300272",
+    "Chinese": "地龙芋(500年)"
+  },
+  {
+    "NameKey": "itemname_300273",
+    "Chinese": "地龙芋(1000年)"
+  },
+  {
+    "NameKey": "itemname_300280",
+    "Chinese": "戊土灵葫(10年)"
+  },
+  {
+    "NameKey": "itemname_300281",
+    "Chinese": "戊土灵葫(100年)"
+  },
+  {
+    "NameKey": "itemname_300282",
+    "Chinese": "戊土灵葫(500年)"
+  },
+  {
+    "NameKey": "itemname_300283",
+    "Chinese": "戊土灵葫(1000年)"
+  },
+  {
+    "NameKey": "itemname_300290",
+    "Chinese": "千嶂岩晶(10年)"
+  },
+  {
+    "NameKey": "itemname_300291",
+    "Chinese": "千嶂岩晶(100年)"
+  },
+  {
+    "NameKey": "itemname_300292",
+    "Chinese": "千嶂岩晶(500年)"
+  },
+  {
+    "NameKey": "itemname_300293",
+    "Chinese": "千嶂岩晶(1000年)"
+  },
+  {
+    "NameKey": "itemname_300300",
+    "Chinese": "厚土芝(10年)"
+  },
+  {
+    "NameKey": "itemname_300301",
+    "Chinese": "厚土芝(100年)"
+  },
+  {
+    "NameKey": "itemname_300302",
+    "Chinese": "厚土芝(500年)"
+  },
+  {
+    "NameKey": "itemname_300303",
+    "Chinese": "厚土芝(1000年)"
+  },
+  {
+    "NameKey": "itemname_400001",
+    "Chinese": "锄头"
+  },
+  {
+    "NameKey": "itemname_500001",
+    "Chinese": "轻灵丸"
+  },
+  {
+    "NameKey": "itemname_500002",
+    "Chinese": "聚灵丹"
+  },
+  {
+    "NameKey": "itemname_500003",
+    "Chinese": "元髓丹"
+  },
+  {
+    "NameKey": "itemname_500004",
+    "Chinese": "虚灵丹"
+  },
+  {
+    "NameKey": "itemname_500005",
+    "Chinese": "灵泽丹"
+  },
+  {
+    "NameKey": "itemname_500006",
+    "Chinese": "化瘀丹"
+  },
+  {
+    "NameKey": "itemname_500007",
+    "Chinese": "小元丹"
+  },
+  {
+    "NameKey": "itemname_500008",
+    "Chinese": "补气丹"
+  },
+  {
+    "NameKey": "itemname_500009",
+    "Chinese": "血元丹"
+  },
+  {
+    "NameKey": "itemname_500010",
+    "Chinese": "大元丹"
+  },
+  {
+    "NameKey": "itemname_500011",
+    "Chinese": "凝气散"
+  },
+  {
+    "NameKey": "itemname_500012",
+    "Chinese": "星蕴丹"
+  },
+  {
+    "NameKey": "itemname_500013",
+    "Chinese": "延寿丹"
+  },
+  {
+    "NameKey": "itemname_500014",
+    "Chinese": "筑基丹"
+  },
+  {
+    "NameKey": "itemname_600001",
+    "Chinese": "配方·轻灵丸"
+  },
+  {
+    "NameKey": "itemname_600003",
+    "Chinese": "配方·聚灵丹"
+  },
+  {
+    "NameKey": "itemname_600005",
+    "Chinese": "配方·元髓丹"
+  },
+  {
+    "NameKey": "itemname_600008",
+    "Chinese": "配方·虚灵丹"
+  },
+  {
+    "NameKey": "itemname_600012",
+    "Chinese": "配方·灵泽丹"
+  },
+  {
+    "NameKey": "itemname_600013",
+    "Chinese": "配方·化瘀丹"
+  },
+  {
+    "NameKey": "itemname_600015",
+    "Chinese": "配方·小元丹"
+  },
+  {
+    "NameKey": "itemname_600017",
+    "Chinese": "配方·补气丹"
+  },
+  {
+    "NameKey": "itemname_600020",
+    "Chinese": "配方·血元丹"
+  },
+  {
+    "NameKey": "itemname_600024",
+    "Chinese": "配方·大元丹"
+  },
+  {
+    "NameKey": "itemname_600025",
+    "Chinese": "配方·凝气散"
+  },
+  {
+    "NameKey": "itemname_600027",
+    "Chinese": "配方·星蕴丹"
+  },
+  {
+    "NameKey": "itemname_600028",
+    "Chinese": "配方·延寿丹"
+  },
+  {
+    "NameKey": "itemname_600030",
+    "Chinese": "配方·筑基丹"
+  },
+  {
+    "NameKey": "itemname_590000",
+    "Chinese": "药渣·无属性"
+  },
+  {
+    "NameKey": "itemname_590001",
+    "Chinese": "药渣·金"
+  },
+  {
+    "NameKey": "itemname_590002",
+    "Chinese": "药渣·木"
+  },
+  {
+    "NameKey": "itemname_590003",
+    "Chinese": "药渣·水"
+  },
+  {
+    "NameKey": "itemname_590004",
+    "Chinese": "药渣·火"
+  },
+  {
+    "NameKey": "itemname_590005",
+    "Chinese": "药渣·土"
+  },
+  {
+    "NameKey": "itemname_590006",
+    "Chinese": "废丹"
+  },
+  {
+    "NameKey": "itemname_700000",
+    "Chinese": "赤炎沃土"
+  },
+  {
+    "NameKey": "itemname_700001",
+    "Chinese": "沧溟泥沙"
+  },
+  {
+    "NameKey": "itemname_700002",
+    "Chinese": "载土灵泥"
+  },
+  {
+    "NameKey": "itemname_700003",
+    "Chinese": "锐金滋土"
+  },
+  {
+    "NameKey": "itemname_700004",
+    "Chinese": "森根活土"
+  },
+  {
+    "NameKey": "itemname_1000001",
+    "Chinese": "灵石"
+  },
+  {
+    "NameKey": "itemdes_100001",
+    "Chinese": "植物种子，需栽种于森根活土中，吸收木系灵气生长，成熟后可采摘韵灵花，用于炼制基础疗伤丹药。"
+  },
+  {
+    "NameKey": "itemdes_100002",
+    "Chinese": "植物种子，适应性强，成熟周期短，产出的凝气草是炼气期修士炼制聚气散的核心材料。"
+  },
+  {
+    "NameKey": "itemdes_100003",
+    "Chinese": "植物种子，喜赤炎沃土，成熟后阳符草可用于绘制基础火属性符箓，也可作为火属性丹药的辅材。"
+  },
+  {
+    "NameKey": "itemdes_100004",
+    "Chinese": "植物种子，蕴含温和生机，成熟后的回春草是炼制回春丹的主材料，能快速恢复修士轻伤。"
+  },
+  {
+    "NameKey": "itemdes_100005",
+    "Chinese": "植物种子，可在普通灵土中生长，成熟的灵麦可加工为灵食，为低阶修士补充日常灵气消耗。"
+  },
+  {
+    "NameKey": "itemdes_100006",
+    "Chinese": "金属性灵植种子，需栽种于锐金滋土，成熟后剑脊草蕴含微弱金系锋芒，可用于炼制基础法器胚料。"
+  },
+  {
+    "NameKey": "itemdes_100007",
+    "Chinese": "金属性灵植种子，生长缓慢但灵气醇厚，成熟的赤金芝能增强修士对金系灵气的亲和力，是筑基期修士常用辅材。"
+  },
+  {
+    "NameKey": "itemdes_100008",
+    "Chinese": "金属性灵植种子，花开时散发锋锐灵气，流锋兰花瓣可用于提纯金系丹药，提升丹药品质。"
+  },
+  {
+    "NameKey": "itemdes_100009",
+    "Chinese": "金属性灵植种子，成熟后宝光花会凝结出微量金系灵晶，可直接吸收或作为炼器时的稳定材料。"
+  },
+  {
+    "NameKey": "itemdes_100010",
+    "Chinese": "金属性灵植种子，果实内蕴含浓缩金系灵气，锐金果可直接服用，增强修士肉身硬度。"
+  },
+  {
+    "NameKey": "itemdes_100011",
+    "Chinese": "木属性灵植种子，生长速度极快，灵芽草可作为培育其他高阶灵植的伴生草，改善土壤灵气环境。"
+  },
+  {
+    "NameKey": "itemdes_100012",
+    "Chinese": "木属性灵植种子，成熟后九叶参每片叶子对应一种基础生机之力，是炼制固本培元类丹药的珍品。"
+  },
+  {
+    "NameKey": "itemdes_100013",
+    "Chinese": "木属性灵植种子，长成的青冥竹质地坚韧，既是优质灵材，也可直接雕琢为基础法器或灵舟构件。"
+  },
+  {
+    "NameKey": "itemdes_100014",
+    "Chinese": "木属性灵植种子，喜阴暗湿润环境，翠茸菌蕴含木系之力，可用于炼制防御类丹药或符箓。"
+  },
+  {
+    "NameKey": "itemdes_100015",
+    "Chinese": "木属性灵植种子，成熟的聚灵蘅能主动吸收周围灵气，可种植于灵田边缘，提升整片灵田的灵气浓度。"
+  },
+  {
+    "NameKey": "itemdes_100016",
+    "Chinese": "水属性灵植种子，需栽种于沧溟泥沙，成熟后水髓草内含液态水灵气，是炼制补水、解毒类丹药的主材。"
+  },
+  {
+    "NameKey": "itemdes_100017",
+    "Chinese": "水属性灵植种子，花开于水中，水母花可用于提纯水系灵气，也可作为灵舟防水阵法的激活材料。"
+  },
+  {
+    "NameKey": "itemdes_100018",
+    "Chinese": "水属性灵植种子，藤蔓可缠绕其他灵植生长，润灵藤汁液能滋养灵植根系，加速灵植成熟。"
+  },
+  {
+    "NameKey": "itemdes_100019",
+    "Chinese": "水属性灵植种子，仅在月满之夜吸收月华生长，癸水月桂花可用于炼制提升神识的丹药。"
+  },
+  {
+    "NameKey": "itemdes_100020",
+    "Chinese": "水属性灵植种子，藤蔓会凝结沧溟珠，内含精纯水系灵气，可直接服用或用于水系法器祭炼。"
+  },
+  {
+    "NameKey": "itemdes_100021",
+    "Chinese": "火属性灵植种子，生长于高温环境，焰芯草芯部蕴含火种，可用于点燃丹炉或炼制火属性符箓。"
+  },
+  {
+    "NameKey": "itemdes_100022",
+    "Chinese": "火属性灵植种子，藤蔓燃烧时释放温和火灵气，燃木藤可作为炼丹时的持续热源，也可入药。"
+  },
+  {
+    "NameKey": "itemdes_100023",
+    "Chinese": "火属性灵植种子，需吸收烈日精华生长，炎阳花是炼制炎阳丹的主材料，能驱散修士体内阴寒之气。"
+  },
+  {
+    "NameKey": "itemdes_100024",
+    "Chinese": "火属性灵植种子，果实如烛火般恒温，阳烛果可直接服用，提升修士对火系法术的掌控力。"
+  },
+  {
+    "NameKey": "itemdes_100025",
+    "Chinese": "火属性灵植种子，生长需吸收微量精血，成熟的血菩提能快速恢复修士气血，是战斗后常用灵材。"
+  },
+  {
+    "NameKey": "itemdes_100026",
+    "Chinese": "土属性灵植种子，生长于岩石缝隙中，磐石菌蕴含厚重土灵气，可用于炼制提升肉身防御的丹药。"
+  },
+  {
+    "NameKey": "itemdes_100027",
+    "Chinese": "土属性灵植种子，根系深入地下吸收地脉灵气，地龙芋可用于炼制稳固境界的丹药，减少心魔滋生。"
+  },
+  {
+    "NameKey": "itemdes_100028",
+    "Chinese": "土属性灵植种子，成熟后结出戊土灵葫，葫内可储存土系灵气，也可作为炼丹容器使用。"
+  },
+  {
+    "NameKey": "itemdes_100029",
+    "Chinese": "土属性灵植种子（特殊矿物灵植），成熟后化为千嶂岩晶，硬度极高，是炼制防御法器的核心材料。"
+  },
+  {
+    "NameKey": "itemdes_100030",
+    "Chinese": "土属性灵植种子，生长周期长，厚土芝能增强修士与地脉的联系，提升土系法术威力。"
+  },
+  {
+    "NameKey": "itemdes_300010",
+    "Chinese": "韵灵草，花瓣蕴含温和生机，可直接用于外敷疗伤，或作为炼制基础疗伤丹药的主材料。"
+  },
+  {
+    "NameKey": "itemdes_300020",
+    "Chinese": "木属性灵植成品，叶片富含基础灵气，是炼气期修士炼制聚气散的核心原料，也可晒干后泡水饮用。"
+  },
+  {
+    "NameKey": "itemdes_300030",
+    "Chinese": "火属性灵植成品，草叶自带火纹，可直接用于绘制火球符、燃火符等基础火属性符箓，成功率较高。"
+  },
+  {
+    "NameKey": "itemdes_300040",
+    "Chinese": "木属性灵植成品，蕴含浓郁生机之力，是炼制回春丹的必需材料，也可捣碎后外敷治疗跌打损伤。"
+  },
+  {
+    "NameKey": "itemdes_300050",
+    "Chinese": "土属性灵植成品，脱粒后可磨成灵麦粉，制作灵馒头、灵面条等灵食，为低阶修士补充日常灵气。"
+  },
+  {
+    "NameKey": "itemdes_300060",
+    "Chinese": "金属性灵植成品，草茎坚硬如铁，蕴含微弱金系锋芒，可用于炼制基础剑器胚料，或作为炼器时的锋锐添加剂。"
+  },
+  {
+    "NameKey": "itemdes_300070",
+    "Chinese": "金属性灵植成品，芝体金黄，灵气醇厚，服用后可增强修士对金系灵气的亲和力，是筑基丹的重要辅材之一。"
+  },
+  {
+    "NameKey": "itemdes_300080",
+    "Chinese": "金属性灵植成品，花瓣边缘如剑锋般锐利，可用于提纯金系丹药，去除丹药中的杂质，提升丹药品质。"
+  },
+  {
+    "NameKey": "itemdes_300090",
+    "Chinese": "土属性灵植成品，花蕊会凝结微量土系灵晶，可直接吸收补充灵气，也可作为炼器时的稳定材料，减少法器崩裂风险。"
+  },
+  {
+    "NameKey": "itemdes_300100",
+    "Chinese": "金属性灵植成品，果实坚硬，内含浓缩金系灵气，直接服用可增强修士肉身硬度，抵御低阶法器攻击。"
+  },
+  {
+    "NameKey": "itemdes_300110",
+    "Chinese": "木属性灵植成品，草叶鲜嫩，蕴含基础生机，可作为培育高阶灵植的伴生草，改善土壤灵气环境，加速其他灵植生长。"
+  },
+  {
+    "NameKey": "itemdes_300120",
+    "Chinese": "木属性灵植成品，参体生有九叶，每片叶子对应一种基础生机之力，是炼制固本培元丹、养气丹等丹药的珍品材料。"
+  },
+  {
+    "NameKey": "itemdes_300130",
+    "Chinese": "木属性灵植成品，竹身坚韧且蕴含木系灵气，可直接雕琢为基础法剑、灵杖，也可作为灵舟的核心构件。"
+  },
+  {
+    "NameKey": "itemdes_300140",
+    "Chinese": "土属性灵植成品，菌盖厚实，蕴含土系厚土之力，可用于炼制大地防御丹，或作为绘制土遁符的辅材。"
+  },
+  {
+    "NameKey": "itemdes_300150",
+    "Chinese": "木属性灵植成品，蘅叶能主动吸收周围灵气，种植于灵田边缘可形成灵气循环，提升整片灵田的灵气浓度。"
+  },
+  {
+    "NameKey": "itemdes_300160",
+    "Chinese": "水属性灵植成品，草茎内含液态水灵气，是炼制碧水丹（补水）、清毒丹（解毒）的主材料，也可直接榨汁饮用。"
+  },
+  {
+    "NameKey": "itemdes_300170",
+    "Chinese": "水属性灵植成品，花朵漂浮于水面，蕴含精纯水系灵气，可用于提纯水系丹药，或作为灵舟防水阵法的核心激活材料。"
+  },
+  {
+    "NameKey": "itemdes_300180",
+    "Chinese": "水属性灵植成品，藤蔓柔软且富含水分，汁液能滋养灵植根系，加速灵植成熟，也可用于治疗修士的灵气枯竭之症。"
+  },
+  {
+    "NameKey": "itemdes_300190",
+    "Chinese": "水属性灵植成品，花朵仅在夜间散发月华灵气，服用后可温和提升修士神识，是炼制凝神丹的重要辅材。"
+  },
+  {
+    "NameKey": "itemdes_300200",
+    "Chinese": "水属性灵植成品，藤蔓上凝结的沧溟珠内含高浓度水系灵气，可直接吸收，也可用于水系法器的祭炼与修复。"
+  },
+  {
+    "NameKey": "itemdes_300210",
+    "Chinese": "火属性灵植成品，草芯部蕴含稳定火种，可直接用于点燃丹炉，或作为炼制火属性丹药时的火种引子。"
+  },
+  {
+    "NameKey": "itemdes_300220",
+    "Chinese": "火属性灵植成品，藤蔓燃烧时释放温和且持久的火灵气，是炼丹、炼器时的优质热源，燃烧后的灰烬也可入药。"
+  },
+  {
+    "NameKey": "itemdes_300230",
+    "Chinese": "火属性灵植成品，花瓣如烈日般赤红，是炼制炎阳丹的主材料，服用后可驱散修士体内阴寒之气，抵御寒毒。"
+  },
+  {
+    "NameKey": "itemdes_300240",
+    "Chinese": "火属性灵植成品，果实恒温如烛火，服用后可增强修士对火系法术的掌控力，使火球术、火焰弹等法术威力提升。"
+  },
+  {
+    "NameKey": "itemdes_300250",
+    "Chinese": "火属性灵植成品，果实呈血红色，蕴含旺盛气血之力，战斗后服用可快速恢复修士气血，也可用于炼制血灵丹。"
+  },
+  {
+    "NameKey": "itemdes_300260",
+    "Chinese": "土属性灵植成品，菌体坚硬如石，蕴含厚重土灵气，服用后可提升修士肉身防御，是炼制磐石防御丹的主材料。"
+  },
+  {
+    "NameKey": "itemdes_300270",
+    "Chinese": "土属性灵植成品，芋体吸收地脉灵气生长，服用后可稳固修士境界，减少心魔滋生，是筑基期修士巩固修为的常用材料。"
+  },
+  {
+    "NameKey": "itemdes_300280",
+    "Chinese": "土属性灵植成品，葫体可储存大量土系灵气，既可用作灵气容器，也可直接作为炼丹容器，提升土属性丹药的炼制成功率。"
+  },
+  {
+    "NameKey": "itemdes_300290",
+    "Chinese": "土属性特殊灵植成品，本质为矿物灵晶，硬度极高，是炼制盾牌、铠甲等防御法器的核心材料，也可用于阵法的基石。"
+  },
+  {
+    "NameKey": "itemdes_300300",
+    "Chinese": "土属性灵植成品，芝体蕴含浓郁地脉灵气，服用后可增强修士与地脉的联系，使土系法术如土墙术、地刺术等威力大幅提升。"
+  },
+  {
+    "NameKey": "itemdes_400001",
+    "Chinese": "修仙界基础耕种工具，由普通精铁混合微量灵铜打造，可用于开垦灵田、翻松土壤，使用时能轻微引导灵气滋养土地，提升灵植存活率。"
+  },
+  {
+    "NameKey": "itemdes_500001",
+    "Chinese": "一品疗伤丹药，主要由回春草、韵灵花炼制而成，服用后可快速恢复修士轻伤，对皮肉伤、灵气紊乱有显著疗效，是低阶修士常备丹药。"
+  },
+  {
+    "NameKey": "itemdes_500002",
+    "Chinese": "一品辅助丹药，以凝气草为核心材料炼制，服用后可加速修士吸收天地灵气的速度，缩短炼气期修士的修炼时间，副作用极小。"
+  },
+  {
+    "NameKey": "itemdes_500003",
+    "Chinese": "三品境界丹药，需以赤金芝、九叶参等珍稀材料炼制，是炼气期巅峰修士突破至筑基期的关键丹药，能大幅提升筑基成功率。"
+  },
+  {
+    "NameKey": "itemdes_500004",
+    "Chinese": "二品攻击辅助丹药，服用后可在短时间内增强修士法术威力，尤其对金系、火系法术有加成效果，适合战斗时使用，有轻微灵气透支副作用。"
+  },
+  {
+    "NameKey": "itemdes_500005",
+    "Chinese": "二品防御辅助丹药，蕴含厚重土系灵气，服用后体表会形成一层土系护罩，可抵御筑基期修士的普通攻击，持续时间约半个时辰。"
+  },
+  {
+    "NameKey": "itemdes_600001",
+    "Chinese": "丹方描述"
+  },
+  {
+    "NameKey": "itemdes_600003",
+    "Chinese": "丹方描述"
+  },
+  {
+    "NameKey": "itemdes_600005",
+    "Chinese": "丹方描述"
+  },
+  {
+    "NameKey": "itemdes_600008",
+    "Chinese": "丹方描述"
+  },
+  {
+    "NameKey": "itemdes_600012",
+    "Chinese": "丹方描述"
+  },
+  {
+    "NameKey": "itemdes_600013",
+    "Chinese": "丹方描述"
+  },
+  {
+    "NameKey": "itemdes_600015",
+    "Chinese": "丹方描述"
+  },
+  {
+    "NameKey": "itemdes_600017",
+    "Chinese": "丹方描述"
+  },
+  {
+    "NameKey": "itemdes_600020",
+    "Chinese": "丹方描述"
+  },
+  {
+    "NameKey": "itemdes_600024",
+    "Chinese": "丹方描述"
+  },
+  {
+    "NameKey": "itemdes_600025",
+    "Chinese": "丹方描述"
+  },
+  {
+    "NameKey": "itemdes_600027",
+    "Chinese": "丹方描述"
+  },
+  {
+    "NameKey": "itemdes_600028",
+    "Chinese": "丹方描述"
+  },
+  {
+    "NameKey": "itemdes_600030",
+    "Chinese": "丹方描述"
+  },
+  {
+    "NameKey": "itemdes_590000",
+    "Chinese": "炼制无属性丹药后剩余的残渣，毫无灵气。"
+  },
+  {
+    "NameKey": "itemdes_590001",
+    "Chinese": "炼制金属性丹药后剩余的残渣，虽灵气稀薄，但仍含微量金系精华，可粉碎后混入锐金滋土，提升金系灵植的生长速度。"
+  },
+  {
+    "NameKey": "itemdes_590002",
+    "Chinese": "炼制木属性丹药后剩余的残渣，蕴含微弱生机，可埋入灵田作为肥料，改善土壤品质，加速木属性灵植成熟。"
+  },
+  {
+    "NameKey": "itemdes_590003",
+    "Chinese": "炼制水属性丹药后剩余的残渣，富含水分与水系灵气，可混入沧溟泥沙，提升水属性灵植的存活率，也可用于灵田灌溉。"
+  },
+  {
+    "NameKey": "itemdes_590004",
+    "Chinese": "炼制火属性丹药后剩余的残渣，带有温和火灵气，可混入赤炎沃土，提升火属性灵植对高温环境的适应性，加速生长。"
+  },
+  {
+    "NameKey": "itemdes_590005",
+    "Chinese": "炼制土属性丹药后剩余的残渣，蕴含厚重土系灵气，可直接混入普通灵土，提升土壤的灵气承载力，适合种植高阶土属性灵植。"
+  },
+  {
+    "NameKey": "itemdes_590006",
+    "Chinese": "炼制丹药失败产生的废品，虽无法服用，但仍含一定灵气，可粉碎后作为灵田肥料，或用于喂养低阶灵宠，也可作为炼器时的廉价填充物。"
+  },
+  {
+    "NameKey": "itemdes_700000",
+    "Chinese": "火属性专用灵土，土壤呈赤红，蕴含温和火灵气，适合栽种阳符草、炎阳花等火属性灵植，能加速灵植成熟，提升灵材品质。"
+  },
+  {
+    "NameKey": "itemdes_700001",
+    "Chinese": "水属性专用灵土，取自深海底部，富含水系灵气与矿物质，适合栽种水髓草、沧溟珠藤等水属性灵植，能增强灵植的水系灵气浓度。"
+  },
+  {
+    "NameKey": "itemdes_700002",
+    "Chinese": "土属性优质灵土，土壤肥沃且蕴含地脉灵气，适合栽种灵麦、地龙芋等土属性灵植，能提升灵植的灵气存储量，减少病虫害。"
+  },
+  {
+    "NameKey": "itemdes_700003",
+    "Chinese": "金属性专用灵土，土壤中混有微量金晶碎屑，蕴含锋锐金系灵气，适合栽种剑脊草、锐金果等金属性灵植，能增强灵植的金系特性。"
+  },
+  {
+    "NameKey": "itemdes_700004",
+    "Chinese": "木属性优质灵土，土壤呈深绿，富含生机之力与木系灵气，适合栽种韵灵花、九叶参等木属性灵植，能大幅提升灵植的生长速度与品质。"
+  },
+  {
+    "NameKey": "itemdes_1000001",
+    "Chinese": "修仙界通用货币，蕴含精纯灵气，分为下品、中品、上品、极品四个等级（100下品=1中品，以此类推），既可用于交易，也可直接吸收提升修为，是修士修炼与生活的基础资源。"
+  },
+  {
+    "NameKey": "collectionname_1001",
+    "Chinese": "韵灵花"
+  },
+  {
+    "NameKey": "collectionname_1002",
+    "Chinese": "凝气草"
+  },
+  {
+    "NameKey": "collectionname_1003",
+    "Chinese": "阳符草"
+  },
+  {
+    "NameKey": "collectionname_1004",
+    "Chinese": "回春草"
+  },
+  {
+    "NameKey": "collectionname_1005",
+    "Chinese": "灵麦"
+  },
+  {
+    "NameKey": "collectionname_1006",
+    "Chinese": "剑脊草"
+  },
+  {
+    "NameKey": "collectionname_1007",
+    "Chinese": "赤金芝"
+  },
+  {
+    "NameKey": "collectionname_1008",
+    "Chinese": "流锋兰"
+  },
+  {
+    "NameKey": "collectionname_1009",
+    "Chinese": "宝光花"
+  },
+  {
+    "NameKey": "collectionname_1010",
+    "Chinese": "锐金果"
+  },
+  {
+    "NameKey": "collectionname_1011",
+    "Chinese": "灵芽草"
+  },
+  {
+    "NameKey": "collectionname_1012",
+    "Chinese": "九叶参"
+  },
+  {
+    "NameKey": "collectionname_1013",
+    "Chinese": "青冥竹"
+  },
+  {
+    "NameKey": "collectionname_1014",
+    "Chinese": "翠茸菌"
+  },
+  {
+    "NameKey": "collectionname_1015",
+    "Chinese": "聚灵蘅"
+  },
+  {
+    "NameKey": "collectionname_1016",
+    "Chinese": "水髓草"
+  },
+  {
+    "NameKey": "collectionname_1017",
+    "Chinese": "水母花"
+  },
+  {
+    "NameKey": "collectionname_1018",
+    "Chinese": "润灵藤"
+  },
+  {
+    "NameKey": "collectionname_1019",
+    "Chinese": "癸水月桂"
+  },
+  {
+    "NameKey": "collectionname_1020",
+    "Chinese": "沧溟珠藤"
+  },
+  {
+    "NameKey": "collectionname_1021",
+    "Chinese": "焰芯草"
+  },
+  {
+    "NameKey": "collectionname_1022",
+    "Chinese": "燃木藤"
+  },
+  {
+    "NameKey": "collectionname_1023",
+    "Chinese": "炎阳花"
+  },
+  {
+    "NameKey": "collectionname_1024",
+    "Chinese": "阳烛果"
+  },
+  {
+    "NameKey": "collectionname_1025",
+    "Chinese": "血菩提"
+  },
+  {
+    "NameKey": "collectionname_1026",
+    "Chinese": "磐石菌"
+  },
+  {
+    "NameKey": "collectionname_1027",
+    "Chinese": "地龙芋"
+  },
+  {
+    "NameKey": "collectionname_1028",
+    "Chinese": "戊土灵葫"
+  },
+  {
+    "NameKey": "collectionname_1029",
+    "Chinese": "千嶂岩晶"
+  },
+  {
+    "NameKey": "collectionname_1030",
+    "Chinese": "厚土芝"
+  },
+  {
+    "NameKey": "collectionname_2001",
+    "Chinese": "轻灵丸"
+  },
+  {
+    "NameKey": "collectionname_2002",
+    "Chinese": "聚灵丹"
+  },
+  {
+    "NameKey": "collectionname_2003",
+    "Chinese": "元髓丹"
+  },
+  {
+    "NameKey": "collectionname_2004",
+    "Chinese": "虚灵丹"
+  },
+  {
+    "NameKey": "collectionname_2005",
+    "Chinese": "灵泽丹"
+  },
+  {
+    "NameKey": "collectionname_2006",
+    "Chinese": "化瘀丹"
+  },
+  {
+    "NameKey": "collectionname_2007",
+    "Chinese": "小元丹"
+  },
+  {
+    "NameKey": "collectionname_2008",
+    "Chinese": "补气丹"
+  },
+  {
+    "NameKey": "collectionname_2009",
+    "Chinese": "血元丹"
+  },
+  {
+    "NameKey": "collectionname_2010",
+    "Chinese": "大元丹"
+  },
+  {
+    "NameKey": "collectionname_2011",
+    "Chinese": "凝气散"
+  },
+  {
+    "NameKey": "collectionname_2012",
+    "Chinese": "星蕴丹"
+  },
+  {
+    "NameKey": "collectionname_2013",
+    "Chinese": "延寿丹"
+  },
+  {
+    "NameKey": "collectionname_2014",
+    "Chinese": "筑基丹"
+  },
+  {
+    "NameKey": "ui_common_1",
+    "Chinese": "获得物品"
+  },
+  {
+    "NameKey": "ui_common_2",
+    "Chinese": "确定"
+  },
+  {
+    "NameKey": "ui_common_3",
+    "Chinese": "取消"
+  },
+  {
+    "NameKey": "ui_common_4",
+    "Chinese": "，"
+  },
+  {
+    "NameKey": "ui_common_5",
+    "Chinese": "。"
+  },
+  {
+    "NameKey": "ui_common_6",
+    "Chinese": "{0}：{1}"
+  },
+  {
+    "NameKey": "ui_common_7",
+    "Chinese": "{0}/{1}"
+  },
+  {
+    "NameKey": "ui_collectiondrug_1",
+    "Chinese": "炼制耗费"
+  },
+  {
+    "NameKey": "ui_collectiondrug_2",
+    "Chinese": "服用效果"
+  },
+  {
+    "NameKey": "ui_collectiondrug_3",
+    "Chinese": "丹方"
+  },
+  {
+    "NameKey": "ui_collectiondrug_content_3",
+    "Chinese": "未获得炼制方法"
+  },
+  {
+    "NameKey": "ui_collectiondrug_Title_1",
+    "Chinese": "丹毒累计*"
+  },
+  {
+    "NameKey": "ui_collectionplant_1",
+    "Chinese": "灵植种子"
+  },
+  {
+    "NameKey": "ui_collectionplant_2",
+    "Chinese": "生长天数"
+  },
+  {
+    "NameKey": "ui_collectionplant_info_2",
+    "Chinese": "{0}天"
+  },
+  {
+    "NameKey": "ui_collectionplant_3",
+    "Chinese": "基础产量"
+  },
+  {
+    "NameKey": "ui_collectionplant_info_3",
+    "Chinese": "{0}个"
+  },
+  {
+    "NameKey": "ui_lock_1",
+    "Chinese": "暂未开启"
+  },
+  {
+    "NameKey": "collectionType_1",
+    "Chinese": "灵植"
+  },
+  {
+    "NameKey": "collectionType_2",
+    "Chinese": "丹药"
+  },
+  {
+    "NameKey": "ui_liandan_1",
+    "Chinese": "炼丹"
+  },
+  {
+    "NameKey": "ui_liandan_2",
+    "Chinese": "主药："
+  },
+  {
+    "NameKey": "ui_liandan_3",
+    "Chinese": "五行辅药："
+  },
+  {
+    "NameKey": "ui_liandan_4",
+    "Chinese": "熟练度："
+  },
+  {
+    "NameKey": "ui_liandan_5",
+    "Chinese": "丹炉容量：{0}/{1}"
+  },
+  {
+    "NameKey": "ui_liandan_6",
+    "Chinese": "开始炼制"
+  },
+  {
+    "NameKey": "ui_liandan_7",
+    "Chinese": "成功"
+  },
+  {
+    "NameKey": "ui_liandan_8",
+    "Chinese": "失败"
+  },
+  {
+    "NameKey": "ui_Explore_1",
+    "Chinese": "探索"
+  },
+  {
+    "NameKey": "ui_Explore_2",
+    "Chinese": "区域特产"
+  },
+  {
+    "NameKey": "ui_Explore_3",
+    "Chinese": "出发"
+  },
+  {
+    "NameKey": "ui_Explore_4",
+    "Chinese": "放弃探索"
+  },
+  {
+    "NameKey": "ui_Explore_5",
+    "Chinese": "个人属性"
+  },
+  {
+    "NameKey": "ui_Explore_6",
+    "Chinese": "生命值："
+  },
+  {
+    "NameKey": "ui_Explore_7",
+    "Chinese": "继续探索"
+  },
+  {
+    "NameKey": "ui_Explore_8",
+    "Chinese": "个人属性"
+  },
+  {
+    "NameKey": "ui_Explore_9",
+    "Chinese": "已收获："
+  },
+  {
+    "NameKey": "ui_Explore_10",
+    "Chinese": "探索成功"
+  },
+  {
+    "NameKey": "ui_Explore_11",
+    "Chinese": "结束"
+  },
+  {
+    "NameKey": "ui_Explore_12",
+    "Chinese": "回顾："
+  },
+  {
+    "NameKey": "ui_Explore_13",
+    "Chinese": "获得：{0}"
+  },
+  {
+    "NameKey": "ui_Explore_14",
+    "Chinese": "推荐境界："
+  },
+  {
+    "NameKey": "ui_RoleInfo_1",
+    "Chinese": "人物"
+  },
+  {
+    "NameKey": "ui_RoleInfo_2",
+    "Chinese": "装备"
+  },
+  {
+    "NameKey": "ui_RoleInfo_3",
+    "Chinese": "境界"
+  },
+  {
+    "NameKey": "ui_RoleInfo_4",
+    "Chinese": "体力："
+  },
+  {
+    "NameKey": "ui_RoleInfo_5",
+    "Chinese": "灵力："
+  },
+  {
+    "NameKey": "ui_RoleInfo_6",
+    "Chinese": "基础属性"
+  },
+  {
+    "NameKey": "ui_RoleInfo_7",
+    "Chinese": "功法"
+  },
+  {
+    "NameKey": "ui_RoleInfo_8",
+    "Chinese": "修炼状态"
+  },
+  {
+    "NameKey": "ui_RoleInfo_9",
+    "Chinese": "筑基"
+  },
+  {
+    "NameKey": "ui_RoleInfo_10",
+    "Chinese": "必要材料"
+  },
+  {
+    "NameKey": "ui_RoleInfo_11",
+    "Chinese": "突破"
+  },
+  {
+    "NameKey": "ui_RoleInfo_12",
+    "Chinese": "突破几率：<color=#da4835>{0}%</color>"
+  },
+  {
+    "NameKey": "ui_RoleInfo_13",
+    "Chinese": "选择材料"
+  },
+  {
+    "NameKey": "ui_RoleInfo_14",
+    "Chinese": "修为：{0}/{1}"
+  },
+  {
+    "NameKey": "ui_RoleInfo_15",
+    "Chinese": "服药"
+  },
+  {
+    "NameKey": "ui_RoleInfo_16",
+    "Chinese": "境界突破"
+  },
+  {
+    "NameKey": "ui_RoleInfo_17",
+    "Chinese": "功能解锁"
+  },
+  {
+    "NameKey": "ui_RoleInfo_18",
+    "Chinese": "突破失败"
+  },
+  {
+    "NameKey": "ui_RoleInfo_19",
+    "Chinese": "修为降低"
+  },
+  {
+    "NameKey": "ui_RoleInfo_20",
+    "Chinese": "修炼状态"
+  },
+  {
+    "NameKey": "ui_RoleInfo_21",
+    "Chinese": "种族："
+  },
+  {
+    "NameKey": "ui_RoleInfo_22",
+    "Chinese": "性别："
+  },
+  {
+    "NameKey": "ui_RoleInfo_23",
+    "Chinese": "天材地宝"
+  },
+  {
+    "NameKey": "ui_RoleInfo_24",
+    "Chinese": "选择丹药"
+  },
+  {
+    "NameKey": "ui_RoleInfo_25",
+    "Chinese": "修为+<color=white>{0}</color>"
+  },
+  {
+    "NameKey": "ui_RoleInfo_26",
+    "Chinese": "修为：{0}"
+  },
+  {
+    "NameKey": "ui_RoleInfo_27",
+    "Chinese": "丹毒 * {0}"
+  },
+  {
+    "NameKey": "ui_RoleInfo_28",
+    "Chinese": "丹毒累计：{0}"
+  },
+  {
+    "NameKey": "ui_Gender_0",
+    "Chinese": "男"
+  },
+  {
+    "NameKey": "ui_Gender_1",
+    "Chinese": "女"
+  },
+  {
+    "NameKey": "ui_RoleRace_1",
+    "Chinese": "人族"
+  },
+  {
+    "NameKey": "notice_10001",
+    "Chinese": "突破成功！"
+  },
+  {
+    "NameKey": "notice_10002",
+    "Chinese": "升级成功！"
+  },
+  {
+    "NameKey": "notice_10003",
+    "Chinese": "已有作物！"
+  },
+  {
+    "NameKey": "notice_10004",
+    "Chinese": "没有耕地！"
+  },
+  {
+    "NameKey": "notice_10005",
+    "Chinese": "不可操作！"
+  },
+  {
+    "NameKey": "notice_10006",
+    "Chinese": "道具数量不足！"
+  },
+  {
+    "NameKey": "Stage_1001",
+    "Chinese": "密林"
+  },
+  {
+    "NameKey": "StageDes_Stage_1001",
+    "Chinese": "由于人烟罕至，这里的林木生长得极为随意。挺拔的树木与纠缠的藤蔓争抢着每一寸阳光，地表铺满了厚实的苔藓，踩上去软绵绵的，却总让人担心滑倒。空气清新得有些醉人，带着泥土的芬芳和草木的清香。"
+  },
+  {
+    "NameKey": "EventDes_1001",
+    "Chinese": "丛林中立着两块古石碑。左边的石碑色泽金黄，碑面刻满雷纹，透着一股霸道刚猛的气息；右边的石碑青光流转，碑身轻盈半透明，四周环绕着经久不散的微风。"
+  },
+  {
+    "NameKey": "EventDes_2001",
+    "Chinese": "路边的杂草丛生得异常茂盛，半人高的草叶无风自动，隐约传来一阵窸窣声，似乎有什么东西潜伏在其中。"
+  },
+  {
+    "NameKey": "EventDes_20011",
+    "Chinese": "野猪鬃毛倒竖横冲而出，獠牙寒光慑人，惊得人措手不及。"
+  },
+  {
+    "NameKey": "EventDes_2002",
+    "Chinese": "前方被一片带刺的深紫色荆棘完全封死。这些荆棘在微风中微微抖动，仿佛有生命一般阻拦着任何入侵者。"
+  },
+  {
+    "NameKey": "EventDes_20021",
+    "Chinese": "穿过那片压抑的荆棘林后，眼前豁然开朗。一汪深潭映入眼帘，平整的巨石倒映着你身影，此处正是入林后的第一处休憩点。"
+  },
+  {
+    "NameKey": "EventDes_20022",
+    "Chinese": "洗去尘土离开古潭时，地面突然剧烈震动，一只糊满干硬泥壳的野猪咆哮冲出，两根獠牙如铁钩般带着掀翻一切的气势向你撞来。"
+  },
+  {
+    "NameKey": "EventDes_20023",
+    "Chinese": "摆脱野猪的纠缠，深入林地后，前方传来震耳欲聋的水声。一道冰冷刺骨的瀑布从高崖倾泻而下，阻断了唯一的去路。"
+  },
+  {
+    "NameKey": "EventDes_20024",
+    "Chinese": "跨过寒潭激流，一株上好的灵植映入眼帘。然而草木交错间，一抹诡异的翠绿悄然锁定你的咽喉，毒蛇吞吐蛇信的嘶嘶声在死寂的林间格外刺耳。"
+  },
+  {
+    "NameKey": "EventDes_2003",
+    "Chinese": "你路过一片空地，看见一只毛发呈银灰色的奇特猿猴，正对着一颗硕大的圆润椰子施展一套名为“铁山靠”的动作。它时而撞树，时而做出优雅的转身，口中似乎在念叨着什么。"
+  },
+  {
+    "NameKey": "EventDes_2004",
+    "Chinese": "路边蹲着一位满脸愁容的少年，他穿着一件破败的衣裳，胸前似乎还有某种图案，但早已模糊不清。见你路过，他猛地拉住你，带着哭腔说：“哥们，有个吴姓掌柜欠了许久的工钱，我又饿又累，实在是干不动了，你能帮我把这捆上好的‘桃薪’柴料，搬到山下去找位达官贵人收了吗？”"
+  },
+  {
+    "NameKey": "Action_10011",
+    "Chinese": "参悟左侧石碑"
+  },
+  {
+    "NameKey": "Action_10012",
+    "Chinese": "参悟右侧石碑"
+  },
+  {
+    "NameKey": "Action_20011",
+    "Chinese": "探查草丛"
+  },
+  {
+    "NameKey": "Action_20012",
+    "Chinese": "视而不见"
+  },
+  {
+    "NameKey": "Action_200111",
+    "Chinese": "教训野猪"
+  },
+  {
+    "NameKey": "Action_200112",
+    "Chinese": "立刻逃离"
+  },
+  {
+    "NameKey": "Action_20021",
+    "Chinese": "徒手撕开"
+  },
+  {
+    "NameKey": "Action_20022",
+    "Chinese": "俯身钻行"
+  },
+  {
+    "NameKey": "Action_200211",
+    "Chinese": "搬石练力"
+  },
+  {
+    "NameKey": "Action_200212",
+    "Chinese": "临溪观影"
+  },
+  {
+    "NameKey": "Action_200221",
+    "Chinese": "正面硬撞"
+  },
+  {
+    "NameKey": "Action_200222",
+    "Chinese": "旋身规避"
+  },
+  {
+    "NameKey": "Action_200231",
+    "Chinese": "瀑下撑体"
+  },
+  {
+    "NameKey": "Action_200232",
+    "Chinese": "沿壁探寻"
+  },
+  {
+    "NameKey": "Action_200241",
+    "Chinese": "锁蛇七寸"
+  },
+  {
+    "NameKey": "Action_200242",
+    "Chinese": "横臂挡毒"
+  },
+  {
+    "NameKey": "Action_20031",
+    "Chinese": "暴力抢椰"
+  },
+  {
+    "NameKey": "Action_20032",
+    "Chinese": "跟上节奏"
+  },
+  {
+    "NameKey": "Action_20033",
+    "Chinese": "默默离开"
+  },
+  {
+    "NameKey": "Action_20041",
+    "Chinese": "仗义相助"
+  },
+  {
+    "NameKey": "Action_20042",
+    "Chinese": "仗义执言"
+  },
+  {
+    "NameKey": "Action_20043",
+    "Chinese": "礼貌拒绝"
+  },
+  {
+    "NameKey": "ActionDes_10011",
+    "Chinese": "将手按在粗糙的碑面上，决心感受这股霸道的气息。"
+  },
+  {
+    "NameKey": "ActionDes_10012",
+    "Chinese": "选择走向右侧，闭目感悟那股轻灵的旋律。"
+  },
+  {
+    "NameKey": "ActionDes_20011",
+    "Chinese": "屏息凝神，拨开草丛一探究竟。"
+  },
+  {
+    "NameKey": "ActionDes_20012",
+    "Chinese": "保持警惕，直接绕行。"
+  },
+  {
+    "NameKey": "ActionDes_200111",
+    "Chinese": "壮起胆子决心跟野猪正面对决。"
+  },
+  {
+    "NameKey": "ActionDes_200112",
+    "Chinese": "不可对抗。保全自身要紧。"
+  },
+  {
+    "NameKey": "ActionDes_20021",
+    "Chinese": "凭借一身蛮力向两侧强行扯开通路。"
+  },
+  {
+    "NameKey": "ActionDes_20022",
+    "Chinese": "试图从棘刺根部的窄缝中匍匐爬过。"
+  },
+  {
+    "NameKey": "ActionDes_200211",
+    "Chinese": "反复举起百斤圆石锻炼自身。"
+  },
+  {
+    "NameKey": "ActionDes_200212",
+    "Chinese": "盯着鱼群模仿身法。"
+  },
+  {
+    "NameKey": "ActionDes_200221",
+    "Chinese": "下沉肩膀迎头反撞。"
+  },
+  {
+    "NameKey": "ActionDes_200222",
+    "Chinese": "锁定野猪冲锋路径，利用树木发力蹬地，在獠牙触及腹部的瞬间跃开。"
+  },
+  {
+    "NameKey": "ActionDes_200231",
+    "Chinese": "赤膊走入瀑布中心，任由千斤水流捶打皮肉。"
+  },
+  {
+    "NameKey": "ActionDes_200232",
+    "Chinese": "避开瀑布冲击，在潮湿的崖壁缝隙中仔细摸索。"
+  },
+  {
+    "NameKey": "ActionDes_200241",
+    "Chinese": "试图在被咬中前死死卡住其七寸。"
+  },
+  {
+    "NameKey": "ActionDes_200242",
+    "Chinese": "背对毒蛇强行夺取。"
+  },
+  {
+    "NameKey": "ActionDes_20031",
+    "Chinese": "在它转身的一瞬间，利用爆发力强行截走那颗椰子，结束这场漫长的才艺表演。"
+  },
+  {
+    "NameKey": "ActionDes_20032",
+    "Chinese": "尝试在它背后模仿一段唱、跳的律动，看看能不能达成共鸣理解它的话语。"
+  },
+  {
+    "NameKey": "ActionDes_20033",
+    "Chinese": "这种艺术形式对你来说还是太超前了，你决定不看、不听、不评论。"
+  },
+  {
+    "NameKey": "ActionDes_20041",
+    "Chinese": "帮他扛起那捆沉重如山的薪柴。感觉这不仅需要体力，更需要一颗能承受毒打的强大心脏。"
+  },
+  {
+    "NameKey": "ActionDes_20042",
+    "Chinese": "尝试对着森林大喊：“还钱！不要让老实人寒心！”试图以此引发天雷惩罚黑心掌柜。"
+  },
+  {
+    "NameKey": "ActionDes_20043",
+    "Chinese": "你深知“打白工”是常态，这种麻烦事还是少管为妙，低头快步走开。"
+  },
+  {
+    "NameKey": "ResultTxt_100111",
+    "Chinese": "刹那间，狂暴的雷霆之力透掌而入。你强忍经脉被灼烧的剧痛，借用天雷之气反复淬炼皮肉骨骼。待雷光散去，你的躯体坚如玄铁。与此同时，右侧的石碑发出一声哀鸣，化为凡土。<br>获得：<color=#ff9c00>攻击力+10。</color>"
+  },
+  {
+    "NameKey": "ResultTxt_100121",
+    "Chinese": "你感到身体变得越来越轻，体内真气的运转速度快了一倍有余，仿佛随时能御风而行。你睁开眼，步履变得轻盈诡谲。与此同时，左侧的石碑也因灵气耗尽，崩碎成一地乱石。<br>获得：<color=#ff9c00>速度+10。</color>"
+  },
+  {
+    "NameKey": "ResultTxt_200111",
+    "Chinese": "你刚挑开草叶，一只受惊的野猪猛然窜出，带着一股腥风向你撞来！"
+  },
+  {
+    "NameKey": "ResultTxt_200112",
+    "Chinese": "你拨开乱草，发现受惊的只是一只山兔。但在草根深处，意外生长着几株散发幽香的灵草。"
+  },
+  {
+    "NameKey": "ResultTxt_200113",
+    "Chinese": "你小心翼翼地探查了一番，除了被踩断的枯枝，草丛里空无一物。"
+  },
+  {
+    "NameKey": "ResultTxt_200121",
+    "Chinese": "修仙界凶险万分，你深知“好奇害死猫”的道理。你加快脚步绕开了那片诡异的草丛。"
+  },
+  {
+    "NameKey": "ResultTxt_2001111",
+    "Chinese": "几轮苦战后，终于寻得破绽一击毙命，制伏了野猪。它庞大的身躯重重倒地，震起一片烟尘<br>"
+  },
+  {
+    "NameKey": "ResultTxt_2001112",
+    "Chinese": "野猪力大无穷。一记蛮横的冲撞，你被撞飞数丈，胸口一阵沉闷，自知不敌，只能狼狈遁走。"
+  },
+  {
+    "NameKey": "ResultTxt_2001121",
+    "Chinese": "你虚晃一招，转身便逃。勉强甩掉了野猪的追击。"
+  },
+  {
+    "NameKey": "ResultTxt_200211",
+    "Chinese": "你生生将荆棘丛撕出一道缺口，蛮劲爆发让你信心大增。"
+  },
+  {
+    "NameKey": "ResultTxt_200212",
+    "Chinese": "坚韧的倒钩深深扎入掌心，你不仅未能破障，反而被拉扯得满手鲜血，狼狈不堪。"
+  },
+  {
+    "NameKey": "ResultTxt_200221",
+    "Chinese": "你如蛇般滑过泥泞，惊险避开所有钩刺。"
+  },
+  {
+    "NameKey": "ResultTxt_200222",
+    "Chinese": "由于动作迟钝，后背被纵横的尖刺瞬间挂住，挣扎间皮肉被划开数道深痕。"
+  },
+  {
+    "NameKey": "ResultTxt_2002111",
+    "Chinese": "你借着潭水洗去身上的疲惫，在压榨潜能中感到劲力倍增。<br>获得：<color=#ff9c00>攻击力+15。</color>"
+  },
+  {
+    "NameKey": "ResultTxt_2002121",
+    "Chinese": "你沉浸在鱼群的游弋中，动作愈发轻灵。<br>获得：<color=#ff9c00>速度+15。</color>"
+  },
+  {
+    "NameKey": "ResultTxt_2002211",
+    "Chinese": "一记重撞竟生生止住了巨兽，随后锁住猪颈将其掀翻在地。<br>"
+  },
+  {
+    "NameKey": "ResultTxt_2002212",
+    "Chinese": "被正面撞飞后胸口剧痛，五脏六腑都在剧烈翻腾，索性借势离开此地，不与其纠缠。"
+  },
+  {
+    "NameKey": "ResultTxt_2002221",
+    "Chinese": "于毫秒间避开了撞击，野猪收势不住撞死在古树上。<br>"
+  },
+  {
+    "NameKey": "ResultTxt_2002222",
+    "Chinese": "反应慢了半拍，虽然避开了大部分撞击的势头，但整个人翻滚出数米远，还是赶紧走比较好。"
+  },
+  {
+    "NameKey": "ResultTxt_2002311",
+    "Chinese": "剧痛之后是前所未有的充盈感，皮肉变得坚韧如革。<br>获得：<color=#ff9c00>防御力+15</color>"
+  },
+  {
+    "NameKey": "ResultTxt_2002321",
+    "Chinese": "在瀑布内岩壁上寻到不知道何人遗留在此的一套《坤派拳谱》。短暂学习后对接下来的路更有了把握。<br>获得：<color=#ff9c00>攻击力+15</color>"
+  },
+  {
+    "NameKey": "ResultTxt_2002411",
+    "Chinese": "正当毒蛇攻击之际，迅速扼住了其七寸之处。使其攻势完全化解，无法在触及到你。顺利拿到灵植，成功离开了这片凶险的紫棘林。<br>"
+  },
+  {
+    "NameKey": "ResultTxt_2002412",
+    "Chinese": "毒蛇迅猛超乎预料，咬穿了你的虎口。你只能在视线模糊前拼命逃亡。"
+  },
+  {
+    "NameKey": "ResultTxt_2002421",
+    "Chinese": "毒牙刺中强化的皮肉却无法深入，硬扛着灼烧感稳稳夺下灵草。<br>"
+  },
+  {
+    "NameKey": "ResultTxt_2002422",
+    "Chinese": "毒蛇迅猛超乎预料，咬住了你的手臂。你只能在视线模糊前拼命逃亡。"
+  },
+  {
+    "NameKey": "ResultTxt_200311",
+    "Chinese": "猿猴被你的气场震慑，羞愤掩面而逃。<br>"
+  },
+  {
+    "NameKey": "ResultTxt_200312",
+    "Chinese": "你被它一个华丽的虚晃闪了腰，它甚至还对你做了一个手势后朝远处跑去。"
+  },
+  {
+    "NameKey": "ResultTxt_200321",
+    "Chinese": "你完美复刻了其神韵，猿猴引你为知己，大方地拿出珍贵的礼物送给你。<br>"
+  },
+  {
+    "NameKey": "ResultTxt_200322",
+    "Chinese": "你跳得像个坏掉的提线木偶，猿猴发出一声鄙夷的叫声，带着椰子迅速跑远了。"
+  },
+  {
+    "NameKey": "ResultTxt_200331",
+    "Chinese": "你保护了神智不被污染。"
+  },
+  {
+    "NameKey": "ResultTxt_200411",
+    "Chinese": "你硬生生抗住了那捆沉重的‘桃薪’柴料，苦力感动得泪流满面，递给你一张他偷出来的吴姓掌柜私藏。<br>"
+  },
+  {
+    "NameKey": "ResultTxt_200412",
+    "Chinese": "这捆薪柴重得离谱，你刚背上就差点被压扁，只能尴尬地把它放下。苦力叹了口气，继续蹲在路边画圈圈。"
+  },
+  {
+    "NameKey": "ResultTxt_200421",
+    "Chinese": "天空中划过一道闷雷，一张写着‘已受理’的字条竟真的从天而降掉在你面前，苍天有眼啊。<br>获得：<color=#ff9c00>攻击力+5。</color>"
+  },
+  {
+    "NameKey": "ResultTxt_200422",
+    "Chinese": "除了自己的回声，再也没有了任何声响。"
+  },
+  {
+    "NameKey": "ResultTxt_200431",
+    "Chinese": "真是爱莫能助啊，只能默默离去。"
+  },
+  {
+    "NameKey": "attr_name_301",
+    "Chinese": "最大生命值"
+  },
+  {
+    "NameKey": "attr_name_302",
+    "Chinese": "攻击力"
+  },
+  {
+    "NameKey": "attr_name_303",
+    "Chinese": "防御力"
+  },
+  {
+    "NameKey": "attr_name_304",
+    "Chinese": "速度"
+  },
+  {
+    "NameKey": "attr_name_305",
+    "Chinese": "灵力"
+  },
+  {
+    "NameKey": "attr_name_306",
+    "Chinese": "精力"
+  },
+  {
+    "NameKey": "attr_name_307",
+    "Chinese": "最大寿元"
+  }
+]

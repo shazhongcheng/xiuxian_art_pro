@@ -1,0 +1,374 @@
+[
+  {
+    "Level": 1,
+    "ExpVa": 1000,
+    "Name": "练气1层",
+    "LvGroup": 1,
+    "BreakItem": [],
+    "BreakProbability": 10000,
+    "Effect": [],
+    "FailedItem": [
+      [
+        1200000,
+        5000
+      ]
+    ],
+    "ExtraItem": []
+  },
+  {
+    "Level": 2,
+    "ExpVa": 1500,
+    "Name": "练气2层",
+    "LvGroup": 1,
+    "BreakItem": [],
+    "BreakProbability": 10000,
+    "Effect": [],
+    "FailedItem": [],
+    "ExtraItem": []
+  },
+  {
+    "Level": 3,
+    "ExpVa": 2000,
+    "Name": "练气3层",
+    "LvGroup": 1,
+    "BreakItem": [],
+    "BreakProbability": 10000,
+    "Effect": [],
+    "FailedItem": [],
+    "ExtraItem": []
+  },
+  {
+    "Level": 4,
+    "ExpVa": 2500,
+    "Name": "练气4层",
+    "LvGroup": 1,
+    "BreakItem": [
+      [
+        300010,
+        1
+      ],
+      [
+        300060,
+        2
+      ]
+    ],
+    "BreakProbability": 10000,
+    "Effect": [
+      [
+        301,
+        50
+      ],
+      [
+        302,
+        5
+      ],
+      [
+        303,
+        1
+      ]
+    ],
+    "FailedItem": [],
+    "ExtraItem": []
+  },
+  {
+    "Level": 5,
+    "ExpVa": 3000,
+    "Name": "练气5层",
+    "LvGroup": 1,
+    "BreakItem": [],
+    "BreakProbability": 10000,
+    "Effect": [],
+    "FailedItem": [],
+    "ExtraItem": []
+  },
+  {
+    "Level": 6,
+    "ExpVa": 3500,
+    "Name": "练气6层",
+    "LvGroup": 1,
+    "BreakItem": [],
+    "BreakProbability": 10000,
+    "Effect": [],
+    "FailedItem": [],
+    "ExtraItem": []
+  },
+  {
+    "Level": 7,
+    "ExpVa": 4000,
+    "Name": "练气7层",
+    "LvGroup": 1,
+    "BreakItem": [
+      [
+        500001,
+        1
+      ]
+    ],
+    "BreakProbability": 10000,
+    "Effect": [
+      [
+        301,
+        50
+      ],
+      [
+        302,
+        5
+      ],
+      [
+        303,
+        1
+      ]
+    ],
+    "FailedItem": [],
+    "ExtraItem": []
+  },
+  {
+    "Level": 8,
+    "ExpVa": 4500,
+    "Name": "练气8层",
+    "LvGroup": 1,
+    "BreakItem": [],
+    "BreakProbability": 10000,
+    "Effect": [],
+    "FailedItem": [],
+    "ExtraItem": []
+  },
+  {
+    "Level": 9,
+    "ExpVa": 5000,
+    "Name": "练气9层",
+    "LvGroup": 1,
+    "BreakItem": [],
+    "BreakProbability": 10000,
+    "Effect": [],
+    "FailedItem": [],
+    "ExtraItem": []
+  },
+  {
+    "Level": 10,
+    "ExpVa": 5500,
+    "Name": "练气10层",
+    "LvGroup": 1,
+    "BreakItem": [
+      [
+        500005,
+        1
+      ]
+    ],
+    "BreakProbability": 4000,
+    "Effect": [
+      [
+        301,
+        50
+      ],
+      [
+        302,
+        5
+      ],
+      [
+        303,
+        1
+      ]
+    ],
+    "FailedItem": [],
+    "ExtraItem": [
+      [
+        700000,
+        -500
+      ],
+      [
+        700001,
+        1000
+      ],
+      [
+        700002,
+        300
+      ],
+      [
+        700003,
+        500
+      ]
+    ]
+  },
+  {
+    "Level": 11,
+    "ExpVa": 6000,
+    "Name": "筑基1层",
+    "LvGroup": 2,
+    "BreakItem": [],
+    "BreakProbability": 10000,
+    "Effect": [
+      [
+        301,
+        200
+      ],
+      [
+        302,
+        20
+      ],
+      [
+        303,
+        1
+      ],
+      [
+        304,
+        3
+      ]
+    ],
+    "FailedItem": [],
+    "ExtraItem": []
+  },
+  {
+    "Level": 12,
+    "ExpVa": 6500,
+    "Name": "筑基2层",
+    "LvGroup": 2,
+    "BreakItem": [],
+    "BreakProbability": 10000,
+    "Effect": [],
+    "FailedItem": [],
+    "ExtraItem": []
+  },
+  {
+    "Level": 13,
+    "ExpVa": 7000,
+    "Name": "筑基3层",
+    "LvGroup": 2,
+    "BreakItem": [],
+    "BreakProbability": 10000,
+    "Effect": [],
+    "FailedItem": [],
+    "ExtraItem": []
+  },
+  {
+    "Level": 14,
+    "ExpVa": 7500,
+    "Name": "筑基4层",
+    "LvGroup": 2,
+    "BreakItem": [],
+    "BreakProbability": 10000,
+    "Effect": [],
+    "FailedItem": [],
+    "ExtraItem": []
+  },
+  {
+    "Level": 15,
+    "ExpVa": 8000,
+    "Name": "筑基5层",
+    "LvGroup": 2,
+    "BreakItem": [],
+    "BreakProbability": 10000,
+    "Effect": [],
+    "FailedItem": [],
+    "ExtraItem": []
+  },
+  {
+    "Level": 16,
+    "ExpVa": 8500,
+    "Name": "筑基6层",
+    "LvGroup": 2,
+    "BreakItem": [],
+    "BreakProbability": 10000,
+    "Effect": [],
+    "FailedItem": [],
+    "ExtraItem": []
+  },
+  {
+    "Level": 17,
+    "ExpVa": 9000,
+    "Name": "筑基7层",
+    "LvGroup": 2,
+    "BreakItem": [],
+    "BreakProbability": 10000,
+    "Effect": [],
+    "FailedItem": [],
+    "ExtraItem": []
+  },
+  {
+    "Level": 18,
+    "ExpVa": 9500,
+    "Name": "筑基8层",
+    "LvGroup": 2,
+    "BreakItem": [],
+    "BreakProbability": 10000,
+    "Effect": [],
+    "FailedItem": [],
+    "ExtraItem": []
+  },
+  {
+    "Level": 19,
+    "ExpVa": 10000,
+    "Name": "筑基9层",
+    "LvGroup": 2,
+    "BreakItem": [],
+    "BreakProbability": 10000,
+    "Effect": [],
+    "FailedItem": [],
+    "ExtraItem": []
+  },
+  {
+    "Level": 20,
+    "ExpVa": 10500,
+    "Name": "筑基10层",
+    "LvGroup": 2,
+    "BreakItem": [
+      [
+        700004,
+        5
+      ]
+    ],
+    "BreakProbability": 1000,
+    "Effect": [],
+    "FailedItem": [],
+    "ExtraItem": [
+      [
+        700000,
+        -500
+      ],
+      [
+        700001,
+        1000
+      ],
+      [
+        700002,
+        300
+      ],
+      [
+        700003,
+        500
+      ]
+    ]
+  },
+  {
+    "Level": 21,
+    "ExpVa": 11000,
+    "Name": "金丹1层",
+    "LvGroup": 3,
+    "BreakItem": [],
+    "BreakProbability": 10000,
+    "Effect": [],
+    "FailedItem": [],
+    "ExtraItem": []
+  },
+  {
+    "Level": 22,
+    "ExpVa": 11500,
+    "Name": "金丹2层",
+    "LvGroup": 3,
+    "BreakItem": [],
+    "BreakProbability": 10000,
+    "Effect": [],
+    "FailedItem": [],
+    "ExtraItem": []
+  },
+  {
+    "Level": 23,
+    "ExpVa": 0,
+    "Name": "金丹3层",
+    "LvGroup": 3,
+    "BreakItem": [],
+    "BreakProbability": 10000,
+    "Effect": [],
+    "FailedItem": [],
+    "ExtraItem": []
+  }
+]

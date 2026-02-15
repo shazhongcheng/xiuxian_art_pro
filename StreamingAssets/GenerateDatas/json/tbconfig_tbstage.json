@@ -1,0 +1,15 @@
+[
+  {
+    "Id": 1001,
+    "Name": "Stage_1001",
+    "Desc": "StageDes_Stage_1001",
+    "EventGroups": [
+      101,
+      201,
+      202
+    ],
+    "RecommendLevel": 10,
+    "EventReward": [],
+    "FinishReward": 1
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "Id": 500001,
+    "Trait": 0,
+    "ToxinThreshold": 2,
+    "EffectType": 1,
+    "Effect": [
+      1200002,
+      10
+    ]
+  },
+  {
+    "Id": 500002,
+    "Trait": 0,
+    "ToxinThreshold": 6,
+    "EffectType": 1,
+    "Effect": [
+      1200002,
+      20
+    ]
+  },
+  {
+    "Id": 500003,
+    "Trait": 0,
+    "ToxinThreshold": 6,
+    "EffectType": 1,
+    "Effect": [
+      1200002,
+      100
+    ]
+  },
+  {
+    "Id": 500004,
+    "Trait": 0,
+    "ToxinThreshold": 12,
+    "EffectType": 1,
+    "Effect": [
+      1200002,
+      210
+    ]
+  },
+  {
+    "Id": 500005,
+    "Trait": 0,
+    "ToxinThreshold": 12,
+    "EffectType": 1,
+    "Effect": [
+      1200002,
+      320
+    ]
+  },
+  {
+    "Id": 500006,
+    "Trait": 0,
+    "ToxinThreshold": 2,
+    "EffectType": 1,
+    "Effect": [
+      1200003,
+      10
+    ]
+  },
+  {
+    "Id": 500007,
+    "Trait": 0,
+    "ToxinThreshold": 6,
+    "EffectType": 1,
+    "Effect": [
+      1200003,
+      50
+    ]
+  },
+  {
+    "Id": 500008,
+    "Trait": 0,
+    "ToxinThreshold": 6,
+    "EffectType": 1,
+    "Effect": [
+      1200003,
+      100
+    ]
+  },
+  {
+    "Id": 500009,
+    "Trait": 0,
+    "ToxinThreshold": 12,
+    "EffectType": 1,
+    "Effect": [
+      1200003,
+      210
+    ]
+  },
+  {
+    "Id": 500010,
+    "Trait": 0,
+    "ToxinThreshold": 12,
+    "EffectType": 1,
+    "Effect": [
+      1200003,
+      323
+    ]
+  },
+  {
+    "Id": 500011,
+    "Trait": 0,
+    "ToxinThreshold": 2,
+    "EffectType": 1,
+    "Effect": [
+      1200000,
+      20
+    ]
+  },
+  {
+    "Id": 500012,
+    "Trait": 0,
+    "ToxinThreshold": 6,
+    "EffectType": 1,
+    "Effect": [
+      1200000,
+      120
+    ]
+  },
+  {
+    "Id": 500013,
+    "Trait": 0,
+    "ToxinThreshold": 6,
+    "EffectType": 2,
+    "Effect": [
+      30001,
+      1
+    ]
+  },
+  {
+    "Id": 500014,
+    "Trait": 0,
+    "ToxinThreshold": 0,
+    "EffectType": 0,
+    "Effect": []
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "EffectId": 101,
+    "Name": "Damage",
+    "SkillId": 1,
+    "UnlockLevel": 1,
+    "OrderIndex": 1,
+    "EffectType": 1,
+    "Param1": 10,
+    "Param2": 0,
+    "Param3": 0,
+    "EffectTargetType": 1,
+    "EffectTargetTypeChoose": 0
+  },
+  {
+    "EffectId": 201,
+    "Name": "Damage",
+    "SkillId": 2,
+    "UnlockLevel": 1,
+    "OrderIndex": 1,
+    "EffectType": 1,
+    "Param1": 10,
+    "Param2": 0,
+    "Param3": 0,
+    "EffectTargetType": 1,
+    "EffectTargetTypeChoose": 0
+  },
+  {
+    "EffectId": 202,
+    "Name": "上中毒状态",
+    "SkillId": 2,
+    "UnlockLevel": 1,
+    "OrderIndex": 2,
+    "EffectType": 4,
+    "Param1": 101,
+    "Param2": 3,
+    "Param3": 1,
+    "EffectTargetType": 0,
+    "EffectTargetTypeChoose": 0
+  },
+  {
+    "EffectId": 203,
+    "Name": "上减速状态",
+    "SkillId": 2,
+    "UnlockLevel": 1,
+    "OrderIndex": 3,
+    "EffectType": 4,
+    "Param1": 201,
+    "Param2": 3,
+    "Param3": 1,
+    "EffectTargetType": 0,
+    "EffectTargetTypeChoose": 0
+  },
+  {
+    "EffectId": 204,
+    "Name": "上灼烧状态",
+    "SkillId": 2,
+    "UnlockLevel": 1,
+    "OrderIndex": 4,
+    "EffectType": 4,
+    "Param1": 301,
+    "Param2": 3,
+    "Param3": 1,
+    "EffectTargetType": 0,
+    "EffectTargetTypeChoose": 0
+  }
+]

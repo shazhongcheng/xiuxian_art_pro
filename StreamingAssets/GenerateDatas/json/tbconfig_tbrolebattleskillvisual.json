@@ -1,0 +1,16 @@
+[
+  {
+    "SkillId": 1,
+    "CastEffect": 1,
+    "CastAnim": 1,
+    "CastSound": 0,
+    "HitEffect": 0
+  },
+  {
+    "SkillId": 2,
+    "CastEffect": 2,
+    "CastAnim": 1,
+    "CastSound": 0,
+    "HitEffect": 0
+  }
+]

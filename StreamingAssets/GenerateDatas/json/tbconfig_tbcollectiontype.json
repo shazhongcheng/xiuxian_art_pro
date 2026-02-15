@@ -1,0 +1,24 @@
+[
+  {
+    "Id": 1,
+    "Name": "collectionType_1",
+    "LockText": "ui_lock_1",
+    "Image": "item_300020",
+    "Titles": [
+      "ui_collectionplant_1",
+      "ui_collectionplant_2",
+      "ui_collectionplant_3"
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "collectionType_2",
+    "LockText": "ui_lock_1",
+    "Image": "item_500001",
+    "Titles": [
+      "ui_collectiondrug_1",
+      "ui_collectiondrug_2",
+      "ui_collectiondrug_3"
+    ]
+  }
+]

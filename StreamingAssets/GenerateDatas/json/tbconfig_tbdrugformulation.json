@@ -1,0 +1,902 @@
+[
+  {
+    "Id": 600001,
+    "HeatControl": 1,
+    "Produce": 500001,
+    "NeedMaterial": [
+      [
+        1,
+        300010,
+        3
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": true
+  },
+  {
+    "Id": 600002,
+    "HeatControl": 1,
+    "Produce": 500002,
+    "NeedMaterial": [
+      [
+        1,
+        300160,
+        1
+      ],
+      [
+        2,
+        300060,
+        3
+      ],
+      [
+        4,
+        300160,
+        4
+      ],
+      [
+        6,
+        300260,
+        1
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": false
+  },
+  {
+    "Id": 600003,
+    "HeatControl": 1,
+    "Produce": 500002,
+    "NeedMaterial": [
+      [
+        1,
+        300161,
+        1
+      ],
+      [
+        2,
+        300060,
+        3
+      ],
+      [
+        6,
+        300260,
+        1
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": true
+  },
+  {
+    "Id": 600004,
+    "HeatControl": 1,
+    "Produce": 500003,
+    "NeedMaterial": [
+      [
+        1,
+        300160,
+        1
+      ],
+      [
+        2,
+        300061,
+        3
+      ],
+      [
+        4,
+        300160,
+        4
+      ],
+      [
+        6,
+        300260,
+        1
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": false
+  },
+  {
+    "Id": 600005,
+    "HeatControl": 1,
+    "Produce": 500003,
+    "NeedMaterial": [
+      [
+        1,
+        300161,
+        1
+      ],
+      [
+        2,
+        300061,
+        3
+      ],
+      [
+        6,
+        300260,
+        1
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": true
+  },
+  {
+    "Id": 600006,
+    "HeatControl": 1,
+    "Produce": 500004,
+    "NeedMaterial": [
+      [
+        1,
+        300160,
+        3
+      ],
+      [
+        2,
+        300062,
+        2
+      ],
+      [
+        4,
+        300161,
+        4
+      ],
+      [
+        6,
+        300262,
+        1
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": false
+  },
+  {
+    "Id": 600007,
+    "HeatControl": 1,
+    "Produce": 500004,
+    "NeedMaterial": [
+      [
+        1,
+        300161,
+        1
+      ],
+      [
+        2,
+        300062,
+        2
+      ],
+      [
+        4,
+        300161,
+        4
+      ],
+      [
+        6,
+        300262,
+        1
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": false
+  },
+  {
+    "Id": 600008,
+    "HeatControl": 1,
+    "Produce": 500004,
+    "NeedMaterial": [
+      [
+        1,
+        300162,
+        1
+      ],
+      [
+        2,
+        300062,
+        2
+      ],
+      [
+        6,
+        300262,
+        1
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": true
+  },
+  {
+    "Id": 600009,
+    "HeatControl": 1,
+    "Produce": 500005,
+    "NeedMaterial": [
+      [
+        1,
+        300160,
+        9
+      ],
+      [
+        2,
+        300063,
+        1
+      ],
+      [
+        3,
+        300111,
+        1
+      ],
+      [
+        4,
+        300162,
+        4
+      ],
+      [
+        5,
+        300211,
+        1
+      ],
+      [
+        6,
+        300263,
+        1
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": false
+  },
+  {
+    "Id": 600010,
+    "HeatControl": 1,
+    "Produce": 500005,
+    "NeedMaterial": [
+      [
+        1,
+        300161,
+        3
+      ],
+      [
+        2,
+        300063,
+        1
+      ],
+      [
+        3,
+        300111,
+        1
+      ],
+      [
+        4,
+        300162,
+        4
+      ],
+      [
+        5,
+        300211,
+        1
+      ],
+      [
+        6,
+        300263,
+        1
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": false
+  },
+  {
+    "Id": 600011,
+    "HeatControl": 1,
+    "Produce": 500005,
+    "NeedMaterial": [
+      [
+        1,
+        300162,
+        1
+      ],
+      [
+        2,
+        300063,
+        1
+      ],
+      [
+        3,
+        300111,
+        1
+      ],
+      [
+        4,
+        300162,
+        4
+      ],
+      [
+        5,
+        300211,
+        1
+      ],
+      [
+        6,
+        300263,
+        1
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": false
+  },
+  {
+    "Id": 600012,
+    "HeatControl": 1,
+    "Produce": 500005,
+    "NeedMaterial": [
+      [
+        1,
+        300163,
+        1
+      ],
+      [
+        2,
+        300063,
+        1
+      ],
+      [
+        3,
+        300111,
+        1
+      ],
+      [
+        5,
+        300211,
+        1
+      ],
+      [
+        6,
+        300263,
+        1
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": true
+  },
+  {
+    "Id": 600013,
+    "HeatControl": 1,
+    "Produce": 500006,
+    "NeedMaterial": [
+      [
+        1,
+        300030,
+        3
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": true
+  },
+  {
+    "Id": 600014,
+    "HeatControl": 1,
+    "Produce": 500007,
+    "NeedMaterial": [
+      [
+        1,
+        300210,
+        1
+      ],
+      [
+        3,
+        300110,
+        2
+      ],
+      [
+        4,
+        300160,
+        2
+      ],
+      [
+        5,
+        300210,
+        4
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": false
+  },
+  {
+    "Id": 600015,
+    "HeatControl": 1,
+    "Produce": 500007,
+    "NeedMaterial": [
+      [
+        1,
+        300211,
+        1
+      ],
+      [
+        3,
+        300110,
+        2
+      ],
+      [
+        4,
+        300160,
+        2
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": true
+  },
+  {
+    "Id": 600016,
+    "HeatControl": 1,
+    "Produce": 500008,
+    "NeedMaterial": [
+      [
+        1,
+        300210,
+        1
+      ],
+      [
+        3,
+        300111,
+        2
+      ],
+      [
+        4,
+        300161,
+        1
+      ],
+      [
+        5,
+        300210,
+        4
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": false
+  },
+  {
+    "Id": 600017,
+    "HeatControl": 1,
+    "Produce": 500008,
+    "NeedMaterial": [
+      [
+        1,
+        300211,
+        1
+      ],
+      [
+        3,
+        300111,
+        2
+      ],
+      [
+        4,
+        300161,
+        1
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": true
+  },
+  {
+    "Id": 600018,
+    "HeatControl": 1,
+    "Produce": 500009,
+    "NeedMaterial": [
+      [
+        1,
+        300210,
+        3
+      ],
+      [
+        3,
+        300112,
+        2
+      ],
+      [
+        4,
+        300161,
+        2
+      ],
+      [
+        5,
+        300211,
+        4
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": false
+  },
+  {
+    "Id": 600019,
+    "HeatControl": 1,
+    "Produce": 500009,
+    "NeedMaterial": [
+      [
+        1,
+        300211,
+        1
+      ],
+      [
+        3,
+        300112,
+        2
+      ],
+      [
+        4,
+        300161,
+        2
+      ],
+      [
+        5,
+        300211,
+        4
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": false
+  },
+  {
+    "Id": 600020,
+    "HeatControl": 1,
+    "Produce": 500009,
+    "NeedMaterial": [
+      [
+        1,
+        300212,
+        1
+      ],
+      [
+        3,
+        300112,
+        2
+      ],
+      [
+        4,
+        300161,
+        2
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": true
+  },
+  {
+    "Id": 600021,
+    "HeatControl": 1,
+    "Produce": 500010,
+    "NeedMaterial": [
+      [
+        1,
+        300210,
+        9
+      ],
+      [
+        2,
+        300061,
+        1
+      ],
+      [
+        3,
+        300113,
+        1
+      ],
+      [
+        4,
+        300162,
+        2
+      ],
+      [
+        5,
+        300212,
+        4
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": false
+  },
+  {
+    "Id": 600022,
+    "HeatControl": 1,
+    "Produce": 500010,
+    "NeedMaterial": [
+      [
+        1,
+        300211,
+        3
+      ],
+      [
+        2,
+        300061,
+        1
+      ],
+      [
+        3,
+        300113,
+        1
+      ],
+      [
+        4,
+        300162,
+        2
+      ],
+      [
+        5,
+        300212,
+        4
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": false
+  },
+  {
+    "Id": 600023,
+    "HeatControl": 1,
+    "Produce": 500010,
+    "NeedMaterial": [
+      [
+        1,
+        300212,
+        1
+      ],
+      [
+        2,
+        300061,
+        1
+      ],
+      [
+        3,
+        300113,
+        1
+      ],
+      [
+        4,
+        300162,
+        2
+      ],
+      [
+        5,
+        300212,
+        4
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": false
+  },
+  {
+    "Id": 600024,
+    "HeatControl": 1,
+    "Produce": 500010,
+    "NeedMaterial": [
+      [
+        1,
+        300213,
+        1
+      ],
+      [
+        2,
+        300061,
+        1
+      ],
+      [
+        3,
+        300113,
+        1
+      ],
+      [
+        4,
+        300162,
+        2
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": true
+  },
+  {
+    "Id": 600025,
+    "HeatControl": 1,
+    "Produce": 500011,
+    "NeedMaterial": [
+      [
+        1,
+        300020,
+        5
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": true
+  },
+  {
+    "Id": 600026,
+    "HeatControl": 1,
+    "Produce": 500012,
+    "NeedMaterial": [
+      [
+        1,
+        300260,
+        6
+      ],
+      [
+        3,
+        300110,
+        2
+      ],
+      [
+        4,
+        300160,
+        1
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": false
+  },
+  {
+    "Id": 600027,
+    "HeatControl": 1,
+    "Produce": 500012,
+    "NeedMaterial": [
+      [
+        1,
+        300261,
+        2
+      ],
+      [
+        3,
+        300110,
+        2
+      ],
+      [
+        4,
+        300160,
+        1
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": true
+  },
+  {
+    "Id": 600028,
+    "HeatControl": 1,
+    "Produce": 500013,
+    "NeedMaterial": [
+      [
+        1,
+        300113,
+        1
+      ],
+      [
+        2,
+        300061,
+        1
+      ],
+      [
+        4,
+        300161,
+        2
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": true
+  },
+  {
+    "Id": 600029,
+    "HeatControl": 1,
+    "Produce": 500014,
+    "NeedMaterial": [
+      [
+        1,
+        300262,
+        6
+      ],
+      [
+        2,
+        300061,
+        1
+      ],
+      [
+        3,
+        300112,
+        1
+      ],
+      [
+        4,
+        300162,
+        1
+      ],
+      [
+        5,
+        300211,
+        1
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": false
+  },
+  {
+    "Id": 600030,
+    "HeatControl": 1,
+    "Produce": 500014,
+    "NeedMaterial": [
+      [
+        1,
+        300263,
+        2
+      ],
+      [
+        2,
+        300061,
+        1
+      ],
+      [
+        3,
+        300112,
+        1
+      ],
+      [
+        4,
+        300162,
+        1
+      ],
+      [
+        5,
+        300211,
+        1
+      ]
+    ],
+    "Cost": [],
+    "Proficiency": 10,
+    "Image": "",
+    "Isshow": true
+  }
+]

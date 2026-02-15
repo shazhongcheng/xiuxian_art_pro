@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Name": "",
+    "Desc": "",
+    "TriggerType": 0,
+    "RepeatedNum": 0,
+    "TriggerConditions": [],
+    "RemoveConditions": [],
+    "RoleBuffIds": [
+      30001,
+      30002
+    ],
+    "Icon": ""
+  }
+]

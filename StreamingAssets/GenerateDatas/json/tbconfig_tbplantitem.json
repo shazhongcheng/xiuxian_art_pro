@@ -1,0 +1,2957 @@
+[
+  {
+    "Id": 200001,
+    "Name": "plantname_200001",
+    "PlantType": 1,
+    "Trait": 0,
+    "NeedTrait": -1,
+    "Conditions": [
+      [
+        30006
+      ]
+    ],
+    "Skills": [],
+    "NextState": 200002,
+    "MaxEnergy": 75,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200002,
+    "Name": "",
+    "PlantType": 1,
+    "Trait": 0,
+    "NeedTrait": -1,
+    "Conditions": [
+      [
+        30006
+      ]
+    ],
+    "Skills": [],
+    "NextState": 200003,
+    "MaxEnergy": 135,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/yunlinghua_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200003,
+    "Name": "",
+    "PlantType": 1,
+    "Trait": 0,
+    "NeedTrait": -1,
+    "Conditions": [
+      [
+        30006
+      ]
+    ],
+    "Skills": [],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300010
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/yunlinghua_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200004,
+    "Name": "plantname_200004",
+    "PlantType": 1,
+    "Trait": 0,
+    "NeedTrait": -1,
+    "Conditions": [
+      [
+        30006
+      ]
+    ],
+    "Skills": [],
+    "NextState": 200005,
+    "MaxEnergy": 50,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200005,
+    "Name": "",
+    "PlantType": 1,
+    "Trait": 0,
+    "NeedTrait": -1,
+    "Conditions": [
+      [
+        30006
+      ]
+    ],
+    "Skills": [],
+    "NextState": 200006,
+    "MaxEnergy": 150,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/ningqicao_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200006,
+    "Name": "",
+    "PlantType": 1,
+    "Trait": 0,
+    "NeedTrait": -1,
+    "Conditions": [
+      [
+        30006
+      ]
+    ],
+    "Skills": [],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300020
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/ningqicao_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200007,
+    "Name": "plantname_200007",
+    "PlantType": 1,
+    "Trait": 0,
+    "NeedTrait": -1,
+    "Conditions": [
+      [
+        30006
+      ]
+    ],
+    "Skills": [],
+    "NextState": 200008,
+    "MaxEnergy": 60,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200008,
+    "Name": "",
+    "PlantType": 1,
+    "Trait": 0,
+    "NeedTrait": -1,
+    "Conditions": [
+      [
+        30006
+      ]
+    ],
+    "Skills": [],
+    "NextState": 200009,
+    "MaxEnergy": 118,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/yangfucao_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200009,
+    "Name": "",
+    "PlantType": 1,
+    "Trait": 0,
+    "NeedTrait": -1,
+    "Conditions": [
+      [
+        30006
+      ]
+    ],
+    "Skills": [],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300030
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/yangfucao_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200010,
+    "Name": "plantname_200010",
+    "PlantType": 1,
+    "Trait": 0,
+    "NeedTrait": -1,
+    "Conditions": [
+      [
+        30006
+      ]
+    ],
+    "Skills": [],
+    "NextState": 200011,
+    "MaxEnergy": 55,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200011,
+    "Name": "",
+    "PlantType": 1,
+    "Trait": 0,
+    "NeedTrait": -1,
+    "Conditions": [
+      [
+        30006
+      ]
+    ],
+    "Skills": [],
+    "NextState": 200012,
+    "MaxEnergy": 110,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/huichuncao_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200012,
+    "Name": "",
+    "PlantType": 1,
+    "Trait": 0,
+    "NeedTrait": -1,
+    "Conditions": [
+      [
+        30006
+      ]
+    ],
+    "Skills": [],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300040
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/huichuncao_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200013,
+    "Name": "plantname_200013",
+    "PlantType": 1,
+    "Trait": 0,
+    "NeedTrait": -1,
+    "Conditions": [
+      [
+        30006
+      ]
+    ],
+    "Skills": [],
+    "NextState": 200014,
+    "MaxEnergy": 75,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200014,
+    "Name": "",
+    "PlantType": 1,
+    "Trait": 0,
+    "NeedTrait": -1,
+    "Conditions": [
+      [
+        30006
+      ]
+    ],
+    "Skills": [],
+    "NextState": 200015,
+    "MaxEnergy": 135,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/lingmai_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200015,
+    "Name": "",
+    "PlantType": 1,
+    "Trait": 0,
+    "NeedTrait": -1,
+    "Conditions": [
+      [
+        30006
+      ]
+    ],
+    "Skills": [],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300050
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/lingmai_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200016,
+    "Name": "plantname_200016",
+    "PlantType": 2,
+    "Trait": 1,
+    "NeedTrait": 1,
+    "Conditions": [
+      [
+        30001
+      ]
+    ],
+    "Skills": [
+      5001
+    ],
+    "NextState": 200017,
+    "MaxEnergy": 120,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200017,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 1,
+    "NeedTrait": 1,
+    "Conditions": [
+      [
+        30001
+      ]
+    ],
+    "Skills": [
+      5001
+    ],
+    "NextState": 200018,
+    "MaxEnergy": 236,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/jianjicao_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200018,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 1,
+    "NeedTrait": 1,
+    "Conditions": [
+      [
+        30001
+      ]
+    ],
+    "Skills": [
+      5001
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300060
+      ],
+      [
+        3001,
+        6000,
+        300061
+      ],
+      [
+        6001,
+        9000,
+        300062
+      ],
+      [
+        9001,
+        10000,
+        300063
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/jianjicao_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200019,
+    "Name": "plantname_200019",
+    "PlantType": 2,
+    "Trait": 1,
+    "NeedTrait": 1,
+    "Conditions": [
+      [
+        30001
+      ]
+    ],
+    "Skills": [
+      5001
+    ],
+    "NextState": 200020,
+    "MaxEnergy": 110,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200020,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 1,
+    "NeedTrait": 1,
+    "Conditions": [
+      [
+        30001
+      ]
+    ],
+    "Skills": [
+      5001
+    ],
+    "NextState": 200021,
+    "MaxEnergy": 198,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/chijinzhi_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200021,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 1,
+    "NeedTrait": 1,
+    "Conditions": [
+      [
+        30001
+      ]
+    ],
+    "Skills": [
+      5001
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300070
+      ],
+      [
+        3001,
+        6000,
+        300071
+      ],
+      [
+        6001,
+        9000,
+        300072
+      ],
+      [
+        9001,
+        10000,
+        300073
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/chijinzhi_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200022,
+    "Name": "plantname_200022",
+    "PlantType": 2,
+    "Trait": 1,
+    "NeedTrait": 1,
+    "Conditions": [
+      [
+        30001
+      ]
+    ],
+    "Skills": [
+      5001
+    ],
+    "NextState": 200023,
+    "MaxEnergy": 80,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200023,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 1,
+    "NeedTrait": 1,
+    "Conditions": [
+      [
+        30001
+      ]
+    ],
+    "Skills": [
+      5001
+    ],
+    "NextState": 200024,
+    "MaxEnergy": 170,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/liufenglan_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200024,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 1,
+    "NeedTrait": 1,
+    "Conditions": [
+      [
+        30001
+      ]
+    ],
+    "Skills": [
+      5001
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300080
+      ],
+      [
+        3001,
+        6000,
+        300081
+      ],
+      [
+        6001,
+        9000,
+        300082
+      ],
+      [
+        9001,
+        10000,
+        300083
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/liufenglan_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200025,
+    "Name": "plantname_200025",
+    "PlantType": 2,
+    "Trait": 1,
+    "NeedTrait": 1,
+    "Conditions": [
+      [
+        30001
+      ]
+    ],
+    "Skills": [
+      5001
+    ],
+    "NextState": 200026,
+    "MaxEnergy": 95,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200026,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 1,
+    "NeedTrait": 1,
+    "Conditions": [
+      [
+        30001
+      ]
+    ],
+    "Skills": [
+      5001
+    ],
+    "NextState": 200027,
+    "MaxEnergy": 181,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/baoguanghua_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200027,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 1,
+    "NeedTrait": 1,
+    "Conditions": [
+      [
+        30001
+      ]
+    ],
+    "Skills": [
+      5001
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300090
+      ],
+      [
+        3001,
+        6000,
+        300091
+      ],
+      [
+        6001,
+        9000,
+        300092
+      ],
+      [
+        9001,
+        10000,
+        300093
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/baoguanghua_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200028,
+    "Name": "plantname_200028",
+    "PlantType": 2,
+    "Trait": 1,
+    "NeedTrait": 1,
+    "Conditions": [
+      [
+        30001
+      ]
+    ],
+    "Skills": [
+      5001
+    ],
+    "NextState": 200029,
+    "MaxEnergy": 120,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 1,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200029,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 1,
+    "NeedTrait": 1,
+    "Conditions": [
+      [
+        30001
+      ]
+    ],
+    "Skills": [
+      5001
+    ],
+    "NextState": 200030,
+    "MaxEnergy": 216,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 1,
+    "Image": "Crop/ruijinguo_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200030,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 1,
+    "NeedTrait": 1,
+    "Conditions": [
+      [
+        30001
+      ]
+    ],
+    "Skills": [
+      5001
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300100
+      ],
+      [
+        3001,
+        6000,
+        300101
+      ],
+      [
+        6001,
+        9000,
+        300102
+      ],
+      [
+        9001,
+        10000,
+        300103
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 1,
+    "Image": "Crop/ruijinguo_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200031,
+    "Name": "plantname_200031",
+    "PlantType": 2,
+    "Trait": 2,
+    "NeedTrait": 2,
+    "Conditions": [
+      [
+        30002
+      ]
+    ],
+    "Skills": [
+      5002
+    ],
+    "NextState": 200032,
+    "MaxEnergy": 195,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200032,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 2,
+    "NeedTrait": 2,
+    "Conditions": [
+      [
+        30002
+      ]
+    ],
+    "Skills": [
+      5002
+    ],
+    "NextState": 200033,
+    "MaxEnergy": 371,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/lingyacao_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200033,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 2,
+    "NeedTrait": 2,
+    "Conditions": [
+      [
+        30002
+      ]
+    ],
+    "Skills": [
+      5002
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300110
+      ],
+      [
+        3001,
+        6000,
+        300111
+      ],
+      [
+        6001,
+        9000,
+        300112
+      ],
+      [
+        9001,
+        10000,
+        300113
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/lingyacao_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200034,
+    "Name": "plantname_200034",
+    "PlantType": 2,
+    "Trait": 2,
+    "NeedTrait": 2,
+    "Conditions": [
+      [
+        30002
+      ]
+    ],
+    "Skills": [
+      5002
+    ],
+    "NextState": 200035,
+    "MaxEnergy": 165,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200035,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 2,
+    "NeedTrait": 2,
+    "Conditions": [
+      [
+        30002
+      ]
+    ],
+    "Skills": [
+      5002
+    ],
+    "NextState": 200036,
+    "MaxEnergy": 400,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/jiuyeshen_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200036,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 2,
+    "NeedTrait": 2,
+    "Conditions": [
+      [
+        30002
+      ]
+    ],
+    "Skills": [
+      5002
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300120
+      ],
+      [
+        3001,
+        6000,
+        300121
+      ],
+      [
+        6001,
+        9000,
+        300122
+      ],
+      [
+        9001,
+        10000,
+        300123
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/jiuyeshen_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200037,
+    "Name": "plantname_200037",
+    "PlantType": 2,
+    "Trait": 2,
+    "NeedTrait": 2,
+    "Conditions": [
+      [
+        30002
+      ]
+    ],
+    "Skills": [
+      5002
+    ],
+    "NextState": 200038,
+    "MaxEnergy": 190,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200038,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 2,
+    "NeedTrait": 2,
+    "Conditions": [
+      [
+        30002
+      ]
+    ],
+    "Skills": [
+      5002
+    ],
+    "NextState": 200039,
+    "MaxEnergy": 372,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/qinmingzhu_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200039,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 2,
+    "NeedTrait": 2,
+    "Conditions": [
+      [
+        30002
+      ]
+    ],
+    "Skills": [
+      5002
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300130
+      ],
+      [
+        3001,
+        6000,
+        300131
+      ],
+      [
+        6001,
+        9000,
+        300132
+      ],
+      [
+        9001,
+        10000,
+        300133
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/qinmingzhu_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200040,
+    "Name": "plantname_200040",
+    "PlantType": 2,
+    "Trait": 2,
+    "NeedTrait": 2,
+    "Conditions": [
+      [
+        30002
+      ]
+    ],
+    "Skills": [
+      5002
+    ],
+    "NextState": 200041,
+    "MaxEnergy": 165,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200041,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 2,
+    "NeedTrait": 2,
+    "Conditions": [
+      [
+        30002
+      ]
+    ],
+    "Skills": [
+      5002
+    ],
+    "NextState": 200042,
+    "MaxEnergy": 370,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/cuirongjun_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200042,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 2,
+    "NeedTrait": 2,
+    "Conditions": [
+      [
+        30002
+      ]
+    ],
+    "Skills": [
+      5002
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300140
+      ],
+      [
+        3001,
+        6000,
+        300141
+      ],
+      [
+        6001,
+        9000,
+        300142
+      ],
+      [
+        9001,
+        10000,
+        300143
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/cuirongjun_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200043,
+    "Name": "plantname_200043",
+    "PlantType": 2,
+    "Trait": 2,
+    "NeedTrait": 2,
+    "Conditions": [
+      [
+        30002
+      ]
+    ],
+    "Skills": [
+      5002
+    ],
+    "NextState": 200044,
+    "MaxEnergy": 150,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 1,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200044,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 2,
+    "NeedTrait": 2,
+    "Conditions": [
+      [
+        30002
+      ]
+    ],
+    "Skills": [
+      5002
+    ],
+    "NextState": 200045,
+    "MaxEnergy": 380,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 1,
+    "Image": "Crop/julingheng_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200045,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 2,
+    "NeedTrait": 2,
+    "Conditions": [
+      [
+        30002
+      ]
+    ],
+    "Skills": [
+      5002
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300150
+      ],
+      [
+        3001,
+        6000,
+        300151
+      ],
+      [
+        6001,
+        9000,
+        300152
+      ],
+      [
+        9001,
+        10000,
+        300153
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 1,
+    "Image": "Crop/julingheng_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200046,
+    "Name": "plantname_200046",
+    "PlantType": 2,
+    "Trait": 3,
+    "NeedTrait": 3,
+    "Conditions": [
+      [
+        30003
+      ]
+    ],
+    "Skills": [
+      5003
+    ],
+    "NextState": 200047,
+    "MaxEnergy": 265,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200047,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 3,
+    "NeedTrait": 3,
+    "Conditions": [
+      [
+        30003
+      ]
+    ],
+    "Skills": [
+      5003
+    ],
+    "NextState": 200048,
+    "MaxEnergy": 520,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/shuisuilian_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200048,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 3,
+    "NeedTrait": 3,
+    "Conditions": [
+      [
+        30003
+      ]
+    ],
+    "Skills": [
+      5003
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300160
+      ],
+      [
+        3001,
+        6000,
+        300161
+      ],
+      [
+        6001,
+        9000,
+        300162
+      ],
+      [
+        9001,
+        10000,
+        300163
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/shuisuilian_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200049,
+    "Name": "plantname_200049",
+    "PlantType": 2,
+    "Trait": 3,
+    "NeedTrait": 3,
+    "Conditions": [
+      [
+        30003
+      ]
+    ],
+    "Skills": [
+      5003
+    ],
+    "NextState": 200050,
+    "MaxEnergy": 315,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200050,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 3,
+    "NeedTrait": 3,
+    "Conditions": [
+      [
+        30003
+      ]
+    ],
+    "Skills": [
+      5003
+    ],
+    "NextState": 200051,
+    "MaxEnergy": 617,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/shuimuhua_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200051,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 3,
+    "NeedTrait": 3,
+    "Conditions": [
+      [
+        30003
+      ]
+    ],
+    "Skills": [
+      5003
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300170
+      ],
+      [
+        3001,
+        6000,
+        300171
+      ],
+      [
+        6001,
+        9000,
+        300172
+      ],
+      [
+        9001,
+        10000,
+        300173
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/shuimuhua_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200052,
+    "Name": "plantname_200052",
+    "PlantType": 2,
+    "Trait": 3,
+    "NeedTrait": 3,
+    "Conditions": [
+      [
+        30003
+      ]
+    ],
+    "Skills": [
+      5003
+    ],
+    "NextState": 200053,
+    "MaxEnergy": 290,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200053,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 3,
+    "NeedTrait": 3,
+    "Conditions": [
+      [
+        30003
+      ]
+    ],
+    "Skills": [
+      5003
+    ],
+    "NextState": 200054,
+    "MaxEnergy": 562,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/runlingteng_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200054,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 3,
+    "NeedTrait": 3,
+    "Conditions": [
+      [
+        30003
+      ]
+    ],
+    "Skills": [
+      5003
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300180
+      ],
+      [
+        3001,
+        6000,
+        300181
+      ],
+      [
+        6001,
+        9000,
+        300182
+      ],
+      [
+        9001,
+        10000,
+        300183
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/runlingteng_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200055,
+    "Name": "plantname_200055",
+    "PlantType": 2,
+    "Trait": 3,
+    "NeedTrait": 3,
+    "Conditions": [
+      [
+        30003
+      ]
+    ],
+    "Skills": [
+      5003
+    ],
+    "NextState": 200056,
+    "MaxEnergy": 280,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200056,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 3,
+    "NeedTrait": 3,
+    "Conditions": [
+      [
+        30003
+      ]
+    ],
+    "Skills": [
+      5003
+    ],
+    "NextState": 200057,
+    "MaxEnergy": 604,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/guishuiyuegui_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200057,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 3,
+    "NeedTrait": 3,
+    "Conditions": [
+      [
+        30003
+      ]
+    ],
+    "Skills": [
+      5003
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300190
+      ],
+      [
+        3001,
+        6000,
+        300191
+      ],
+      [
+        6001,
+        9000,
+        300192
+      ],
+      [
+        9001,
+        10000,
+        300193
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/guishuiyuegui_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200058,
+    "Name": "plantname_200058",
+    "PlantType": 2,
+    "Trait": 3,
+    "NeedTrait": 3,
+    "Conditions": [
+      [
+        30003
+      ]
+    ],
+    "Skills": [
+      5003
+    ],
+    "NextState": 200059,
+    "MaxEnergy": 250,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 1,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200059,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 3,
+    "NeedTrait": 3,
+    "Conditions": [
+      [
+        30003
+      ]
+    ],
+    "Skills": [
+      5003
+    ],
+    "NextState": 200060,
+    "MaxEnergy": 550,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 1,
+    "Image": "Crop/cangmingzhuteng_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200060,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 3,
+    "NeedTrait": 3,
+    "Conditions": [
+      [
+        30003
+      ]
+    ],
+    "Skills": [
+      5003
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300200
+      ],
+      [
+        3001,
+        6000,
+        300201
+      ],
+      [
+        6001,
+        9000,
+        300202
+      ],
+      [
+        9001,
+        10000,
+        300203
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 1,
+    "Image": "Crop/cangmingzhuteng_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200061,
+    "Name": "plantname_200061",
+    "PlantType": 2,
+    "Trait": 4,
+    "NeedTrait": 4,
+    "Conditions": [
+      [
+        30004
+      ]
+    ],
+    "Skills": [
+      5004
+    ],
+    "NextState": 200062,
+    "MaxEnergy": 405,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200062,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 4,
+    "NeedTrait": 4,
+    "Conditions": [
+      [
+        30004
+      ]
+    ],
+    "Skills": [
+      5004
+    ],
+    "NextState": 200063,
+    "MaxEnergy": 1030,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/yanxincao_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200063,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 4,
+    "NeedTrait": 4,
+    "Conditions": [
+      [
+        30004
+      ]
+    ],
+    "Skills": [
+      5004
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300210
+      ],
+      [
+        3001,
+        6000,
+        300211
+      ],
+      [
+        6001,
+        9000,
+        300212
+      ],
+      [
+        9001,
+        10000,
+        300213
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/yanxincao_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200064,
+    "Name": "plantname_200064",
+    "PlantType": 2,
+    "Trait": 4,
+    "NeedTrait": 4,
+    "Conditions": [
+      [
+        30004
+      ]
+    ],
+    "Skills": [
+      5004
+    ],
+    "NextState": 200065,
+    "MaxEnergy": 455,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200065,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 4,
+    "NeedTrait": 4,
+    "Conditions": [
+      [
+        30004
+      ]
+    ],
+    "Skills": [
+      5004
+    ],
+    "NextState": 200066,
+    "MaxEnergy": 1089,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/ranmuteng_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200066,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 4,
+    "NeedTrait": 4,
+    "Conditions": [
+      [
+        30004
+      ]
+    ],
+    "Skills": [
+      5004
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300220
+      ],
+      [
+        3001,
+        6000,
+        300221
+      ],
+      [
+        6001,
+        9000,
+        300222
+      ],
+      [
+        9001,
+        10000,
+        300223
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/ranmuteng_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200067,
+    "Name": "plantname_200067",
+    "PlantType": 2,
+    "Trait": 4,
+    "NeedTrait": 4,
+    "Conditions": [
+      [
+        30004
+      ]
+    ],
+    "Skills": [
+      5004
+    ],
+    "NextState": 200068,
+    "MaxEnergy": 455,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200068,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 4,
+    "NeedTrait": 4,
+    "Conditions": [
+      [
+        30004
+      ]
+    ],
+    "Skills": [
+      5004
+    ],
+    "NextState": 200069,
+    "MaxEnergy": 1009,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/yanyanghua_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200069,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 4,
+    "NeedTrait": 4,
+    "Conditions": [
+      [
+        30004
+      ]
+    ],
+    "Skills": [
+      5004
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300230
+      ],
+      [
+        3001,
+        6000,
+        300231
+      ],
+      [
+        6001,
+        9000,
+        300232
+      ],
+      [
+        9001,
+        10000,
+        300233
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/yanyanghua_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200070,
+    "Name": "plantname_200070",
+    "PlantType": 2,
+    "Trait": 4,
+    "NeedTrait": 4,
+    "Conditions": [
+      [
+        30004
+      ]
+    ],
+    "Skills": [
+      5004
+    ],
+    "NextState": 200071,
+    "MaxEnergy": 440,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 1,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200071,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 4,
+    "NeedTrait": 4,
+    "Conditions": [
+      [
+        30004
+      ]
+    ],
+    "Skills": [
+      5004
+    ],
+    "NextState": 200072,
+    "MaxEnergy": 1050,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 1,
+    "Image": "Crop/yangzhuguo_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200072,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 4,
+    "NeedTrait": 4,
+    "Conditions": [
+      [
+        30004
+      ]
+    ],
+    "Skills": [
+      5004
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300240
+      ],
+      [
+        3001,
+        6000,
+        300241
+      ],
+      [
+        6001,
+        9000,
+        300242
+      ],
+      [
+        9001,
+        10000,
+        300243
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 1,
+    "Image": "Crop/yangzhuguo_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200073,
+    "Name": "plantname_200073",
+    "PlantType": 2,
+    "Trait": 4,
+    "NeedTrait": 4,
+    "Conditions": [
+      [
+        30004
+      ]
+    ],
+    "Skills": [
+      5004
+    ],
+    "NextState": 200074,
+    "MaxEnergy": 460,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 1,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200074,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 4,
+    "NeedTrait": 4,
+    "Conditions": [
+      [
+        30004
+      ]
+    ],
+    "Skills": [
+      5004
+    ],
+    "NextState": 200075,
+    "MaxEnergy": 858,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 1,
+    "Image": "Crop/xueputi_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200075,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 4,
+    "NeedTrait": 4,
+    "Conditions": [
+      [
+        30004
+      ]
+    ],
+    "Skills": [
+      5004
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300250
+      ],
+      [
+        3001,
+        6000,
+        300251
+      ],
+      [
+        6001,
+        9000,
+        300252
+      ],
+      [
+        9001,
+        10000,
+        300253
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 1,
+    "Image": "Crop/xueputi_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200076,
+    "Name": "plantname_200076",
+    "PlantType": 2,
+    "Trait": 5,
+    "NeedTrait": 5,
+    "Conditions": [
+      [
+        30005
+      ]
+    ],
+    "Skills": [
+      5005
+    ],
+    "NextState": 200077,
+    "MaxEnergy": 780,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200077,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 5,
+    "NeedTrait": 5,
+    "Conditions": [
+      [
+        30005
+      ]
+    ],
+    "Skills": [
+      5005
+    ],
+    "NextState": 200078,
+    "MaxEnergy": 1464,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/panshijun_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200078,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 5,
+    "NeedTrait": 5,
+    "Conditions": [
+      [
+        30005
+      ]
+    ],
+    "Skills": [
+      5005
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300260
+      ],
+      [
+        3001,
+        6000,
+        300261
+      ],
+      [
+        6001,
+        9000,
+        300262
+      ],
+      [
+        9001,
+        10000,
+        300263
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/panshijun_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200079,
+    "Name": "plantname_200079",
+    "PlantType": 2,
+    "Trait": 5,
+    "NeedTrait": 5,
+    "Conditions": [
+      [
+        30005
+      ]
+    ],
+    "Skills": [
+      5005
+    ],
+    "NextState": 200080,
+    "MaxEnergy": 635,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200080,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 5,
+    "NeedTrait": 5,
+    "Conditions": [
+      [
+        30005
+      ]
+    ],
+    "Skills": [
+      5005
+    ],
+    "NextState": 200081,
+    "MaxEnergy": 1440,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/dilongyu_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200081,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 5,
+    "NeedTrait": 5,
+    "Conditions": [
+      [
+        30005
+      ]
+    ],
+    "Skills": [
+      5005
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300270
+      ],
+      [
+        3001,
+        6000,
+        300271
+      ],
+      [
+        6001,
+        9000,
+        300272
+      ],
+      [
+        9001,
+        10000,
+        300273
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/dilongyu_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200082,
+    "Name": "plantname_200082",
+    "PlantType": 2,
+    "Trait": 5,
+    "NeedTrait": 5,
+    "Conditions": [
+      [
+        30005
+      ]
+    ],
+    "Skills": [
+      5005
+    ],
+    "NextState": 200083,
+    "MaxEnergy": 625,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200083,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 5,
+    "NeedTrait": 5,
+    "Conditions": [
+      [
+        30005
+      ]
+    ],
+    "Skills": [
+      5005
+    ],
+    "NextState": 200084,
+    "MaxEnergy": 1550,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/wutulingmeng_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200084,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 5,
+    "NeedTrait": 5,
+    "Conditions": [
+      [
+        30005
+      ]
+    ],
+    "Skills": [
+      5005
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300280
+      ],
+      [
+        3001,
+        6000,
+        300281
+      ],
+      [
+        6001,
+        9000,
+        300282
+      ],
+      [
+        9001,
+        10000,
+        300283
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/wutulingmeng_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200085,
+    "Name": "plantname_200085",
+    "PlantType": 2,
+    "Trait": 5,
+    "NeedTrait": 5,
+    "Conditions": [
+      [
+        30005
+      ]
+    ],
+    "Skills": [
+      5005
+    ],
+    "NextState": 200086,
+    "MaxEnergy": 690,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200086,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 5,
+    "NeedTrait": 5,
+    "Conditions": [
+      [
+        30005
+      ]
+    ],
+    "Skills": [
+      5005
+    ],
+    "NextState": 200087,
+    "MaxEnergy": 1472,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/qianzhangyanjing_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200087,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 5,
+    "NeedTrait": 5,
+    "Conditions": [
+      [
+        30005
+      ]
+    ],
+    "Skills": [
+      5005
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300290
+      ],
+      [
+        3001,
+        6000,
+        300291
+      ],
+      [
+        6001,
+        9000,
+        300292
+      ],
+      [
+        9001,
+        10000,
+        300293
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/qianzhangyanjing_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200088,
+    "Name": "plantname_200088",
+    "PlantType": 2,
+    "Trait": 5,
+    "NeedTrait": 5,
+    "Conditions": [
+      [
+        30005
+      ]
+    ],
+    "Skills": [
+      5005
+    ],
+    "NextState": 200089,
+    "MaxEnergy": 745,
+    "PerEnergy": 1,
+    "State": 1,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/zhongzi_1",
+    "Offset": [
+      0,
+      0.05
+    ]
+  },
+  {
+    "Id": 200089,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 5,
+    "NeedTrait": 5,
+    "Conditions": [
+      [
+        30005
+      ]
+    ],
+    "Skills": [
+      5005
+    ],
+    "NextState": 200090,
+    "MaxEnergy": 1511,
+    "PerEnergy": 1,
+    "State": 2,
+    "Produce": [],
+    "ProduceNum": 0,
+    "PlantNumType": 4,
+    "Image": "Crop/houtuzhi_1",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  },
+  {
+    "Id": 200090,
+    "Name": "",
+    "PlantType": 2,
+    "Trait": 5,
+    "NeedTrait": 5,
+    "Conditions": [
+      [
+        30005
+      ]
+    ],
+    "Skills": [
+      5005
+    ],
+    "NextState": 0,
+    "MaxEnergy": 0,
+    "PerEnergy": 0,
+    "State": 3,
+    "Produce": [
+      [
+        0,
+        3000,
+        300300
+      ],
+      [
+        3001,
+        6000,
+        300301
+      ],
+      [
+        6001,
+        9000,
+        300302
+      ],
+      [
+        9001,
+        10000,
+        300303
+      ]
+    ],
+    "ProduceNum": 2,
+    "PlantNumType": 4,
+    "Image": "Crop/houtuzhi_2",
+    "Offset": [
+      0,
+      -0.1
+    ]
+  }
+]

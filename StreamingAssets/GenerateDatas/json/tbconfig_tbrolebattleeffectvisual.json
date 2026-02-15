@@ -1,0 +1,83 @@
+[
+  {
+    "Id": 1,
+    "StatusId": 1,
+    "Param1": 0,
+    "Trigge": 1,
+    "FloatingText": 0,
+    "Color": 0,
+    "EffectPrefab": ""
+  },
+  {
+    "Id": 2,
+    "StatusId": 4,
+    "Param1": 101,
+    "Trigge": 1,
+    "FloatingText": 0,
+    "Color": 0,
+    "EffectPrefab": ""
+  },
+  {
+    "Id": 3,
+    "StatusId": 4,
+    "Param1": 201,
+    "Trigge": 0,
+    "FloatingText": 0,
+    "Color": 0,
+    "EffectPrefab": ""
+  },
+  {
+    "Id": 4,
+    "StatusId": 4,
+    "Param1": 301,
+    "Trigge": 0,
+    "FloatingText": 0,
+    "Color": 0,
+    "EffectPrefab": ""
+  },
+  {
+    "Id": 5,
+    "StatusId": 0,
+    "Param1": 0,
+    "Trigge": 0,
+    "FloatingText": 0,
+    "Color": 0,
+    "EffectPrefab": ""
+  },
+  {
+    "Id": 6,
+    "StatusId": 0,
+    "Param1": 0,
+    "Trigge": 0,
+    "FloatingText": 0,
+    "Color": 0,
+    "EffectPrefab": ""
+  },
+  {
+    "Id": 7,
+    "StatusId": 0,
+    "Param1": 0,
+    "Trigge": 0,
+    "FloatingText": 0,
+    "Color": 0,
+    "EffectPrefab": ""
+  },
+  {
+    "Id": 8,
+    "StatusId": 0,
+    "Param1": 0,
+    "Trigge": 0,
+    "FloatingText": 0,
+    "Color": 0,
+    "EffectPrefab": ""
+  },
+  {
+    "Id": 9,
+    "StatusId": 0,
+    "Param1": 0,
+    "Trigge": 0,
+    "FloatingText": 0,
+    "Color": 0,
+    "EffectPrefab": ""
+  }
+]

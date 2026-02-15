@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 1001,
+    "Name": "",
+    "SkillType": 1,
+    "IsSingle": true,
+    "Group": 1001
+  },
+  {
+    "Id": 1002,
+    "Name": "",
+    "SkillType": 1,
+    "IsSingle": true,
+    "Group": 1001
+  },
+  {
+    "Id": 1003,
+    "Name": "",
+    "SkillType": 1,
+    "IsSingle": true,
+    "Group": 1001
+  },
+  {
+    "Id": 1004,
+    "Name": "",
+    "SkillType": 1,
+    "IsSingle": true,
+    "Group": 1001
+  },
+  {
+    "Id": 1005,
+    "Name": "",
+    "SkillType": 1,
+    "IsSingle": true,
+    "Group": 1001
+  },
+  {
+    "Id": 1006,
+    "Name": "",
+    "SkillType": 1,
+    "IsSingle": true,
+    "Group": 1001
+  },
+  {
+    "Id": 5001,
+    "Name": "",
+    "SkillType": 1,
+    "IsSingle": false,
+    "Group": 0
+  },
+  {
+    "Id": 5002,
+    "Name": "",
+    "SkillType": 1,
+    "IsSingle": false,
+    "Group": 0
+  },
+  {
+    "Id": 5003,
+    "Name": "",
+    "SkillType": 1,
+    "IsSingle": false,
+    "Group": 0
+  },
+  {
+    "Id": 5004,
+    "Name": "",
+    "SkillType": 1,
+    "IsSingle": false,
+    "Group": 0
+  },
+  {
+    "Id": 5005,
+    "Name": "",
+    "SkillType": 1,
+    "IsSingle": false,
+    "Group": 0
+  },
+  {
+    "Id": 6001,
+    "Name": "",
+    "SkillType": 2,
+    "IsSingle": false,
+    "Group": 0
+  }
+]

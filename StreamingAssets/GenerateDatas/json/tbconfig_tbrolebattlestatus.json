@@ -1,0 +1,41 @@
+[
+  {
+    "StatusId": 101,
+    "Name": "中毒",
+    "StatusType": 1,
+    "Polarity": 2,
+    "Icon": "",
+    "UIColor": 0,
+    "MaxStack": 5,
+    "StackPolicy": 1,
+    "Param1": 5,
+    "Param2": 0,
+    "Description": "回合结束时受到持续伤害"
+  },
+  {
+    "StatusId": 201,
+    "Name": "减速",
+    "StatusType": 2,
+    "Polarity": 2,
+    "Icon": "",
+    "UIColor": 0,
+    "MaxStack": 5,
+    "StackPolicy": 2,
+    "Param1": 200,
+    "Param2": 0,
+    "Description": "降低速度"
+  },
+  {
+    "StatusId": 301,
+    "Name": "灼烧",
+    "StatusType": 1,
+    "Polarity": 2,
+    "Icon": "",
+    "UIColor": 0,
+    "MaxStack": 5,
+    "StackPolicy": 1,
+    "Param1": 5,
+    "Param2": 0,
+    "Description": "回合结束时受到持续伤害"
+  }
+]

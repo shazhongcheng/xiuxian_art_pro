@@ -1,0 +1,246 @@
+[
+  {
+    "Id": 100101,
+    "SkillId": 1001,
+    "Level": 1,
+    "EffectValue": 0,
+    "FixedTargetParams": 0,
+    "TargetParams": [
+      [
+        0,
+        0
+      ]
+    ],
+    "FarmEffectId": 1001
+  },
+  {
+    "Id": 100201,
+    "SkillId": 1002,
+    "Level": 1,
+    "EffectValue": 0,
+    "FixedTargetParams": 0,
+    "TargetParams": [
+      [
+        0,
+        0
+      ]
+    ],
+    "FarmEffectId": 1002
+  },
+  {
+    "Id": 100301,
+    "SkillId": 1003,
+    "Level": 1,
+    "EffectValue": 0,
+    "FixedTargetParams": 0,
+    "TargetParams": [
+      [
+        0,
+        0
+      ]
+    ],
+    "FarmEffectId": 1003
+  },
+  {
+    "Id": 100401,
+    "SkillId": 1004,
+    "Level": 1,
+    "EffectValue": 0,
+    "FixedTargetParams": 0,
+    "TargetParams": [
+      [
+        0,
+        0
+      ]
+    ],
+    "FarmEffectId": 1004
+  },
+  {
+    "Id": 100501,
+    "SkillId": 1005,
+    "Level": 1,
+    "EffectValue": 0,
+    "FixedTargetParams": 0,
+    "TargetParams": [
+      [
+        0,
+        0
+      ]
+    ],
+    "FarmEffectId": 1005
+  },
+  {
+    "Id": 100601,
+    "SkillId": 1006,
+    "Level": 1,
+    "EffectValue": 0,
+    "FixedTargetParams": 0,
+    "TargetParams": [
+      [
+        0,
+        0
+      ]
+    ],
+    "FarmEffectId": 1006
+  },
+  {
+    "Id": 500101,
+    "SkillId": 5001,
+    "Level": 1,
+    "EffectValue": 0,
+    "FixedTargetParams": 0,
+    "TargetParams": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        -1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "FarmEffectId": 5001
+  },
+  {
+    "Id": 500201,
+    "SkillId": 5002,
+    "Level": 1,
+    "EffectValue": 0,
+    "FixedTargetParams": 0,
+    "TargetParams": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        -1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "FarmEffectId": 5002
+  },
+  {
+    "Id": 500301,
+    "SkillId": 5003,
+    "Level": 1,
+    "EffectValue": 0,
+    "FixedTargetParams": 0,
+    "TargetParams": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        -1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "FarmEffectId": 5003
+  },
+  {
+    "Id": 500401,
+    "SkillId": 5004,
+    "Level": 1,
+    "EffectValue": 0,
+    "FixedTargetParams": 0,
+    "TargetParams": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        -1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "FarmEffectId": 5004
+  },
+  {
+    "Id": 500501,
+    "SkillId": 5005,
+    "Level": 1,
+    "EffectValue": 0,
+    "FixedTargetParams": 0,
+    "TargetParams": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        -1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "FarmEffectId": 5005
+  },
+  {
+    "Id": 600101,
+    "SkillId": 6001,
+    "Level": 1,
+    "EffectValue": 3000,
+    "FixedTargetParams": 0,
+    "TargetParams": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        -1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "FarmEffectId": 0
+  }
+]

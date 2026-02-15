@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 1,
+    "Name": "",
+    "Description": "",
+    "FarmSkills": [
+      1,
+      2
+    ],
+    "ActiveSkills": [],
+    "PassiveSkills": [],
+    "EffectAttrs": []
+  },
+  {
+    "Id": 2,
+    "Name": "",
+    "Description": "",
+    "FarmSkills": [],
+    "ActiveSkills": [],
+    "PassiveSkills": [],
+    "EffectAttrs": []
+  },
+  {
+    "Id": 3,
+    "Name": "",
+    "Description": "",
+    "FarmSkills": [],
+    "ActiveSkills": [],
+    "PassiveSkills": [],
+    "EffectAttrs": []
+  },
+  {
+    "Id": 4,
+    "Name": "",
+    "Description": "",
+    "FarmSkills": [],
+    "ActiveSkills": [],
+    "PassiveSkills": [],
+    "EffectAttrs": []
+  },
+  {
+    "Id": 5,
+    "Name": "",
+    "Description": "",
+    "FarmSkills": [],
+    "ActiveSkills": [],
+    "PassiveSkills": [],
+    "EffectAttrs": []
+  },
+  {
+    "Id": 6,
+    "Name": "",
+    "Description": "",
+    "FarmSkills": [],
+    "ActiveSkills": [],
+    "PassiveSkills": [],
+    "EffectAttrs": []
+  },
+  {
+    "Id": 7,
+    "Name": "",
+    "Description": "",
+    "FarmSkills": [],
+    "ActiveSkills": [],
+    "PassiveSkills": [],
+    "EffectAttrs": []
+  },
+  {
+    "Id": 8,
+    "Name": "",
+    "Description": "",
+    "FarmSkills": [],
+    "ActiveSkills": [],
+    "PassiveSkills": [],
+    "EffectAttrs": []
+  },
+  {
+    "Id": 9,
+    "Name": "",
+    "Description": "",
+    "FarmSkills": [],
+    "ActiveSkills": [],
+    "PassiveSkills": [],
+    "EffectAttrs": []
+  }
+]

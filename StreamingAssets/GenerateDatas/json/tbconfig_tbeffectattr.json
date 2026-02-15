@@ -1,0 +1,261 @@
+[
+  {
+    "Id": 10001,
+    "EffectId": 301,
+    "Name": "",
+    "Desattr": "",
+    "RefixValue": [
+      200,
+      200
+    ],
+    "RefixPercent": [],
+    "RefixFixValue": [],
+    "RefixValueGrown": [
+      5,
+      5
+    ],
+    "RefixPercentGrown": [],
+    "RefixFixValueGrown": [],
+    "SkillEffectId": 0,
+    "Icon": ""
+  },
+  {
+    "Id": 10002,
+    "EffectId": 302,
+    "Name": "",
+    "Desattr": "",
+    "RefixValue": [
+      50,
+      50
+    ],
+    "RefixPercent": [],
+    "RefixFixValue": [],
+    "RefixValueGrown": [
+      1,
+      1
+    ],
+    "RefixPercentGrown": [],
+    "RefixFixValueGrown": [],
+    "SkillEffectId": 0,
+    "Icon": ""
+  },
+  {
+    "Id": 10003,
+    "EffectId": 303,
+    "Name": "",
+    "Desattr": "",
+    "RefixValue": [
+      30,
+      30
+    ],
+    "RefixPercent": [],
+    "RefixFixValue": [],
+    "RefixValueGrown": [
+      0,
+      0
+    ],
+    "RefixPercentGrown": [],
+    "RefixFixValueGrown": [],
+    "SkillEffectId": 0,
+    "Icon": ""
+  },
+  {
+    "Id": 10004,
+    "EffectId": 304,
+    "Name": "",
+    "Desattr": "",
+    "RefixValue": [
+      10,
+      10
+    ],
+    "RefixPercent": [],
+    "RefixFixValue": [],
+    "RefixValueGrown": [
+      0,
+      0
+    ],
+    "RefixPercentGrown": [],
+    "RefixFixValueGrown": [],
+    "SkillEffectId": 0,
+    "Icon": ""
+  },
+  {
+    "Id": 10005,
+    "EffectId": 305,
+    "Name": "",
+    "Desattr": "",
+    "RefixValue": [
+      100,
+      100
+    ],
+    "RefixPercent": [],
+    "RefixFixValue": [],
+    "RefixValueGrown": [
+      0,
+      0
+    ],
+    "RefixPercentGrown": [],
+    "RefixFixValueGrown": [],
+    "SkillEffectId": 0,
+    "Icon": ""
+  },
+  {
+    "Id": 10006,
+    "EffectId": 306,
+    "Name": "",
+    "Desattr": "",
+    "RefixValue": [
+      100,
+      100
+    ],
+    "RefixPercent": [],
+    "RefixFixValue": [],
+    "RefixValueGrown": [
+      0,
+      0
+    ],
+    "RefixPercentGrown": [],
+    "RefixFixValueGrown": [],
+    "SkillEffectId": 0,
+    "Icon": ""
+  },
+  {
+    "Id": 10007,
+    "EffectId": 307,
+    "Name": "",
+    "Desattr": "",
+    "RefixValue": [
+      60,
+      60
+    ],
+    "RefixPercent": [],
+    "RefixFixValue": [],
+    "RefixValueGrown": [
+      0,
+      0
+    ],
+    "RefixPercentGrown": [],
+    "RefixFixValueGrown": [],
+    "SkillEffectId": 0,
+    "Icon": ""
+  },
+  {
+    "Id": 20001,
+    "EffectId": 302,
+    "Name": "",
+    "Desattr": "",
+    "RefixValue": [],
+    "RefixPercent": [],
+    "RefixFixValue": [
+      10,
+      10
+    ],
+    "RefixValueGrown": [],
+    "RefixPercentGrown": [],
+    "RefixFixValueGrown": [],
+    "SkillEffectId": 0,
+    "Icon": ""
+  },
+  {
+    "Id": 20002,
+    "EffectId": 304,
+    "Name": "",
+    "Desattr": "",
+    "RefixValue": [],
+    "RefixPercent": [],
+    "RefixFixValue": [
+      10,
+      10
+    ],
+    "RefixValueGrown": [],
+    "RefixPercentGrown": [],
+    "RefixFixValueGrown": [],
+    "SkillEffectId": 0,
+    "Icon": ""
+  },
+  {
+    "Id": 20003,
+    "EffectId": 302,
+    "Name": "",
+    "Desattr": "",
+    "RefixValue": [],
+    "RefixPercent": [],
+    "RefixFixValue": [
+      15,
+      15
+    ],
+    "RefixValueGrown": [],
+    "RefixPercentGrown": [],
+    "RefixFixValueGrown": [],
+    "SkillEffectId": 0,
+    "Icon": ""
+  },
+  {
+    "Id": 20004,
+    "EffectId": 304,
+    "Name": "",
+    "Desattr": "",
+    "RefixValue": [],
+    "RefixPercent": [],
+    "RefixFixValue": [
+      15,
+      15
+    ],
+    "RefixValueGrown": [],
+    "RefixPercentGrown": [],
+    "RefixFixValueGrown": [],
+    "SkillEffectId": 0,
+    "Icon": ""
+  },
+  {
+    "Id": 20005,
+    "EffectId": 303,
+    "Name": "",
+    "Desattr": "",
+    "RefixValue": [],
+    "RefixPercent": [],
+    "RefixFixValue": [
+      15,
+      15
+    ],
+    "RefixValueGrown": [],
+    "RefixPercentGrown": [],
+    "RefixFixValueGrown": [],
+    "SkillEffectId": 0,
+    "Icon": ""
+  },
+  {
+    "Id": 20006,
+    "EffectId": 302,
+    "Name": "",
+    "Desattr": "",
+    "RefixValue": [],
+    "RefixPercent": [],
+    "RefixFixValue": [
+      5,
+      5
+    ],
+    "RefixValueGrown": [],
+    "RefixPercentGrown": [],
+    "RefixFixValueGrown": [],
+    "SkillEffectId": 0,
+    "Icon": ""
+  },
+  {
+    "Id": 30001,
+    "EffectId": 307,
+    "Name": "",
+    "Desattr": "",
+    "RefixValue": [],
+    "RefixPercent": [],
+    "RefixFixValue": [],
+    "RefixValueGrown": [],
+    "RefixPercentGrown": [],
+    "RefixFixValueGrown": [
+      5,
+      5
+    ],
+    "SkillEffectId": 0,
+    "Icon": ""
+  }
+]

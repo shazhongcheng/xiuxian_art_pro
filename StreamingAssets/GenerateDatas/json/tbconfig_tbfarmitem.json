@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1001,
+    "Name": "",
+    "FarmType": 1,
+    "Skills": [],
+    "Image": ""
+  },
+  {
+    "Id": 1002,
+    "Name": "",
+    "FarmType": 2,
+    "Skills": [],
+    "Image": ""
+  }
+]

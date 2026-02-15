@@ -1,0 +1,98 @@
+[
+  {
+    "DrugMaterialNum": 6,
+    "DrugMaterialRankEnergy": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        20
+      ],
+      [
+        3,
+        40
+      ],
+      [
+        4,
+        80
+      ]
+    ],
+    "DrugMaterialStageEnergy": [
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        20
+      ],
+      [
+        3,
+        40
+      ],
+      [
+        4,
+        80
+      ],
+      [
+        5,
+        160
+      ]
+    ],
+    "DrugFailedProduce": 590006,
+    "DrugSurplusProduct": [
+      [
+        0,
+        590000
+      ],
+      [
+        1,
+        590001
+      ],
+      [
+        2,
+        590002
+      ],
+      [
+        3,
+        590003
+      ],
+      [
+        4,
+        590004
+      ],
+      [
+        5,
+        590005
+      ]
+    ],
+    "HandBagNum": 12,
+    "CauldronCapacity": 10,
+    "SecondsInGameDay": 6000,
+    "DrugMainRatio": 2,
+    "DrugSurplusProductRatio": 3,
+    "Test": [],
+    "RoleLevelBase": 100,
+    "RoleLevelRatio": 2.5,
+    "InitItems": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        20
+      ],
+      [
+        3,
+        40
+      ],
+      [
+        4,
+        80
+      ]
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "Id": 1,
+    "Name": "普通攻击",
+    "SkillId": 1,
+    "Level": 1,
+    "Cooldown": 0,
+    "CostType": 0,
+    "CostValue": 0,
+    "LevelUpConsume": []
+  },
+  {
+    "Id": 2,
+    "Name": "强化攻击",
+    "SkillId": 1,
+    "Level": 2,
+    "Cooldown": 0,
+    "CostType": 0,
+    "CostValue": 0,
+    "LevelUpConsume": []
+  },
+  {
+    "Id": 3,
+    "Name": "",
+    "SkillId": 1,
+    "Level": 3,
+    "Cooldown": 0,
+    "CostType": 0,
+    "CostValue": 0,
+    "LevelUpConsume": []
+  },
+  {
+    "Id": 4,
+    "Name": "",
+    "SkillId": 1,
+    "Level": 4,
+    "Cooldown": 0,
+    "CostType": 0,
+    "CostValue": 0,
+    "LevelUpConsume": []
+  },
+  {
+    "Id": 5,
+    "Name": "",
+    "SkillId": 1,
+    "Level": 5,
+    "Cooldown": 0,
+    "CostType": 0,
+    "CostValue": 0,
+    "LevelUpConsume": []
+  },
+  {
+    "Id": 6,
+    "Name": "",
+    "SkillId": 1,
+    "Level": 6,
+    "Cooldown": 0,
+    "CostType": 0,
+    "CostValue": 0,
+    "LevelUpConsume": []
+  },
+  {
+    "Id": 7,
+    "Name": "",
+    "SkillId": 0,
+    "Level": 0,
+    "Cooldown": 0,
+    "CostType": 0,
+    "CostValue": 0,
+    "LevelUpConsume": []
+  },
+  {
+    "Id": 8,
+    "Name": "",
+    "SkillId": 0,
+    "Level": 0,
+    "Cooldown": 0,
+    "CostType": 0,
+    "CostValue": 0,
+    "LevelUpConsume": []
+  },
+  {
+    "Id": 9,
+    "Name": "",
+    "SkillId": 0,
+    "Level": 0,
+    "Cooldown": 0,
+    "CostType": 0,
+    "CostValue": 0,
+    "LevelUpConsume": []
+  },
+  {
+    "Id": 10,
+    "Name": "",
+    "SkillId": 0,
+    "Level": 0,
+    "Cooldown": 0,
+    "CostType": 0,
+    "CostValue": 0,
+    "LevelUpConsume": []
+  },
+  {
+    "Id": 11,
+    "Name": "",
+    "SkillId": 0,
+    "Level": 0,
+    "Cooldown": 0,
+    "CostType": 0,
+    "CostValue": 0,
+    "LevelUpConsume": []
+  },
+  {
+    "Id": 12,
+    "Name": "",
+    "SkillId": 0,
+    "Level": 0,
+    "Cooldown": 0,
+    "CostType": 0,
+    "CostValue": 0,
+    "LevelUpConsume": []
+  },
+  {
+    "Id": 13,
+    "Name": "",
+    "SkillId": 0,
+    "Level": 0,
+    "Cooldown": 0,
+    "CostType": 0,
+    "CostValue": 0,
+    "LevelUpConsume": []
+  },
+  {
+    "Id": 14,
+    "Name": "",
+    "SkillId": 0,
+    "Level": 0,
+    "Cooldown": 0,
+    "CostType": 0,
+    "CostValue": 0,
+    "LevelUpConsume": []
+  },
+  {
+    "Id": 15,
+    "Name": "",
+    "SkillId": 0,
+    "Level": 0,
+    "Cooldown": 0,
+    "CostType": 0,
+    "CostValue": 0,
+    "LevelUpConsume": []
+  },
+  {
+    "Id": 16,
+    "Name": "",
+    "SkillId": 0,
+    "Level": 0,
+    "Cooldown": 0,
+    "CostType": 0,
+    "CostValue": 0,
+    "LevelUpConsume": []
+  },
+  {
+    "Id": 17,
+    "Name": "",
+    "SkillId": 0,
+    "Level": 0,
+    "Cooldown": 0,
+    "CostType": 0,
+    "CostValue": 0,
+    "LevelUpConsume": []
+  }
+]

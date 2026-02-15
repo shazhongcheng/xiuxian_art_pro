@@ -1,0 +1,386 @@
+[
+  {
+    "Id": 10011,
+    "Name": "Action_10011",
+    "Desc": "ActionDes_10011",
+    "ActionType": 3,
+    "CheckParam": 2,
+    "Conditons": [],
+    "DamageCoefficient": 0,
+    "Params": [
+      [
+        1
+      ]
+    ],
+    "Result": [
+      100111
+    ]
+  },
+  {
+    "Id": 10012,
+    "Name": "Action_10012",
+    "Desc": "ActionDes_10012",
+    "ActionType": 3,
+    "CheckParam": 2,
+    "Conditons": [],
+    "DamageCoefficient": 0,
+    "Params": [
+      [
+        1
+      ]
+    ],
+    "Result": [
+      100121
+    ]
+  },
+  {
+    "Id": 20011,
+    "Name": "Action_20011",
+    "Desc": "ActionDes_20011",
+    "ActionType": 3,
+    "CheckParam": 2,
+    "Conditons": [],
+    "DamageCoefficient": 0,
+    "Params": [
+      [
+        100,
+        100,
+        200
+      ]
+    ],
+    "Result": [
+      200111,
+      200112,
+      200113
+    ]
+  },
+  {
+    "Id": 20012,
+    "Name": "Action_20012",
+    "Desc": "ActionDes_20012",
+    "ActionType": 1,
+    "CheckParam": 1,
+    "Conditons": [],
+    "DamageCoefficient": 0,
+    "Params": [],
+    "Result": [
+      200121
+    ]
+  },
+  {
+    "Id": 200111,
+    "Name": "Action_200111",
+    "Desc": "ActionDes_200111",
+    "ActionType": 1,
+    "CheckParam": 1,
+    "Conditons": [
+      [
+        10002,
+        60
+      ]
+    ],
+    "DamageCoefficient": 12000,
+    "Params": [],
+    "Result": [
+      2001111,
+      2001112
+    ]
+  },
+  {
+    "Id": 200112,
+    "Name": "Action_200112",
+    "Desc": "ActionDes_200112",
+    "ActionType": 1,
+    "CheckParam": 1,
+    "Conditons": [],
+    "DamageCoefficient": 0,
+    "Params": [],
+    "Result": [
+      2001121
+    ]
+  },
+  {
+    "Id": 20021,
+    "Name": "Action_20021",
+    "Desc": "ActionDes_20021",
+    "ActionType": 1,
+    "CheckParam": 1,
+    "Conditons": [
+      [
+        10002,
+        45
+      ]
+    ],
+    "DamageCoefficient": 12000,
+    "Params": [],
+    "Result": [
+      200211,
+      200212
+    ]
+  },
+  {
+    "Id": 20022,
+    "Name": "Action_20022",
+    "Desc": "ActionDes_20022",
+    "ActionType": 1,
+    "CheckParam": 1,
+    "Conditons": [
+      [
+        10004,
+        15
+      ]
+    ],
+    "DamageCoefficient": 12000,
+    "Params": [],
+    "Result": [
+      200221,
+      200222
+    ]
+  },
+  {
+    "Id": 200211,
+    "Name": "Action_200211",
+    "Desc": "ActionDes_200211",
+    "ActionType": 3,
+    "CheckParam": 2,
+    "Conditons": [],
+    "DamageCoefficient": 0,
+    "Params": [
+      [
+        1
+      ]
+    ],
+    "Result": [
+      2002111
+    ]
+  },
+  {
+    "Id": 200212,
+    "Name": "Action_200212",
+    "Desc": "ActionDes_200212",
+    "ActionType": 3,
+    "CheckParam": 2,
+    "Conditons": [],
+    "DamageCoefficient": 0,
+    "Params": [
+      [
+        1
+      ]
+    ],
+    "Result": [
+      2002121
+    ]
+  },
+  {
+    "Id": 200221,
+    "Name": "Action_200221",
+    "Desc": "ActionDes_200221",
+    "ActionType": 1,
+    "CheckParam": 1,
+    "Conditons": [
+      [
+        10002,
+        60
+      ]
+    ],
+    "DamageCoefficient": 12000,
+    "Params": [],
+    "Result": [
+      2002211,
+      2002212
+    ]
+  },
+  {
+    "Id": 200222,
+    "Name": "Action_200222",
+    "Desc": "ActionDes_200222",
+    "ActionType": 1,
+    "CheckParam": 1,
+    "Conditons": [
+      [
+        10004,
+        25
+      ]
+    ],
+    "DamageCoefficient": 12000,
+    "Params": [],
+    "Result": [
+      2002221,
+      2002222
+    ]
+  },
+  {
+    "Id": 200231,
+    "Name": "Action_200231",
+    "Desc": "ActionDes_200231",
+    "ActionType": 3,
+    "CheckParam": 2,
+    "Conditons": [],
+    "DamageCoefficient": 0,
+    "Params": [
+      [
+        1
+      ]
+    ],
+    "Result": [
+      2002311
+    ]
+  },
+  {
+    "Id": 200232,
+    "Name": "Action_200232",
+    "Desc": "ActionDes_200232",
+    "ActionType": 3,
+    "CheckParam": 2,
+    "Conditons": [],
+    "DamageCoefficient": 0,
+    "Params": [
+      [
+        1
+      ]
+    ],
+    "Result": [
+      2002321
+    ]
+  },
+  {
+    "Id": 200241,
+    "Name": "Action_200241",
+    "Desc": "ActionDes_200241",
+    "ActionType": 1,
+    "CheckParam": 1,
+    "Conditons": [
+      [
+        10002,
+        75
+      ]
+    ],
+    "DamageCoefficient": 12000,
+    "Params": [],
+    "Result": [
+      2002411,
+      2002412
+    ]
+  },
+  {
+    "Id": 200242,
+    "Name": "Action_200242",
+    "Desc": "ActionDes_200242",
+    "ActionType": 1,
+    "CheckParam": 1,
+    "Conditons": [
+      [
+        10003,
+        45
+      ]
+    ],
+    "DamageCoefficient": 12000,
+    "Params": [],
+    "Result": [
+      2002421,
+      2002422
+    ]
+  },
+  {
+    "Id": 20031,
+    "Name": "Action_20031",
+    "Desc": "ActionDes_20031",
+    "ActionType": 1,
+    "CheckParam": 1,
+    "Conditons": [
+      [
+        10002,
+        55
+      ]
+    ],
+    "DamageCoefficient": 0,
+    "Params": [],
+    "Result": [
+      200311,
+      200312
+    ]
+  },
+  {
+    "Id": 20032,
+    "Name": "Action_20032",
+    "Desc": "ActionDes_20032",
+    "ActionType": 3,
+    "CheckParam": 2,
+    "Conditons": [],
+    "DamageCoefficient": 0,
+    "Params": [
+      [
+        250,
+        1000
+      ]
+    ],
+    "Result": [
+      200321,
+      200322
+    ]
+  },
+  {
+    "Id": 20033,
+    "Name": "Action_20033",
+    "Desc": "ActionDes_20033",
+    "ActionType": 1,
+    "CheckParam": 1,
+    "Conditons": [],
+    "DamageCoefficient": 0,
+    "Params": [],
+    "Result": [
+      200331
+    ]
+  },
+  {
+    "Id": 20041,
+    "Name": "Action_20041",
+    "Desc": "ActionDes_20041",
+    "ActionType": 1,
+    "CheckParam": 1,
+    "Conditons": [
+      [
+        10003,
+        40
+      ]
+    ],
+    "DamageCoefficient": 0,
+    "Params": [],
+    "Result": [
+      200411,
+      200412
+    ]
+  },
+  {
+    "Id": 20042,
+    "Name": "Action_20042",
+    "Desc": "ActionDes_20042",
+    "ActionType": 3,
+    "CheckParam": 2,
+    "Conditons": [],
+    "DamageCoefficient": 0,
+    "Params": [
+      [
+        100,
+        100
+      ]
+    ],
+    "Result": [
+      200421,
+      200422
+    ]
+  },
+  {
+    "Id": 20043,
+    "Name": "Action_20043",
+    "Desc": "ActionDes_20043",
+    "ActionType": 1,
+    "CheckParam": 1,
+    "Conditons": [],
+    "DamageCoefficient": 0,
+    "Params": [],
+    "Result": [
+      200431
+    ]
+  }
+]

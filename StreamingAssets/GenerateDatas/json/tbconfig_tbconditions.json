@@ -1,0 +1,277 @@
+[
+  {
+    "Id": 100,
+    "Name": "Condition_100",
+    "Des": "",
+    "PreOrConditions": [],
+    "PreConditions": [],
+    "Condition": 100,
+    "ConditionParams": [],
+    "AddType": 1,
+    "DataType": 1,
+    "RefreshType": 0,
+    "RefreshTimeType": 0,
+    "MaxValue": 0
+  },
+  {
+    "Id": 101,
+    "Name": "Condition_101",
+    "Des": "",
+    "PreOrConditions": [],
+    "PreConditions": [],
+    "Condition": 101,
+    "ConditionParams": [],
+    "AddType": 1,
+    "DataType": 1,
+    "RefreshType": 0,
+    "RefreshTimeType": 0,
+    "MaxValue": 0
+  },
+  {
+    "Id": 102,
+    "Name": "Condition_102",
+    "Des": "",
+    "PreOrConditions": [],
+    "PreConditions": [],
+    "Condition": 102,
+    "ConditionParams": [],
+    "AddType": 1,
+    "DataType": 1,
+    "RefreshType": 0,
+    "RefreshTimeType": 0,
+    "MaxValue": 0
+  },
+  {
+    "Id": 103,
+    "Name": "",
+    "Des": "",
+    "PreOrConditions": [],
+    "PreConditions": [],
+    "Condition": 103,
+    "ConditionParams": [],
+    "AddType": 1,
+    "DataType": 1,
+    "RefreshType": 0,
+    "RefreshTimeType": 0,
+    "MaxValue": 0
+  },
+  {
+    "Id": 104,
+    "Name": "",
+    "Des": "",
+    "PreOrConditions": [],
+    "PreConditions": [],
+    "Condition": 104,
+    "ConditionParams": [],
+    "AddType": 1,
+    "DataType": 1,
+    "RefreshType": 0,
+    "RefreshTimeType": 0,
+    "MaxValue": 0
+  },
+  {
+    "Id": 10001,
+    "Name": "Condition_10001",
+    "Des": "",
+    "PreOrConditions": [],
+    "PreConditions": [],
+    "Condition": 100,
+    "ConditionParams": [
+      [
+        301
+      ]
+    ],
+    "AddType": 1,
+    "DataType": 1,
+    "RefreshType": 0,
+    "RefreshTimeType": 0,
+    "MaxValue": 0
+  },
+  {
+    "Id": 10002,
+    "Name": "Condition_10002",
+    "Des": "",
+    "PreOrConditions": [],
+    "PreConditions": [],
+    "Condition": 100,
+    "ConditionParams": [
+      [
+        302
+      ]
+    ],
+    "AddType": 1,
+    "DataType": 1,
+    "RefreshType": 0,
+    "RefreshTimeType": 0,
+    "MaxValue": 0
+  },
+  {
+    "Id": 10003,
+    "Name": "Condition_10003",
+    "Des": "",
+    "PreOrConditions": [],
+    "PreConditions": [],
+    "Condition": 100,
+    "ConditionParams": [
+      [
+        303
+      ]
+    ],
+    "AddType": 1,
+    "DataType": 1,
+    "RefreshType": 0,
+    "RefreshTimeType": 0,
+    "MaxValue": 0
+  },
+  {
+    "Id": 10004,
+    "Name": "Condition_10004",
+    "Des": "",
+    "PreOrConditions": [],
+    "PreConditions": [],
+    "Condition": 100,
+    "ConditionParams": [
+      [
+        304
+      ]
+    ],
+    "AddType": 1,
+    "DataType": 1,
+    "RefreshType": 0,
+    "RefreshTimeType": 0,
+    "MaxValue": 0
+  },
+  {
+    "Id": 20001,
+    "Name": "Condition_20001",
+    "Des": "",
+    "PreOrConditions": [],
+    "PreConditions": [],
+    "Condition": 103,
+    "ConditionParams": [
+      [
+        1,
+        104
+      ]
+    ],
+    "AddType": 1,
+    "DataType": 1,
+    "RefreshType": 0,
+    "RefreshTimeType": 0,
+    "MaxValue": 0
+  },
+  {
+    "Id": 30001,
+    "Name": "Condition_30001",
+    "Des": "",
+    "PreOrConditions": [],
+    "PreConditions": [],
+    "Condition": 103,
+    "ConditionParams": [
+      [
+        1,
+        200
+      ]
+    ],
+    "AddType": 1,
+    "DataType": 1,
+    "RefreshType": 0,
+    "RefreshTimeType": 0,
+    "MaxValue": 0
+  },
+  {
+    "Id": 30002,
+    "Name": "Condition_30002",
+    "Des": "",
+    "PreOrConditions": [],
+    "PreConditions": [],
+    "Condition": 103,
+    "ConditionParams": [
+      [
+        2,
+        200
+      ]
+    ],
+    "AddType": 1,
+    "DataType": 1,
+    "RefreshType": 0,
+    "RefreshTimeType": 0,
+    "MaxValue": 0
+  },
+  {
+    "Id": 30003,
+    "Name": "Condition_30003",
+    "Des": "",
+    "PreOrConditions": [],
+    "PreConditions": [],
+    "Condition": 103,
+    "ConditionParams": [
+      [
+        3,
+        200
+      ]
+    ],
+    "AddType": 1,
+    "DataType": 1,
+    "RefreshType": 0,
+    "RefreshTimeType": 0,
+    "MaxValue": 0
+  },
+  {
+    "Id": 30004,
+    "Name": "Condition_30004",
+    "Des": "",
+    "PreOrConditions": [],
+    "PreConditions": [],
+    "Condition": 103,
+    "ConditionParams": [
+      [
+        4,
+        200
+      ]
+    ],
+    "AddType": 1,
+    "DataType": 1,
+    "RefreshType": 0,
+    "RefreshTimeType": 0,
+    "MaxValue": 0
+  },
+  {
+    "Id": 30005,
+    "Name": "Condition_30005",
+    "Des": "",
+    "PreOrConditions": [],
+    "PreConditions": [],
+    "Condition": 103,
+    "ConditionParams": [
+      [
+        5,
+        200
+      ]
+    ],
+    "AddType": 1,
+    "DataType": 1,
+    "RefreshType": 0,
+    "RefreshTimeType": 0,
+    "MaxValue": 0
+  },
+  {
+    "Id": 30006,
+    "Name": "Condition_30006",
+    "Des": "",
+    "PreOrConditions": [],
+    "PreConditions": [],
+    "Condition": 103,
+    "ConditionParams": [
+      [
+        0,
+        200
+      ]
+    ],
+    "AddType": 1,
+    "DataType": 1,
+    "RefreshType": 0,
+    "RefreshTimeType": 0,
+    "MaxValue": 0
+  }
+]
