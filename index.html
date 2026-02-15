@@ -77,9 +77,11 @@
       var buildUrl = "Build";
       var loaderUrl = buildUrl + "/webgl.loader.js";
       var config = {
-        dataUrl: buildUrl + "/webgl.data.gz",
-        frameworkUrl: buildUrl + "/webgl.framework.js.gz",
-        codeUrl: buildUrl + "/webgl.wasm.gz",
+        // ===== 这里改为 .br 后缀 =====
+        dataUrl: buildUrl + "/webgl.data.br",
+        frameworkUrl: buildUrl + "/webgl.framework.js.br",
+        codeUrl: buildUrl + "/webgl.wasm.br",
+        // ===========================
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "Project",
@@ -88,9 +90,7 @@
         devicePixelRatio: window.devicePixelRatio || 1, 
       };
 
-      // 核心控制逻辑：用户点击后才执行
       function startLoading() {
-        // 隐藏遮罩，显示容器和加载条
         startMask.style.display = "none";
         container.style.display = "block";
         loadingBar.style.display = "block";
@@ -103,7 +103,6 @@
           }).then((unityInstance) => {
             loadingBar.style.display = "none";
             
-            // 额外保险：用户点击时强制恢复 AudioContext
             const audioHandler = () => {
               if (unityInstance.Module.asmLibraryArg && unityInstance.Module.asmLibraryArg._JS_Sound_Resume) {
                 unityInstance.Module.asmLibraryArg._JS_Sound_Resume();
@@ -119,7 +118,6 @@
         document.body.appendChild(script);
       }
 
-      // 移动端适配
       if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
         var meta = document.createElement('meta');
         meta.name = 'viewport';
